@@ -1,0 +1,48 @@
+# Power BI Power Query M Script for HR Analytics Data
+
+# Data Source Configuration
+let
+    Source = Csv.Document(File.Contents("C:\path\to\hr_analytics_data.csv"),[Delimiter=",", Columns=20, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{
+        {"employee_id", Int64.Type}, 
+        {"first_name", type text}, 
+        {"last_name", type text}, 
+        {"age", Int64.Type}, 
+        {"gender", type text}, 
+        {"department", type text}, 
+        {"job_title", type text}, 
+        {"education", type text}, 
+        {"experience_years", Int64.Type}, 
+        {"salary", Int64.Type}, 
+        {"attrition", type text}, 
+        {"attrition_date", type text}, 
+        {"hire_date", type text}, 
+        {"technical_background", type text}, 
+        {"performance_rating", Int64.Type}, 
+        {"work_life_balance", Int64.Type}, 
+        {"overtime", type text}, 
+        {"travel_frequently", type text}, 
+        {"training_times_last_year", Int64.Type}
+    }),
+    
+    #"Added Attrition Flag" = Table.AddColumn(#"Changed Type", "Attrition_Flag", each if [attrition] = "Yes" then 1 else 0),
+    #"Added Salary Category" = Table.AddColumn(#"Added Attrition Flag", "Salary_Category", each 
+        if [salary] < 60000 then "Under 60K"
+        else if [salary] < 80000 then "60K-80K" 
+        else if [salary] < 100000 then "80K-100K"
+        else if [salary] < 120000 then "100K-120K"
+        else "Over 120K"),
+    
+    #"Added Age Group" = Table.AddColumn(#"Added Salary Category", "Age_Group", each 
+        if [age] < 30 then "Under 30"
+        else if [age] < 40 then "30-39"
+        else if [age] < 50 then "40-49"
+        else "50+"),
+        
+    #"Added Experience Group" = Table.AddColumn(#"Added Age Group", "Experience_Group", each 
+        if [experience_years] < 5 then "Junior (0-4 years)"
+        else if [experience_years] < 10 then "Mid-level (5-9 years)"
+        else "Senior (10+ years)")
+in
+    #"Added Experience Group"

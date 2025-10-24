@@ -1,0 +1,108 @@
+# Power BI DAX Measures for HR Analytics Dashboard
+
+## Key Performance Indicators
+
+# Total Employees
+Total Employees = COUNTROWS(hr_analytics_data)
+
+# Attrition Rate
+Attrition Rate = 
+DIVIDE(
+    CALCULATE(COUNTROWS(hr_analytics_data), hr_analytics_data[attrition] = "Yes"),
+    COUNTROWS(hr_analytics_data),
+    0
+) * 100
+
+# Average Age
+Average Age = AVERAGE(hr_analytics_data[age])
+
+# Average Salary
+Average Salary = AVERAGE(hr_analytics_data[salary])
+
+# Employees Who Left
+Employees Left = CALCULATE(COUNTROWS(hr_analytics_data), hr_analytics_data[attrition] = "Yes")
+
+# Employees Retained
+Employees Retained = CALCULATE(COUNTROWS(hr_analytics_data), hr_analytics_data[attrition] = "No")
+
+## Department Analysis
+
+# Attrition Rate by Department
+Dept Attrition Rate = 
+DIVIDE(
+    CALCULATE(COUNTROWS(hr_analytics_data), hr_analytics_data[attrition] = "Yes"),
+    COUNTROWS(hr_analytics_data),
+    0
+) * 100
+
+# Department Employee Count
+Dept Employee Count = COUNTROWS(hr_analytics_data)
+
+## Gender Analysis
+
+# Female Attrition Rate
+Female Attrition Rate = 
+DIVIDE(
+    CALCULATE(COUNTROWS(hr_analytics_data), 
+        hr_analytics_data[gender] = "Female",
+        hr_analytics_data[attrition] = "Yes"
+    ),
+    CALCULATE(COUNTROWS(hr_analytics_data), hr_analytics_data[gender] = "Female"),
+    0
+) * 100
+
+# Male Attrition Rate
+Male Attrition Rate = 
+DIVIDE(
+    CALCULATE(COUNTROWS(hr_analytics_data), 
+        hr_analytics_data[gender] = "Male",
+        hr_analytics_data[attrition] = "Yes"
+    ),
+    CALCULATE(COUNTROWS(hr_analytics_data), hr_analytics_data[gender] = "Male"),
+    0
+) * 100
+
+## Technical Background Analysis
+
+# Technical Background Attrition Rate
+Technical Attrition Rate = 
+DIVIDE(
+    CALCULATE(COUNTROWS(hr_analytics_data), 
+        hr_analytics_data[technical_background] = "Yes",
+        hr_analytics_data[attrition] = "Yes"
+    ),
+    CALCULATE(COUNTROWS(hr_analytics_data), hr_analytics_data[technical_background] = "Yes"),
+    0
+) * 100
+
+# Non-Technical Attrition Rate
+Non-Technical Attrition Rate = 
+DIVIDE(
+    CALCULATE(COUNTROWS(hr_analytics_data), 
+        hr_analytics_data[technical_background] = "No",
+        hr_analytics_data[attrition] = "Yes"
+    ),
+    CALCULATE(COUNTROWS(hr_analytics_data), hr_analytics_data[technical_background] = "No"),
+    0
+) * 100
+
+## Performance Metrics
+
+# Average Performance Rating
+Avg Performance Rating = AVERAGE(hr_analytics_data[performance_rating])
+
+# Average Work-Life Balance
+Avg Work Life Balance = AVERAGE(hr_analytics_data[work_life_balance])
+
+# Average Training Hours
+Avg Training Hours = AVERAGE(hr_analytics_data[training_times_last_year])
+
+## Salary Analysis
+
+# Median Salary
+Median Salary = MEDIAN(hr_analytics_data[salary])
+
+# Salary Range Analysis
+High Salary Count = CALCULATE(COUNTROWS(hr_analytics_data), hr_analytics_data[salary] > 100000)
+
+Low Salary Count = CALCULATE(COUNTROWS(hr_analytics_data), hr_analytics_data[salary] < 60000)

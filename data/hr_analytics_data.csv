@@ -1,0 +1,1401 @@
+employee_id,first_name,last_name,age,gender,department,job_title,education,experience_years,salary,attrition,attrition_date,hire_date,technical_background,performance_rating,work_life_balance,overtime,travel_frequently,training_times_last_year
+1,Employee1,LastName1,23,Male,Marketing,Marketing Specialist,PhD,9,142080,No,,2015-06-30,No,5,1,No,Yes,0
+2,Employee2,LastName2,36,Male,HR,Training Specialist,Master,17,73893,Yes,2024-09-12,2023-07-03,No,4,5,No,Yes,2
+3,Employee3,LastName3,43,Female,Marketing,Brand Manager,Bachelor,9,57156,No,,2013-06-27,No,4,1,No,No,9
+4,Employee4,LastName4,51,Male,R&D,Senior Engineer,PhD,18,83427,No,,2012-10-19,No,5,3,Yes,Yes,0
+5,Employee5,LastName5,40,Male,Marketing,Digital Marketing Specialist,Master,3,104429,No,,2015-03-23,No,3,2,No,No,3
+6,Employee6,LastName6,65,Female,Marketing,Product Manager,PhD,3,77087,No,,2023-08-31,No,2,4,No,No,10
+7,Employee7,LastName7,65,Male,Marketing,Marketing Specialist,Master,11,97581,No,,2011-04-04,No,3,1,Yes,No,3
+8,Employee8,LastName8,47,Female,Marketing,Content Manager,PhD,15,118579,No,,2013-03-16,No,5,3,No,No,5
+9,Employee9,LastName9,54,Male,IT,Data Analyst,PhD,16,65969,No,,2012-01-15,Yes,4,5,Yes,No,6
+10,Employee10,LastName10,55,Female,Sales,Sales Manager,PhD,9,139466,No,,2022-05-30,No,1,5,No,No,1
+11,Employee11,LastName11,32,Female,R&D,Research Manager,Bachelor,15,111542,No,,2010-01-27,No,1,3,Yes,Yes,5
+12,Employee12,LastName12,56,Male,Operations,Logistics Manager,Bachelor,17,59662,No,,2010-01-05,No,3,3,Yes,Yes,3
+13,Employee13,LastName13,27,Male,Sales,Sales Representative,Bachelor,16,131474,No,,2011-07-21,No,4,5,Yes,No,8
+14,Employee14,LastName14,35,Female,Operations,Logistics Manager,PhD,18,130180,No,,2014-07-06,No,3,4,No,Yes,3
+15,Employee15,LastName15,43,Male,IT,Software Engineer,Bachelor,1,137778,No,,2023-03-13,Yes,1,2,Yes,Yes,5
+16,Employee16,LastName16,39,Male,HR,Training Specialist,PhD,16,106953,No,,2014-10-22,No,2,4,No,Yes,1
+17,Employee17,LastName17,44,Female,HR,HR Manager,PhD,14,130649,No,,2019-03-22,No,1,1,No,No,1
+18,Employee18,LastName18,34,Male,IT,Full Stack Developer,Bachelor,18,54880,Yes,2021-03-04,2020-01-24,No,4,5,Yes,Yes,10
+19,Employee19,LastName19,27,Male,Sales,Account Manager,Bachelor,8,97565,No,,2013-09-24,No,1,2,No,Yes,6
+20,Employee20,LastName20,40,Female,R&D,Principal Engineer,Bachelor,14,83890,No,,2022-06-19,No,2,1,Yes,No,0
+21,Employee21,LastName21,54,Female,HR,HR Manager,Bachelor,17,53981,Yes,2016-06-17,2013-07-13,No,5,1,Yes,No,1
+22,Employee22,LastName22,59,Male,Sales,Account Manager,PhD,20,121503,No,,2010-11-22,No,5,5,No,No,3
+23,Employee23,LastName23,37,Female,Marketing,Brand Manager,Master,9,86441,Yes,2022-07-30,2018-11-17,No,1,1,No,Yes,1
+24,Employee24,LastName24,54,Male,Sales,Sales Manager,Bachelor,9,93434,No,,2012-12-21,No,3,2,No,No,9
+25,Employee25,LastName25,64,Male,Operations,Operations Manager,Bachelor,18,79664,No,,2016-09-18,No,1,1,Yes,No,4
+26,Employee26,LastName26,43,Male,Sales,Sales Director,Bachelor,7,57097,No,,2015-12-03,No,4,3,Yes,Yes,5
+27,Employee27,LastName27,62,Male,Operations,Logistics Manager,PhD,9,46267,No,,2013-08-16,No,1,1,Yes,Yes,5
+28,Employee28,LastName28,49,Male,Sales,Sales Manager,Master,5,72535,No,,2010-12-09,No,2,1,No,No,9
+29,Employee29,LastName29,37,Male,Marketing,Marketing Specialist,Bachelor,6,141542,No,,2013-12-21,No,3,4,Yes,No,2
+30,Employee30,LastName30,46,Male,Operations,Logistics Manager,Master,2,85001,No,,2020-07-22,No,2,2,Yes,Yes,6
+31,Employee31,LastName31,26,Female,R&D,Research Manager,Master,9,48617,No,,2017-11-16,No,1,3,Yes,No,0
+32,Employee32,LastName32,44,Female,HR,Training Specialist,Bachelor,11,95488,No,,2019-10-15,No,5,2,No,Yes,6
+33,Employee33,LastName33,45,Male,HR,HR Coordinator,PhD,14,86145,No,,2011-07-28,No,1,3,No,No,5
+34,Employee34,LastName34,57,Female,Finance,Senior Analyst,PhD,5,143059,No,,2014-04-21,No,2,5,No,No,8
+35,Employee35,LastName35,41,Male,Operations,Production Manager,Master,10,102905,No,,2014-09-18,No,4,2,No,Yes,10
+36,Employee36,LastName36,54,Female,HR,HR Specialist,PhD,20,85687,Yes,2022-12-08,2017-07-08,No,2,2,Yes,Yes,0
+37,Employee37,LastName37,61,Female,IT,Backend Developer,PhD,3,95328,No,,2020-03-19,Yes,4,4,Yes,Yes,10
+38,Employee38,LastName38,28,Male,Marketing,Product Manager,Master,14,51582,No,,2014-11-28,No,5,2,Yes,No,2
+39,Employee39,LastName39,64,Female,Operations,Logistics Manager,PhD,17,139276,No,,2022-07-15,No,5,4,No,Yes,7
+40,Employee40,LastName40,37,Female,Finance,Accountant,Master,9,102654,No,,2021-09-10,No,1,3,Yes,No,5
+41,Employee41,LastName41,30,Male,R&D,Senior Engineer,Master,5,98424,Yes,2016-02-15,2015-03-10,Yes,3,5,No,No,0
+42,Employee42,LastName42,46,Female,IT,Full Stack Developer,Bachelor,19,91105,No,,2010-06-10,No,3,4,No,Yes,7
+43,Employee43,LastName43,49,Female,IT,Backend Developer,Bachelor,16,106261,No,,2010-08-26,No,2,5,Yes,No,9
+44,Employee44,LastName44,27,Male,Sales,Sales Representative,Bachelor,14,79099,No,,2013-01-16,No,4,3,Yes,No,5
+45,Employee45,LastName45,39,Female,R&D,Research Scientist,PhD,14,115702,No,,2015-08-29,No,1,3,Yes,Yes,10
+46,Employee46,LastName46,37,Male,HR,HR Specialist,Bachelor,7,107070,No,,2010-06-16,No,1,5,Yes,No,4
+47,Employee47,LastName47,32,Female,Operations,Operations Manager,Bachelor,20,85768,No,,2023-08-15,No,1,5,Yes,No,9
+48,Employee48,LastName48,47,Female,Marketing,Content Manager,Bachelor,7,136382,No,,2011-09-15,No,3,5,Yes,Yes,5
+49,Employee49,LastName49,64,Female,Sales,Sales Director,Bachelor,12,100057,No,,2011-07-19,No,4,1,No,No,10
+50,Employee50,LastName50,31,Female,Operations,Production Manager,PhD,14,115539,No,,2013-12-13,No,4,4,No,No,5
+51,Employee51,LastName51,27,Male,Operations,Logistics Manager,PhD,9,124997,No,,2020-02-10,No,4,3,Yes,No,5
+52,Employee52,LastName52,35,Female,IT,QA Engineer,Bachelor,12,112715,No,,2015-10-18,No,2,1,Yes,No,7
+53,Employee53,LastName53,52,Male,Sales,Sales Manager,Master,16,74045,No,,2020-01-20,No,4,2,No,No,7
+54,Employee54,LastName54,49,Female,Sales,Account Manager,Master,18,85189,No,,2017-06-02,No,3,2,Yes,Yes,5
+55,Employee55,LastName55,34,Male,HR,Training Specialist,PhD,7,123222,No,,2020-11-10,No,3,1,Yes,No,3
+56,Employee56,LastName56,41,Male,R&D,Research Manager,Master,1,136411,Yes,2022-04-26,2021-12-24,Yes,2,4,Yes,Yes,9
+57,Employee57,LastName57,52,Female,R&D,Principal Scientist,Bachelor,15,53564,Yes,2018-01-05,2017-08-23,No,4,4,Yes,Yes,2
+58,Employee58,LastName58,27,Female,IT,QA Engineer,PhD,8,148643,No,,2012-08-28,No,5,2,No,No,7
+59,Employee59,LastName59,41,Female,R&D,Research Director,PhD,19,72659,No,,2011-05-09,Yes,3,1,Yes,Yes,2
+60,Employee60,LastName60,32,Male,Sales,Account Manager,Master,1,49278,No,,2019-03-01,No,2,3,No,No,1
+61,Employee61,LastName61,38,Male,Marketing,Product Manager,Bachelor,19,129886,No,,2014-06-09,No,2,3,Yes,Yes,0
+62,Employee62,LastName62,60,Female,IT,Backend Developer,Master,19,136715,No,,2016-06-22,No,4,3,No,No,1
+63,Employee63,LastName63,49,Male,Sales,Sales Manager,Bachelor,11,133381,No,,2023-07-17,No,5,5,Yes,No,9
+64,Employee64,LastName64,52,Male,HR,HR Specialist,PhD,17,102132,No,,2019-12-02,No,4,1,No,No,6
+65,Employee65,LastName65,64,Female,R&D,Senior Scientist,PhD,4,97488,Yes,2017-07-30,2013-08-10,No,5,1,No,Yes,5
+66,Employee66,LastName66,29,Female,R&D,Research Manager,Master,13,99165,No,,2021-07-17,Yes,1,2,No,No,10
+67,Employee67,LastName67,35,Male,Finance,Senior Analyst,PhD,9,108532,Yes,2024-01-06,2022-04-27,No,1,1,Yes,Yes,4
+68,Employee68,LastName68,57,Male,Sales,Sales Manager,Master,14,60396,No,,2012-02-03,No,2,4,No,No,6
+69,Employee69,LastName69,52,Female,Operations,Logistics Manager,Bachelor,8,123561,No,,2020-03-30,No,5,2,Yes,No,6
+70,Employee70,LastName70,22,Female,R&D,Principal Engineer,Master,10,115592,No,,2016-09-11,No,4,3,No,No,7
+71,Employee71,LastName71,37,Male,R&D,Research Scientist,Master,19,142609,Yes,2023-01-08,2018-08-04,No,4,4,No,Yes,7
+72,Employee72,LastName72,54,Male,HR,Recruiter,Bachelor,19,113937,No,,2017-06-12,No,4,1,Yes,No,10
+73,Employee73,LastName73,52,Male,IT,Backend Developer,Bachelor,9,88065,No,,2017-08-05,No,5,4,No,No,8
+74,Employee74,LastName74,37,Male,HR,Recruiter,Bachelor,10,144663,No,,2015-02-07,No,1,4,Yes,No,0
+75,Employee75,LastName75,25,Female,HR,HR Specialist,Bachelor,10,114621,No,,2018-01-15,No,4,5,Yes,Yes,2
+76,Employee76,LastName76,61,Female,HR,HR Specialist,Bachelor,8,105443,No,,2021-02-28,No,3,4,No,Yes,7
+77,Employee77,LastName77,26,Male,R&D,Senior Research Scientist,PhD,15,77780,No,,2017-10-01,No,4,3,Yes,No,7
+78,Employee78,LastName78,46,Male,HR,HR Coordinator,Bachelor,19,131275,No,,2018-01-19,No,4,3,Yes,Yes,9
+79,Employee79,LastName79,40,Female,Marketing,Content Manager,PhD,8,69920,No,,2023-08-14,No,5,3,Yes,Yes,10
+80,Employee80,LastName80,41,Male,Marketing,Content Manager,Bachelor,15,83680,No,,2010-10-01,No,3,4,Yes,Yes,2
+81,Employee81,LastName81,55,Female,Operations,Production Manager,Master,17,83684,No,,2016-02-11,No,3,1,No,Yes,2
+82,Employee82,LastName82,65,Male,Operations,Logistics Manager,Bachelor,13,79663,No,,2022-07-02,No,5,1,No,No,10
+83,Employee83,LastName83,59,Female,Marketing,Digital Marketing Specialist,Bachelor,13,126205,Yes,2019-09-22,2018-05-02,No,5,3,Yes,Yes,10
+84,Employee84,LastName84,41,Female,Operations,Operations Manager,Master,14,109569,Yes,2018-01-01,2012-08-13,No,1,1,Yes,Yes,6
+85,Employee85,LastName85,64,Female,Finance,Accountant,Master,18,130841,No,,2019-05-27,No,1,4,No,No,0
+86,Employee86,LastName86,35,Female,Marketing,Brand Manager,Bachelor,15,134873,No,,2019-12-22,No,3,5,No,Yes,6
+87,Employee87,LastName87,29,Male,R&D,Research Scientist,Master,15,76925,No,,2012-01-21,Yes,2,5,Yes,Yes,8
+88,Employee88,LastName88,36,Male,IT,DevOps Engineer,Bachelor,11,62038,No,,2013-04-23,Yes,5,3,Yes,Yes,10
+89,Employee89,LastName89,30,Male,Operations,Supply Chain Manager,PhD,1,87437,No,,2018-01-13,No,1,2,No,Yes,2
+90,Employee90,LastName90,55,Female,Marketing,Brand Manager,PhD,4,122812,No,,2011-06-05,No,1,4,Yes,Yes,10
+91,Employee91,LastName91,51,Female,Sales,Account Manager,Master,1,134928,No,,2011-05-14,No,1,4,No,Yes,1
+92,Employee92,LastName92,26,Male,R&D,Senior Research Scientist,PhD,5,114541,No,,2016-03-02,No,3,4,No,Yes,1
+93,Employee93,LastName93,49,Male,Operations,Logistics Manager,Master,15,99524,No,,2015-02-15,No,1,3,No,No,10
+94,Employee94,LastName94,31,Female,R&D,Senior Research Scientist,Bachelor,16,142594,Yes,2012-01-24,2011-07-04,Yes,3,2,Yes,No,10
+95,Employee95,LastName95,44,Female,HR,Training Specialist,Master,14,91090,No,,2011-02-26,No,1,5,Yes,Yes,10
+96,Employee96,LastName96,28,Male,Finance,Financial Manager,PhD,12,74643,No,,2022-06-23,No,4,5,Yes,No,0
+97,Employee97,LastName97,41,Female,IT,QA Engineer,PhD,11,97531,Yes,2022-10-31,2017-11-15,Yes,1,2,Yes,Yes,8
+98,Employee98,LastName98,48,Female,IT,QA Engineer,PhD,15,56135,Yes,2019-06-23,2017-08-24,No,1,2,Yes,Yes,10
+99,Employee99,LastName99,50,Female,HR,Recruiter,Master,14,73255,No,,2020-11-22,No,5,1,No,No,1
+100,Employee100,LastName100,55,Female,R&D,Research Scientist,Bachelor,10,84507,Yes,2014-06-18,2011-01-08,Yes,2,2,No,No,5
+101,Employee101,LastName101,53,Male,HR,HR Specialist,PhD,14,118233,Yes,2017-01-03,2013-12-10,No,3,1,No,Yes,6
+102,Employee102,LastName102,26,Female,HR,Recruiter,PhD,11,128904,No,,2022-11-30,No,4,3,Yes,No,0
+103,Employee103,LastName103,61,Male,R&D,Research Director,Master,15,122184,Yes,2022-12-07,2018-02-12,Yes,4,5,Yes,No,4
+104,Employee104,LastName104,36,Female,Marketing,Marketing Specialist,PhD,11,111840,Yes,2017-05-27,2013-10-09,No,2,3,No,Yes,3
+105,Employee105,LastName105,38,Male,HR,HR Manager,Bachelor,7,146298,No,,2013-11-22,No,4,4,No,No,10
+106,Employee106,LastName106,50,Male,R&D,Research Scientist,Master,3,111497,Yes,2022-04-19,2020-07-08,No,1,3,No,No,0
+107,Employee107,LastName107,40,Female,HR,Training Specialist,Master,3,105648,No,,2012-01-10,No,5,5,Yes,No,9
+108,Employee108,LastName108,42,Male,Marketing,Marketing Specialist,Master,20,58566,No,,2020-09-01,No,3,1,Yes,Yes,3
+109,Employee109,LastName109,50,Female,Marketing,Brand Manager,Master,17,82079,No,,2021-09-22,No,4,4,No,Yes,10
+110,Employee110,LastName110,26,Female,Marketing,Digital Marketing Specialist,Master,11,78029,No,,2012-02-14,No,5,2,No,Yes,9
+111,Employee111,LastName111,44,Male,Marketing,Marketing Specialist,Master,10,118259,Yes,2022-11-05,2018-10-16,No,4,3,Yes,Yes,10
+112,Employee112,LastName112,54,Female,Marketing,Content Manager,Bachelor,12,89791,No,,2010-05-30,No,4,2,Yes,Yes,2
+113,Employee113,LastName113,28,Female,HR,Training Specialist,Bachelor,17,131760,No,,2022-02-08,No,3,5,Yes,No,2
+114,Employee114,LastName114,61,Male,IT,Full Stack Developer,PhD,6,82346,Yes,2021-12-10,2019-10-26,Yes,4,2,Yes,No,7
+115,Employee115,LastName115,45,Male,Operations,Production Manager,Master,19,110916,No,,2019-11-19,No,5,4,Yes,Yes,9
+116,Employee116,LastName116,25,Female,IT,Backend Developer,PhD,16,61341,No,,2018-04-29,Yes,3,1,Yes,No,7
+117,Employee117,LastName117,49,Male,Sales,Sales Director,Bachelor,3,99381,No,,2014-12-24,No,1,4,No,Yes,6
+118,Employee118,LastName118,36,Female,HR,HR Coordinator,Bachelor,1,63035,No,,2017-02-23,No,1,3,No,Yes,7
+119,Employee119,LastName119,27,Male,Finance,Accountant,PhD,1,140320,No,,2015-09-28,No,5,5,No,Yes,4
+120,Employee120,LastName120,29,Female,IT,Software Engineer,Bachelor,2,110513,No,,2015-05-08,No,5,5,Yes,Yes,2
+121,Employee121,LastName121,22,Female,R&D,Senior Engineer,PhD,20,92265,Yes,2020-05-01,2017-11-30,Yes,1,5,Yes,No,7
+122,Employee122,LastName122,45,Female,HR,HR Manager,Master,9,76604,No,,2010-05-14,No,1,5,No,Yes,0
+123,Employee123,LastName123,63,Female,R&D,Principal Engineer,Bachelor,6,53270,No,,2020-06-03,No,4,1,No,Yes,0
+124,Employee124,LastName124,24,Male,Operations,Logistics Manager,Master,11,49799,No,,2016-12-15,No,2,3,No,Yes,10
+125,Employee125,LastName125,29,Female,R&D,Senior Research Scientist,Master,12,69486,No,,2019-10-20,No,4,4,No,No,1
+126,Employee126,LastName126,27,Female,Marketing,Content Manager,PhD,14,83504,No,,2023-07-07,No,3,1,Yes,No,10
+127,Employee127,LastName127,50,Female,R&D,Principal Scientist,Bachelor,20,140265,Yes,2022-02-16,2019-07-23,No,3,5,No,No,10
+128,Employee128,LastName128,26,Male,Operations,Supply Chain Manager,Bachelor,13,63714,No,,2018-02-24,No,5,4,Yes,Yes,1
+129,Employee129,LastName129,45,Female,IT,DevOps Engineer,Master,13,103188,Yes,2023-08-31,2022-09-21,No,1,5,Yes,No,6
+130,Employee130,LastName130,37,Female,R&D,Research Manager,Master,4,118619,No,,2010-08-01,No,1,3,No,No,3
+131,Employee131,LastName131,53,Female,Sales,Account Manager,Bachelor,7,138502,Yes,2013-03-31,2012-10-01,No,4,1,No,No,1
+132,Employee132,LastName132,41,Female,Sales,Sales Representative,Bachelor,6,71342,No,,2013-11-27,No,2,2,No,Yes,5
+133,Employee133,LastName133,51,Female,Sales,Sales Manager,Bachelor,18,85539,No,,2012-11-29,No,4,4,No,No,9
+134,Employee134,LastName134,42,Male,HR,Training Specialist,Master,3,61821,No,,2020-02-04,No,5,5,Yes,Yes,6
+135,Employee135,LastName135,29,Male,Sales,Sales Representative,Master,17,137973,No,,2013-06-07,No,2,3,No,Yes,4
+136,Employee136,LastName136,30,Female,IT,QA Engineer,PhD,10,65210,Yes,2025-08-22,2021-12-19,Yes,2,5,No,Yes,0
+137,Employee137,LastName137,63,Male,HR,Training Specialist,Master,19,126016,No,,2015-12-09,No,1,4,No,No,7
+138,Employee138,LastName138,41,Female,IT,Full Stack Developer,Master,15,108471,No,,2011-08-21,Yes,4,2,No,Yes,5
+139,Employee139,LastName139,44,Female,Operations,Operations Manager,Master,13,76685,No,,2012-12-07,No,4,1,No,No,3
+140,Employee140,LastName140,25,Male,IT,Data Analyst,Bachelor,10,87917,No,,2018-08-13,No,5,3,Yes,Yes,7
+141,Employee141,LastName141,53,Female,Sales,Account Manager,PhD,10,104930,Yes,2026-07-15,2021-02-26,No,2,2,No,Yes,0
+142,Employee142,LastName142,60,Female,R&D,Senior Research Scientist,Bachelor,16,79664,Yes,2021-03-29,2016-05-29,Yes,3,4,No,Yes,6
+143,Employee143,LastName143,45,Male,HR,Recruiter,PhD,18,81663,Yes,2019-05-20,2016-06-22,No,5,5,Yes,Yes,1
+144,Employee144,LastName144,43,Female,Finance,Accountant,PhD,18,111731,No,,2018-03-15,No,4,5,Yes,Yes,0
+145,Employee145,LastName145,52,Female,IT,DevOps Engineer,PhD,17,86750,Yes,2025-05-04,2020-04-01,Yes,2,4,No,No,8
+146,Employee146,LastName146,58,Female,Operations,Production Manager,Master,10,133317,No,,2020-08-26,No,1,4,No,Yes,9
+147,Employee147,LastName147,63,Female,Finance,Financial Analyst,PhD,19,107973,No,,2022-12-15,No,2,5,No,Yes,10
+148,Employee148,LastName148,58,Male,IT,Data Analyst,Master,4,135505,Yes,2016-02-13,2014-04-12,No,2,4,No,Yes,2
+149,Employee149,LastName149,57,Male,Sales,Sales Director,Bachelor,11,105249,No,,2020-09-23,No,5,3,No,No,9
+150,Employee150,LastName150,37,Male,Finance,Financial Manager,Master,9,137392,No,,2022-07-08,No,2,4,No,No,5
+151,Employee151,LastName151,40,Female,Sales,Account Manager,Master,4,90237,No,,2022-11-11,No,2,3,Yes,No,1
+152,Employee152,LastName152,63,Female,R&D,Research Manager,PhD,9,80601,Yes,2025-06-20,2020-09-29,No,2,1,Yes,Yes,0
+153,Employee153,LastName153,62,Male,Marketing,Digital Marketing Specialist,Bachelor,8,134285,Yes,2013-02-10,2011-03-07,No,2,1,Yes,No,10
+154,Employee154,LastName154,63,Female,Finance,Financial Analyst,Bachelor,7,130498,No,,2016-06-11,No,5,2,Yes,Yes,6
+155,Employee155,LastName155,24,Male,Operations,Production Manager,Bachelor,13,46214,No,,2021-02-10,No,3,5,Yes,No,4
+156,Employee156,LastName156,30,Female,Finance,Financial Analyst,Master,17,66298,No,,2020-07-01,No,4,3,Yes,Yes,5
+157,Employee157,LastName157,58,Female,Operations,Logistics Manager,Master,7,112538,No,,2013-12-08,No,3,1,No,Yes,2
+158,Employee158,LastName158,42,Female,IT,DevOps Engineer,Master,8,84576,Yes,2011-07-22,2010-02-25,No,5,5,Yes,No,10
+159,Employee159,LastName159,25,Male,R&D,Senior Engineer,PhD,4,83671,Yes,2022-10-17,2020-06-09,No,3,5,Yes,Yes,2
+160,Employee160,LastName160,51,Male,Finance,Budget Analyst,Master,20,144267,No,,2018-05-19,No,5,2,Yes,Yes,8
+161,Employee161,LastName161,26,Female,Finance,Budget Analyst,Bachelor,19,120065,Yes,2015-09-02,2012-07-08,No,5,2,Yes,No,8
+162,Employee162,LastName162,65,Male,Finance,Budget Analyst,Master,7,52292,No,,2023-01-30,No,4,2,No,No,9
+163,Employee163,LastName163,65,Female,HR,HR Manager,PhD,10,73560,No,,2010-06-28,No,5,1,Yes,No,5
+164,Employee164,LastName164,56,Male,Marketing,Digital Marketing Specialist,Bachelor,2,82629,No,,2011-07-20,No,4,2,Yes,No,5
+165,Employee165,LastName165,46,Female,Finance,Budget Analyst,Bachelor,13,130660,No,,2011-10-20,No,3,1,Yes,No,8
+166,Employee166,LastName166,22,Male,IT,QA Engineer,Master,1,75102,No,,2016-09-10,No,2,4,No,Yes,4
+167,Employee167,LastName167,24,Male,IT,Software Engineer,PhD,14,49400,No,,2010-05-09,Yes,4,5,Yes,Yes,0
+168,Employee168,LastName168,36,Female,Finance,Financial Analyst,Bachelor,18,111046,No,,2014-11-15,No,3,2,No,No,3
+169,Employee169,LastName169,64,Male,R&D,Research Manager,PhD,17,141365,Yes,2016-07-31,2014-12-16,Yes,2,4,No,Yes,5
+170,Employee170,LastName170,55,Female,Marketing,Brand Manager,Master,11,69101,No,,2019-05-04,No,5,4,Yes,Yes,4
+171,Employee171,LastName171,51,Male,Operations,Logistics Manager,PhD,2,114467,No,,2022-08-13,No,2,4,Yes,No,3
+172,Employee172,LastName172,50,Male,R&D,Research Scientist,Master,12,94436,Yes,2016-10-21,2012-01-28,Yes,5,5,Yes,Yes,3
+173,Employee173,LastName173,52,Male,Operations,Operations Manager,Bachelor,7,69906,No,,2017-06-20,No,1,4,Yes,Yes,6
+174,Employee174,LastName174,40,Female,IT,DevOps Engineer,Master,13,92139,No,,2020-06-16,No,5,4,No,Yes,7
+175,Employee175,LastName175,35,Female,Operations,Supply Chain Manager,PhD,12,64126,No,,2017-01-07,No,1,3,No,No,2
+176,Employee176,LastName176,36,Female,IT,QA Engineer,PhD,13,134764,No,,2022-10-12,No,3,3,No,No,7
+177,Employee177,LastName177,32,Female,IT,QA Engineer,Bachelor,5,54742,No,,2022-04-05,Yes,1,1,No,Yes,10
+178,Employee178,LastName178,31,Male,IT,Software Engineer,PhD,1,128588,No,,2014-11-27,No,5,4,No,Yes,0
+179,Employee179,LastName179,22,Female,Sales,Sales Director,Bachelor,1,110826,No,,2021-11-15,No,4,2,Yes,Yes,8
+180,Employee180,LastName180,34,Male,IT,DevOps Engineer,Master,20,55357,No,,2021-10-22,No,3,4,No,Yes,3
+181,Employee181,LastName181,63,Male,R&D,Research Scientist,PhD,2,46238,Yes,2014-04-17,2012-02-05,No,2,1,No,No,10
+182,Employee182,LastName182,58,Female,Operations,Supply Chain Manager,Bachelor,4,135739,No,,2021-11-05,No,5,4,No,Yes,1
+183,Employee183,LastName183,56,Female,Marketing,Brand Manager,Bachelor,19,72152,Yes,2015-08-03,2010-09-27,No,5,2,No,Yes,4
+184,Employee184,LastName184,58,Male,IT,Backend Developer,PhD,13,55279,No,,2022-02-15,Yes,5,3,Yes,Yes,6
+185,Employee185,LastName185,43,Male,IT,Software Engineer,PhD,20,80825,No,,2023-05-12,No,4,4,Yes,No,8
+186,Employee186,LastName186,33,Female,Finance,Financial Manager,Bachelor,19,138468,Yes,2022-01-27,2018-07-11,No,1,1,No,Yes,6
+187,Employee187,LastName187,46,Male,Marketing,Brand Manager,Master,11,92175,Yes,2018-03-14,2018-02-02,No,3,1,Yes,Yes,2
+188,Employee188,LastName188,57,Female,Finance,Financial Analyst,Bachelor,18,91388,No,,2021-06-29,No,5,1,No,No,0
+189,Employee189,LastName189,46,Female,R&D,Research Manager,Bachelor,3,134825,No,,2022-07-20,Yes,4,2,Yes,No,4
+190,Employee190,LastName190,31,Female,R&D,Principal Scientist,Bachelor,3,92333,Yes,2016-03-11,2013-10-01,No,3,2,No,Yes,7
+191,Employee191,LastName191,41,Male,HR,Training Specialist,Master,1,88193,No,,2018-11-16,No,4,3,No,Yes,4
+192,Employee192,LastName192,52,Male,R&D,Senior Scientist,PhD,11,136089,No,,2013-12-26,No,4,5,Yes,No,6
+193,Employee193,LastName193,45,Female,R&D,Research Manager,Bachelor,4,140317,Yes,2025-10-15,2022-08-25,Yes,4,2,No,No,1
+194,Employee194,LastName194,65,Female,Operations,Supply Chain Manager,Master,16,131332,No,,2013-02-14,No,2,4,No,Yes,7
+195,Employee195,LastName195,59,Female,Sales,Account Manager,PhD,13,49818,No,,2021-12-26,No,3,5,Yes,Yes,3
+196,Employee196,LastName196,32,Female,Marketing,Digital Marketing Specialist,Master,20,149363,No,,2010-12-29,No,4,1,Yes,Yes,4
+197,Employee197,LastName197,50,Male,IT,DevOps Engineer,Bachelor,12,108277,No,,2018-10-10,Yes,1,3,No,Yes,1
+198,Employee198,LastName198,44,Male,Operations,Supply Chain Manager,PhD,10,108298,No,,2017-09-11,No,3,4,Yes,No,7
+199,Employee199,LastName199,41,Male,R&D,Principal Engineer,PhD,2,76970,Yes,2014-08-02,2012-07-31,Yes,5,2,Yes,No,8
+200,Employee200,LastName200,36,Female,Finance,Senior Analyst,Master,13,48826,Yes,2017-11-27,2014-02-20,No,5,2,No,No,6
+201,Employee201,LastName201,35,Male,HR,Training Specialist,Bachelor,9,92945,No,,2011-05-28,No,3,2,No,Yes,4
+202,Employee202,LastName202,55,Female,Marketing,Digital Marketing Specialist,PhD,11,59972,No,,2023-05-23,No,3,3,No,Yes,10
+203,Employee203,LastName203,61,Female,Marketing,Brand Manager,Bachelor,19,76270,No,,2011-11-26,No,3,1,Yes,No,2
+204,Employee204,LastName204,48,Female,Sales,Account Manager,Bachelor,20,108788,No,,2013-02-03,No,5,2,Yes,No,4
+205,Employee205,LastName205,42,Male,IT,Full Stack Developer,Bachelor,15,70575,No,,2011-03-16,Yes,4,5,No,No,10
+206,Employee206,LastName206,50,Female,Finance,Accountant,Master,16,49285,Yes,2014-01-03,2013-10-02,No,3,2,No,Yes,7
+207,Employee207,LastName207,57,Female,Sales,Sales Director,PhD,17,93085,No,,2012-07-16,No,5,1,No,Yes,6
+208,Employee208,LastName208,41,Male,HR,HR Manager,Master,2,60386,No,,2020-02-02,No,2,2,No,No,2
+209,Employee209,LastName209,35,Male,Sales,Sales Director,PhD,7,115617,No,,2011-05-02,No,2,3,No,No,9
+210,Employee210,LastName210,30,Male,R&D,Principal Engineer,Bachelor,14,64168,No,,2011-05-01,Yes,3,2,No,No,2
+211,Employee211,LastName211,62,Female,Sales,Sales Manager,Master,14,112582,No,,2018-06-01,No,3,3,No,No,5
+212,Employee212,LastName212,27,Male,Sales,Account Manager,Bachelor,15,101314,No,,2018-01-13,No,2,4,No,No,4
+213,Employee213,LastName213,58,Male,R&D,Research Scientist,Bachelor,16,127074,No,,2017-09-16,Yes,4,1,Yes,Yes,7
+214,Employee214,LastName214,49,Male,Finance,Financial Manager,Bachelor,7,80916,No,,2012-12-16,No,1,3,No,Yes,5
+215,Employee215,LastName215,25,Male,Marketing,Content Manager,Master,13,130915,No,,2016-11-07,No,1,1,Yes,Yes,7
+216,Employee216,LastName216,59,Male,HR,HR Manager,Bachelor,8,136173,No,,2021-08-26,No,3,1,No,Yes,7
+217,Employee217,LastName217,46,Male,HR,HR Coordinator,Bachelor,3,95164,Yes,2014-06-10,2012-04-19,No,2,2,Yes,Yes,9
+218,Employee218,LastName218,50,Male,Marketing,Content Manager,Master,12,125750,No,,2014-10-12,No,4,2,Yes,Yes,2
+219,Employee219,LastName219,59,Male,Operations,Production Manager,Bachelor,13,77477,No,,2017-11-19,No,3,1,Yes,No,0
+220,Employee220,LastName220,35,Female,Operations,Logistics Manager,Master,17,129694,No,,2023-08-12,No,1,2,No,No,1
+221,Employee221,LastName221,62,Female,IT,DevOps Engineer,Master,20,62299,No,,2011-08-05,Yes,4,5,No,No,8
+222,Employee222,LastName222,52,Male,Marketing,Marketing Specialist,Master,3,73277,No,,2010-05-17,No,1,1,No,No,10
+223,Employee223,LastName223,49,Female,Marketing,Product Manager,PhD,13,65012,No,,2011-11-07,No,3,1,No,Yes,8
+224,Employee224,LastName224,56,Male,IT,DevOps Engineer,PhD,11,102342,No,,2018-10-06,Yes,2,1,Yes,Yes,6
+225,Employee225,LastName225,61,Female,HR,HR Specialist,Bachelor,20,46660,No,,2011-03-27,No,2,1,Yes,No,5
+226,Employee226,LastName226,32,Female,Sales,Sales Director,PhD,12,60473,No,,2012-11-05,No,1,3,No,No,8
+227,Employee227,LastName227,58,Female,HR,HR Coordinator,Bachelor,3,110484,No,,2021-02-16,No,5,2,No,Yes,4
+228,Employee228,LastName228,58,Male,Operations,Operations Manager,Bachelor,4,46610,No,,2015-02-15,No,2,1,No,No,6
+229,Employee229,LastName229,24,Male,IT,Backend Developer,Master,18,80554,Yes,2020-11-17,2019-05-29,No,1,5,No,Yes,8
+230,Employee230,LastName230,33,Male,Marketing,Digital Marketing Specialist,Bachelor,8,105960,No,,2021-07-27,No,3,3,No,Yes,8
+231,Employee231,LastName231,45,Male,Finance,Financial Manager,PhD,7,126620,No,,2016-07-16,No,2,4,No,No,3
+232,Employee232,LastName232,31,Male,Marketing,Brand Manager,PhD,1,135893,Yes,2022-04-26,2019-03-14,No,1,3,Yes,No,4
+233,Employee233,LastName233,55,Male,HR,HR Manager,Bachelor,8,138277,No,,2019-06-02,No,3,1,Yes,Yes,8
+234,Employee234,LastName234,51,Female,Finance,Senior Analyst,Bachelor,3,122580,Yes,2023-11-09,2023-01-10,No,5,1,No,Yes,3
+235,Employee235,LastName235,42,Female,R&D,Senior Engineer,Bachelor,13,62840,Yes,2018-12-03,2017-04-26,Yes,5,1,Yes,Yes,2
+236,Employee236,LastName236,42,Female,Finance,Accountant,Master,14,85410,No,,2012-09-16,No,4,3,Yes,Yes,2
+237,Employee237,LastName237,60,Female,Operations,Production Manager,Bachelor,2,56955,No,,2014-10-28,No,2,3,No,Yes,10
+238,Employee238,LastName238,33,Female,R&D,Senior Engineer,Master,1,58357,No,,2019-01-26,Yes,2,1,Yes,Yes,3
+239,Employee239,LastName239,47,Male,IT,Software Engineer,Bachelor,12,53450,No,,2011-11-20,No,2,4,Yes,Yes,5
+240,Employee240,LastName240,51,Male,HR,Recruiter,PhD,2,96773,No,,2013-10-08,No,4,1,No,No,2
+241,Employee241,LastName241,33,Male,R&D,Research Director,PhD,9,83680,Yes,2017-03-11,2016-04-11,Yes,4,4,No,Yes,1
+242,Employee242,LastName242,30,Female,R&D,Research Manager,Bachelor,14,95134,No,,2014-06-22,Yes,3,4,No,No,9
+243,Employee243,LastName243,46,Female,Sales,Sales Representative,Bachelor,9,147044,Yes,2017-06-18,2014-01-13,No,3,1,No,No,9
+244,Employee244,LastName244,28,Male,IT,Data Analyst,PhD,8,149515,No,,2015-05-30,Yes,4,3,Yes,Yes,3
+245,Employee245,LastName245,44,Female,Sales,Sales Director,PhD,19,118873,No,,2010-08-20,No,2,5,Yes,No,8
+246,Employee246,LastName246,53,Male,R&D,Research Scientist,PhD,2,107650,Yes,2015-06-25,2012-01-10,Yes,1,3,Yes,Yes,5
+247,Employee247,LastName247,42,Male,Marketing,Content Manager,Bachelor,2,113982,Yes,2014-07-11,2010-06-29,No,3,1,No,No,9
+248,Employee248,LastName248,41,Female,HR,Recruiter,PhD,11,108858,No,,2013-01-22,No,3,2,No,Yes,10
+249,Employee249,LastName249,46,Male,Sales,Sales Manager,PhD,10,120082,Yes,2020-10-09,2016-08-09,No,4,5,Yes,Yes,9
+250,Employee250,LastName250,62,Male,R&D,Tech Lead,PhD,19,55198,No,,2012-05-02,Yes,2,3,No,Yes,10
+251,Employee251,LastName251,50,Female,HR,HR Manager,Master,1,78640,No,,2015-12-13,No,1,1,Yes,No,7
+252,Employee252,LastName252,32,Female,Marketing,Brand Manager,PhD,14,94197,No,,2021-01-22,No,1,4,Yes,Yes,7
+253,Employee253,LastName253,40,Male,HR,HR Manager,Bachelor,1,89801,No,,2017-02-23,No,2,4,Yes,Yes,8
+254,Employee254,LastName254,60,Female,HR,Recruiter,PhD,20,66626,No,,2020-10-29,No,5,4,Yes,Yes,1
+255,Employee255,LastName255,34,Male,R&D,Senior Scientist,Master,14,76135,No,,2022-06-06,No,1,1,No,No,2
+256,Employee256,LastName256,22,Female,HR,Training Specialist,Master,14,71171,No,,2011-12-19,No,1,1,Yes,Yes,10
+257,Employee257,LastName257,52,Male,R&D,Principal Scientist,PhD,4,79734,No,,2016-12-01,No,1,5,No,Yes,5
+258,Employee258,LastName258,33,Female,Finance,Senior Analyst,Master,15,74654,No,,2011-01-01,No,3,5,Yes,Yes,10
+259,Employee259,LastName259,64,Male,HR,Training Specialist,Bachelor,12,117561,No,,2022-02-22,No,1,4,No,No,9
+260,Employee260,LastName260,41,Female,IT,QA Engineer,PhD,3,112740,No,,2018-11-09,Yes,5,5,Yes,Yes,7
+261,Employee261,LastName261,35,Male,IT,Data Analyst,PhD,7,64382,Yes,2013-05-08,2012-10-30,No,5,3,No,Yes,1
+262,Employee262,LastName262,57,Female,Finance,Financial Analyst,PhD,11,126665,No,,2016-03-12,No,5,5,No,Yes,6
+263,Employee263,LastName263,58,Male,IT,Software Engineer,PhD,19,147176,No,,2023-01-26,Yes,1,3,No,No,4
+264,Employee264,LastName264,58,Female,Finance,Senior Analyst,Bachelor,20,126034,Yes,2022-03-28,2020-08-11,No,5,4,Yes,No,5
+265,Employee265,LastName265,25,Male,Marketing,Marketing Specialist,Master,16,149025,No,,2016-01-10,No,3,3,No,No,10
+266,Employee266,LastName266,30,Male,HR,HR Coordinator,Master,10,140525,No,,2019-12-09,No,4,5,Yes,Yes,7
+267,Employee267,LastName267,53,Female,IT,Software Engineer,Master,17,138004,No,,2018-05-22,Yes,5,4,Yes,Yes,2
+268,Employee268,LastName268,25,Male,IT,Backend Developer,Bachelor,8,80910,No,,2010-09-28,No,3,4,No,Yes,10
+269,Employee269,LastName269,45,Male,HR,Recruiter,PhD,16,117264,No,,2023-04-29,No,3,3,Yes,No,1
+270,Employee270,LastName270,46,Male,R&D,Research Director,PhD,2,74505,No,,2013-08-27,Yes,2,3,No,Yes,10
+271,Employee271,LastName271,30,Female,HR,HR Specialist,Master,6,124736,No,,2023-06-26,No,3,3,No,No,5
+272,Employee272,LastName272,35,Female,Finance,Budget Analyst,Master,15,121609,No,,2016-10-11,No,1,1,No,No,4
+273,Employee273,LastName273,52,Male,Marketing,Brand Manager,Master,3,79229,No,,2017-07-17,No,3,2,Yes,Yes,0
+274,Employee274,LastName274,64,Female,Operations,Logistics Manager,Master,11,79003,No,,2013-02-20,No,4,4,No,Yes,9
+275,Employee275,LastName275,43,Male,Marketing,Digital Marketing Specialist,PhD,8,91988,No,,2021-12-28,No,5,3,Yes,Yes,4
+276,Employee276,LastName276,30,Female,HR,HR Specialist,PhD,9,88992,No,,2022-07-16,No,1,2,No,Yes,4
+277,Employee277,LastName277,45,Female,Finance,Financial Analyst,Master,9,52035,No,,2023-02-18,No,5,5,Yes,No,3
+278,Employee278,LastName278,65,Male,Sales,Sales Manager,Bachelor,13,63004,No,,2021-11-19,No,2,3,No,No,2
+279,Employee279,LastName279,27,Male,R&D,Tech Lead,PhD,16,52603,No,,2017-06-17,Yes,1,4,No,Yes,2
+280,Employee280,LastName280,53,Male,Sales,Account Manager,Master,3,101233,No,,2012-11-26,No,4,4,Yes,Yes,8
+281,Employee281,LastName281,22,Female,IT,Backend Developer,PhD,11,77613,Yes,2025-10-14,2021-11-29,Yes,2,3,No,Yes,1
+282,Employee282,LastName282,32,Female,Finance,Financial Manager,Master,3,140398,No,,2011-01-10,No,5,5,No,No,10
+283,Employee283,LastName283,53,Female,IT,Software Engineer,Bachelor,12,74402,Yes,2019-05-24,2014-03-24,No,2,2,Yes,Yes,1
+284,Employee284,LastName284,46,Male,R&D,Senior Engineer,PhD,9,47587,No,,2021-12-29,Yes,1,1,No,No,6
+285,Employee285,LastName285,52,Female,HR,HR Manager,Master,5,100164,No,,2014-08-11,No,1,5,No,Yes,6
+286,Employee286,LastName286,54,Male,Operations,Operations Manager,Master,20,71037,No,,2012-08-22,No,5,2,No,Yes,5
+287,Employee287,LastName287,40,Female,Marketing,Content Manager,PhD,6,108001,No,,2010-11-19,No,3,2,Yes,Yes,10
+288,Employee288,LastName288,58,Male,HR,Training Specialist,Bachelor,16,139838,No,,2013-05-06,No,1,3,Yes,No,4
+289,Employee289,LastName289,25,Female,R&D,Tech Lead,PhD,4,85987,No,,2013-12-02,No,4,1,Yes,Yes,0
+290,Employee290,LastName290,64,Male,Operations,Logistics Manager,PhD,6,80167,No,,2017-05-16,No,1,3,No,Yes,1
+291,Employee291,LastName291,51,Female,Finance,Senior Analyst,Master,9,130045,No,,2018-08-26,No,2,1,Yes,Yes,2
+292,Employee292,LastName292,59,Female,HR,HR Specialist,PhD,16,94774,No,,2022-10-05,No,3,5,Yes,Yes,7
+293,Employee293,LastName293,48,Male,Finance,Financial Manager,Bachelor,15,137349,Yes,2014-10-14,2011-01-12,No,5,5,Yes,No,8
+294,Employee294,LastName294,49,Male,Sales,Account Manager,Bachelor,8,118183,No,,2020-10-22,No,5,1,Yes,Yes,8
+295,Employee295,LastName295,53,Female,Operations,Production Manager,Bachelor,6,88371,No,,2011-09-06,No,3,1,Yes,No,6
+296,Employee296,LastName296,27,Male,Operations,Logistics Manager,Bachelor,15,110333,No,,2019-12-18,No,4,3,Yes,No,10
+297,Employee297,LastName297,47,Male,HR,HR Manager,Bachelor,14,148780,No,,2010-10-21,No,5,5,No,Yes,10
+298,Employee298,LastName298,43,Female,Marketing,Digital Marketing Specialist,Master,12,118420,No,,2011-03-21,No,5,5,No,No,7
+299,Employee299,LastName299,64,Male,HR,HR Coordinator,PhD,8,113417,No,,2010-01-18,No,3,1,Yes,Yes,7
+300,Employee300,LastName300,28,Female,IT,Data Analyst,Master,9,147422,Yes,2019-09-10,2014-05-24,No,2,3,Yes,No,0
+301,Employee301,LastName301,50,Male,Marketing,Content Manager,Master,15,45568,No,,2023-03-21,No,5,1,No,No,8
+302,Employee302,LastName302,59,Male,Operations,Production Manager,PhD,6,95418,Yes,2016-08-24,2012-11-17,No,4,5,Yes,No,6
+303,Employee303,LastName303,50,Female,R&D,Research Manager,Master,5,138306,Yes,2017-02-07,2013-02-05,No,5,2,Yes,Yes,9
+304,Employee304,LastName304,65,Female,Marketing,Content Manager,PhD,12,116105,No,,2012-12-22,No,3,1,No,No,9
+305,Employee305,LastName305,65,Female,Sales,Account Manager,Bachelor,18,113515,No,,2016-05-31,No,1,1,No,Yes,0
+306,Employee306,LastName306,34,Male,Marketing,Brand Manager,Bachelor,9,53130,No,,2013-08-11,No,3,2,Yes,No,7
+307,Employee307,LastName307,63,Male,HR,HR Coordinator,PhD,18,132096,No,,2018-09-21,No,1,4,No,No,10
+308,Employee308,LastName308,22,Male,R&D,Research Director,PhD,9,137357,No,,2014-07-22,No,3,5,Yes,Yes,4
+309,Employee309,LastName309,65,Male,Finance,Budget Analyst,Bachelor,3,94440,No,,2014-03-12,No,1,4,No,No,2
+310,Employee310,LastName310,22,Female,IT,Software Engineer,Bachelor,11,87287,No,,2020-06-17,Yes,5,1,No,No,9
+311,Employee311,LastName311,26,Female,Sales,Sales Representative,PhD,11,53936,No,,2021-10-14,No,5,2,No,No,1
+312,Employee312,LastName312,35,Male,R&D,Research Manager,PhD,11,46153,Yes,2018-09-25,2017-06-05,No,1,3,No,Yes,10
+313,Employee313,LastName313,24,Male,Sales,Sales Manager,Master,11,78631,No,,2018-07-22,No,5,3,Yes,No,8
+314,Employee314,LastName314,53,Female,Operations,Supply Chain Manager,Master,2,112357,No,,2016-08-25,No,1,1,Yes,Yes,10
+315,Employee315,LastName315,64,Male,HR,HR Specialist,PhD,7,137109,No,,2019-07-08,No,4,1,Yes,Yes,7
+316,Employee316,LastName316,24,Female,Marketing,Brand Manager,PhD,3,54232,Yes,2016-03-06,2011-08-24,No,5,2,No,No,6
+317,Employee317,LastName317,49,Female,Finance,Financial Analyst,PhD,11,45773,No,,2010-05-19,No,5,1,Yes,Yes,5
+318,Employee318,LastName318,40,Male,Sales,Account Manager,Master,10,96788,Yes,2027-12-23,2023-08-09,No,1,4,Yes,Yes,2
+319,Employee319,LastName319,56,Female,Marketing,Brand Manager,Bachelor,10,117551,No,,2013-03-26,No,5,2,Yes,Yes,0
+320,Employee320,LastName320,56,Female,Sales,Sales Director,Bachelor,18,99087,No,,2011-11-29,No,5,2,Yes,Yes,3
+321,Employee321,LastName321,34,Female,Sales,Sales Manager,PhD,4,105458,No,,2014-01-25,No,5,1,No,Yes,4
+322,Employee322,LastName322,59,Male,HR,HR Specialist,Bachelor,16,82373,No,,2017-06-03,No,5,1,Yes,No,7
+323,Employee323,LastName323,61,Female,Finance,Financial Manager,Master,10,101139,Yes,2026-05-12,2023-02-07,No,2,1,No,Yes,3
+324,Employee324,LastName324,39,Female,Marketing,Brand Manager,Master,12,105666,No,,2013-01-05,No,4,3,No,No,8
+325,Employee325,LastName325,63,Male,HR,HR Specialist,PhD,20,70746,No,,2011-11-03,No,3,1,Yes,Yes,8
+326,Employee326,LastName326,59,Male,Marketing,Content Manager,Bachelor,19,117298,No,,2019-02-01,No,3,5,No,Yes,5
+327,Employee327,LastName327,59,Male,Finance,Budget Analyst,Bachelor,10,97007,No,,2013-01-01,No,3,5,Yes,Yes,9
+328,Employee328,LastName328,54,Male,Marketing,Product Manager,PhD,5,64162,Yes,2023-04-07,2020-01-04,No,4,3,Yes,Yes,7
+329,Employee329,LastName329,38,Male,IT,Full Stack Developer,Master,12,104591,Yes,2016-06-28,2015-04-02,No,1,1,No,Yes,8
+330,Employee330,LastName330,38,Female,Marketing,Digital Marketing Specialist,PhD,19,94613,No,,2022-03-18,No,3,5,Yes,No,6
+331,Employee331,LastName331,44,Female,IT,QA Engineer,Bachelor,12,102658,No,,2020-12-02,Yes,2,2,Yes,No,3
+332,Employee332,LastName332,32,Male,IT,Backend Developer,Bachelor,12,99344,No,,2023-07-03,Yes,3,1,No,No,7
+333,Employee333,LastName333,63,Male,IT,QA Engineer,PhD,14,66119,No,,2010-07-03,Yes,2,5,Yes,Yes,0
+334,Employee334,LastName334,33,Female,IT,Backend Developer,PhD,17,131736,No,,2019-02-04,Yes,3,1,Yes,No,9
+335,Employee335,LastName335,32,Female,Finance,Budget Analyst,Bachelor,8,126685,No,,2019-03-20,No,5,3,Yes,No,7
+336,Employee336,LastName336,36,Male,Sales,Sales Representative,PhD,13,111107,Yes,2018-10-26,2018-08-24,No,4,2,Yes,Yes,7
+337,Employee337,LastName337,56,Male,Sales,Sales Representative,PhD,17,115685,Yes,2016-05-31,2012-08-20,No,1,4,No,No,0
+338,Employee338,LastName338,36,Female,Marketing,Product Manager,Bachelor,16,100769,No,,2018-07-21,No,2,3,No,Yes,1
+339,Employee339,LastName339,38,Female,R&D,Research Manager,Bachelor,7,113126,No,,2010-02-14,Yes,1,4,Yes,No,6
+340,Employee340,LastName340,31,Male,R&D,Tech Lead,PhD,14,81118,Yes,2028-01-02,2023-02-17,No,4,2,No,No,2
+341,Employee341,LastName341,38,Female,R&D,Principal Engineer,PhD,10,60608,Yes,2026-12-29,2022-12-16,No,2,4,Yes,Yes,3
+342,Employee342,LastName342,43,Female,Sales,Sales Manager,Bachelor,18,64048,Yes,2014-10-25,2011-03-03,No,4,5,No,Yes,1
+343,Employee343,LastName343,45,Male,R&D,Research Manager,Master,3,138271,Yes,2025-11-24,2023-08-30,No,5,1,Yes,No,7
+344,Employee344,LastName344,64,Male,HR,Training Specialist,PhD,17,112608,No,,2016-05-31,No,2,5,Yes,Yes,5
+345,Employee345,LastName345,32,Male,IT,Backend Developer,Master,3,98143,No,,2016-03-10,No,5,2,Yes,Yes,1
+346,Employee346,LastName346,57,Female,Sales,Sales Director,Bachelor,19,124477,No,,2017-10-22,No,2,4,No,Yes,4
+347,Employee347,LastName347,54,Female,IT,Software Engineer,PhD,4,78776,Yes,2024-04-05,2022-07-13,No,5,5,No,No,6
+348,Employee348,LastName348,37,Female,Sales,Sales Manager,Master,11,60239,No,,2020-04-16,No,3,1,No,Yes,10
+349,Employee349,LastName349,42,Male,Marketing,Marketing Specialist,PhD,14,79517,No,,2017-12-02,No,2,3,Yes,No,10
+350,Employee350,LastName350,26,Female,Marketing,Brand Manager,Bachelor,18,120197,No,,2014-01-02,No,3,2,Yes,No,3
+351,Employee351,LastName351,38,Male,IT,Data Analyst,Bachelor,7,60712,Yes,2016-08-15,2015-02-21,No,1,4,Yes,Yes,7
+352,Employee352,LastName352,53,Female,R&D,Senior Research Scientist,Bachelor,19,143326,Yes,2020-07-12,2016-02-29,No,5,2,Yes,No,7
+353,Employee353,LastName353,54,Male,Sales,Sales Representative,Master,12,60776,No,,2018-10-31,No,5,4,No,Yes,0
+354,Employee354,LastName354,46,Male,Marketing,Product Manager,Master,19,69530,No,,2012-04-05,No,5,3,Yes,No,7
+355,Employee355,LastName355,45,Female,Sales,Account Manager,PhD,6,143591,No,,2021-03-09,No,3,3,No,No,7
+356,Employee356,LastName356,58,Male,IT,QA Engineer,Master,8,94923,No,,2012-03-29,Yes,2,2,Yes,No,0
+357,Employee357,LastName357,53,Female,IT,Full Stack Developer,Master,5,77895,No,,2021-08-06,No,5,5,Yes,No,1
+358,Employee358,LastName358,25,Male,Marketing,Marketing Specialist,Master,7,142595,No,,2015-09-15,No,3,3,No,No,8
+359,Employee359,LastName359,44,Female,Sales,Sales Representative,PhD,1,120483,Yes,2024-03-07,2019-03-28,No,5,2,No,No,5
+360,Employee360,LastName360,50,Female,Marketing,Digital Marketing Specialist,PhD,3,63985,No,,2018-07-19,No,2,3,No,No,1
+361,Employee361,LastName361,43,Male,HR,HR Coordinator,PhD,8,80058,No,,2017-01-12,No,5,4,No,No,5
+362,Employee362,LastName362,48,Female,Marketing,Content Manager,PhD,6,75753,No,,2014-02-15,No,3,1,Yes,Yes,6
+363,Employee363,LastName363,26,Male,HR,Recruiter,PhD,16,145269,Yes,2026-09-14,2022-04-20,No,1,1,No,Yes,1
+364,Employee364,LastName364,41,Female,Marketing,Digital Marketing Specialist,PhD,8,61569,No,,2015-07-20,No,2,5,Yes,Yes,0
+365,Employee365,LastName365,42,Female,Marketing,Product Manager,Master,16,116898,No,,2020-06-24,No,4,2,Yes,No,10
+366,Employee366,LastName366,55,Female,Marketing,Digital Marketing Specialist,PhD,18,74770,No,,2016-12-11,No,1,4,No,No,6
+367,Employee367,LastName367,41,Male,R&D,Tech Lead,Master,1,106498,Yes,2014-05-02,2010-01-01,Yes,5,1,No,No,4
+368,Employee368,LastName368,40,Female,HR,Training Specialist,Master,20,69716,No,,2015-03-10,No,4,5,No,No,3
+369,Employee369,LastName369,46,Female,IT,QA Engineer,PhD,8,135954,Yes,2019-06-27,2015-11-25,Yes,3,3,No,No,3
+370,Employee370,LastName370,33,Male,Operations,Logistics Manager,Master,5,136812,Yes,2019-02-17,2016-06-30,No,5,4,Yes,No,0
+371,Employee371,LastName371,56,Male,IT,DevOps Engineer,Bachelor,1,138742,No,,2014-03-04,No,4,1,Yes,Yes,2
+372,Employee372,LastName372,35,Female,HR,Recruiter,Master,11,105776,No,,2019-06-05,No,1,3,Yes,Yes,0
+373,Employee373,LastName373,26,Female,R&D,Senior Research Scientist,Bachelor,18,60985,Yes,2025-08-25,2020-07-18,No,2,4,No,Yes,0
+374,Employee374,LastName374,28,Female,IT,DevOps Engineer,Bachelor,17,127465,No,,2014-09-04,No,1,5,Yes,No,7
+375,Employee375,LastName375,34,Female,Marketing,Content Manager,Bachelor,12,75928,No,,2011-03-03,No,4,3,Yes,Yes,4
+376,Employee376,LastName376,47,Male,Sales,Account Manager,PhD,8,123146,No,,2010-03-15,No,2,3,Yes,Yes,2
+377,Employee377,LastName377,65,Male,Finance,Financial Analyst,Bachelor,20,91598,No,,2017-08-04,No,2,5,Yes,Yes,7
+378,Employee378,LastName378,57,Female,IT,Backend Developer,Master,12,91945,No,,2019-11-03,Yes,2,3,Yes,No,7
+379,Employee379,LastName379,56,Female,Sales,Sales Director,Master,16,140997,No,,2014-04-04,No,4,3,Yes,Yes,8
+380,Employee380,LastName380,40,Female,IT,Backend Developer,PhD,9,94681,No,,2022-02-23,Yes,2,1,No,Yes,5
+381,Employee381,LastName381,64,Male,Marketing,Digital Marketing Specialist,PhD,18,65202,No,,2018-09-10,No,5,3,No,No,10
+382,Employee382,LastName382,28,Male,R&D,Principal Engineer,Bachelor,17,71486,Yes,2016-11-01,2011-07-01,Yes,1,4,Yes,Yes,0
+383,Employee383,LastName383,64,Female,Sales,Sales Director,Bachelor,16,93018,No,,2021-10-17,No,2,5,Yes,Yes,3
+384,Employee384,LastName384,27,Female,Marketing,Digital Marketing Specialist,Master,15,149103,No,,2011-05-13,No,1,5,No,Yes,1
+385,Employee385,LastName385,26,Female,Operations,Supply Chain Manager,PhD,7,95506,Yes,2025-10-19,2021-08-26,No,2,2,Yes,Yes,8
+386,Employee386,LastName386,28,Female,Marketing,Digital Marketing Specialist,Bachelor,19,66864,No,,2018-01-11,No,2,5,No,No,10
+387,Employee387,LastName387,44,Female,IT,DevOps Engineer,Master,11,145163,No,,2022-05-04,No,4,3,Yes,Yes,6
+388,Employee388,LastName388,45,Female,Operations,Operations Manager,PhD,15,49543,No,,2020-01-14,No,3,5,Yes,Yes,4
+389,Employee389,LastName389,36,Female,HR,HR Coordinator,PhD,7,112013,Yes,2021-10-02,2017-01-23,No,5,5,Yes,Yes,0
+390,Employee390,LastName390,31,Female,Finance,Budget Analyst,Bachelor,5,75539,No,,2015-12-11,No,3,3,Yes,No,9
+391,Employee391,LastName391,42,Male,IT,QA Engineer,PhD,16,84373,No,,2013-11-17,Yes,1,5,No,Yes,0
+392,Employee392,LastName392,44,Female,Operations,Operations Manager,Bachelor,14,142999,No,,2019-05-06,No,5,1,No,Yes,4
+393,Employee393,LastName393,42,Male,Sales,Sales Representative,Bachelor,18,51621,Yes,2025-07-26,2022-09-02,No,4,4,Yes,Yes,6
+394,Employee394,LastName394,31,Female,R&D,Research Manager,Master,5,79413,Yes,2020-10-28,2017-07-16,Yes,1,4,No,Yes,2
+395,Employee395,LastName395,53,Male,Finance,Budget Analyst,PhD,13,113714,No,,2022-10-25,No,2,2,Yes,No,6
+396,Employee396,LastName396,29,Male,R&D,Tech Lead,PhD,14,130905,Yes,2020-08-25,2019-07-02,No,1,3,Yes,No,9
+397,Employee397,LastName397,61,Female,Operations,Supply Chain Manager,Bachelor,5,134831,Yes,2024-07-19,2019-11-18,No,3,2,Yes,Yes,0
+398,Employee398,LastName398,40,Male,IT,DevOps Engineer,Master,1,106759,No,,2017-09-13,Yes,1,3,Yes,Yes,3
+399,Employee399,LastName399,57,Female,Sales,Sales Manager,Master,16,121415,No,,2013-03-03,No,5,1,No,Yes,0
+400,Employee400,LastName400,61,Male,R&D,Senior Engineer,Master,9,131556,Yes,2016-07-27,2011-03-11,Yes,3,3,Yes,Yes,4
+401,Employee401,LastName401,36,Female,Operations,Operations Manager,Master,13,108525,No,,2021-05-28,No,5,5,Yes,Yes,3
+402,Employee402,LastName402,57,Female,Sales,Sales Director,Master,1,109216,No,,2010-11-22,No,4,2,Yes,No,10
+403,Employee403,LastName403,62,Female,R&D,Research Scientist,PhD,10,78774,No,,2015-04-19,No,4,1,No,Yes,2
+404,Employee404,LastName404,64,Female,R&D,Senior Research Scientist,Bachelor,5,120090,No,,2011-12-21,Yes,2,4,No,No,7
+405,Employee405,LastName405,35,Male,Sales,Sales Representative,Bachelor,5,85501,No,,2023-01-12,No,5,2,No,Yes,10
+406,Employee406,LastName406,42,Male,Sales,Sales Manager,Bachelor,3,86628,No,,2022-07-02,No,2,1,No,No,6
+407,Employee407,LastName407,62,Female,R&D,Principal Engineer,Bachelor,9,48433,No,,2013-05-29,Yes,5,5,No,Yes,9
+408,Employee408,LastName408,65,Male,IT,Data Analyst,PhD,1,124260,Yes,2022-07-07,2018-01-22,No,4,3,Yes,No,7
+409,Employee409,LastName409,32,Male,Finance,Financial Analyst,Master,7,99138,Yes,2019-06-11,2015-01-28,No,2,2,Yes,Yes,2
+410,Employee410,LastName410,42,Female,Finance,Financial Analyst,PhD,15,141381,No,,2015-07-15,No,4,3,No,Yes,8
+411,Employee411,LastName411,51,Female,HR,Recruiter,PhD,2,50144,No,,2015-07-06,No,5,4,Yes,Yes,4
+412,Employee412,LastName412,41,Female,Finance,Budget Analyst,Bachelor,10,135433,Yes,2022-01-29,2020-05-07,No,5,2,No,No,1
+413,Employee413,LastName413,33,Male,Marketing,Brand Manager,Master,19,48265,Yes,2024-08-27,2022-04-04,No,2,4,Yes,No,1
+414,Employee414,LastName414,63,Female,R&D,Tech Lead,Bachelor,6,113657,Yes,2016-10-24,2012-10-09,No,4,5,Yes,No,8
+415,Employee415,LastName415,32,Male,Finance,Accountant,Bachelor,11,63953,No,,2022-09-07,No,2,1,No,No,4
+416,Employee416,LastName416,40,Female,Marketing,Content Manager,Bachelor,6,126600,No,,2012-08-21,No,3,1,No,No,7
+417,Employee417,LastName417,60,Male,Sales,Account Manager,Master,16,98759,No,,2015-05-03,No,4,1,Yes,Yes,8
+418,Employee418,LastName418,25,Male,R&D,Principal Engineer,Bachelor,6,132424,Yes,2015-05-13,2013-04-29,Yes,5,5,No,No,1
+419,Employee419,LastName419,48,Male,HR,Training Specialist,PhD,6,135638,No,,2013-08-14,No,5,5,Yes,No,9
+420,Employee420,LastName420,27,Male,R&D,Senior Research Scientist,PhD,10,53509,Yes,2019-06-13,2017-03-29,Yes,3,4,Yes,Yes,4
+421,Employee421,LastName421,55,Female,R&D,Research Manager,Bachelor,7,108394,No,,2014-09-09,Yes,5,3,No,No,4
+422,Employee422,LastName422,30,Female,Sales,Account Manager,Master,20,68580,No,,2022-08-15,No,5,2,No,Yes,0
+423,Employee423,LastName423,51,Male,HR,Recruiter,Master,4,50962,No,,2014-08-26,No,3,3,Yes,Yes,10
+424,Employee424,LastName424,38,Female,IT,Software Engineer,Bachelor,3,134893,No,,2016-11-26,No,3,3,No,Yes,2
+425,Employee425,LastName425,43,Female,IT,Full Stack Developer,Bachelor,16,127208,No,,2020-08-23,Yes,4,5,No,No,6
+426,Employee426,LastName426,55,Male,Marketing,Brand Manager,PhD,10,115239,No,,2022-09-03,No,1,2,No,No,1
+427,Employee427,LastName427,23,Female,IT,QA Engineer,PhD,11,96061,No,,2018-06-01,Yes,2,5,Yes,No,5
+428,Employee428,LastName428,39,Male,Marketing,Content Manager,Master,14,104232,No,,2011-12-13,No,3,2,No,Yes,1
+429,Employee429,LastName429,34,Male,R&D,Research Manager,Bachelor,3,69931,Yes,2024-07-07,2019-12-15,No,3,4,No,No,2
+430,Employee430,LastName430,55,Male,Operations,Logistics Manager,Master,5,138543,No,,2014-08-08,No,5,1,Yes,No,0
+431,Employee431,LastName431,43,Male,Marketing,Brand Manager,Bachelor,15,120701,Yes,2015-05-31,2011-01-13,No,3,2,No,Yes,3
+432,Employee432,LastName432,56,Female,R&D,Principal Engineer,Bachelor,11,80866,No,,2019-11-23,No,1,1,Yes,Yes,8
+433,Employee433,LastName433,39,Female,R&D,Senior Scientist,PhD,5,89399,Yes,2017-05-24,2016-05-09,Yes,5,4,Yes,Yes,0
+434,Employee434,LastName434,28,Male,Finance,Accountant,PhD,13,123134,Yes,2013-06-26,2011-03-17,No,5,4,No,No,5
+435,Employee435,LastName435,64,Male,Operations,Logistics Manager,PhD,18,62274,No,,2011-10-06,No,1,4,Yes,No,4
+436,Employee436,LastName436,52,Female,Marketing,Product Manager,Master,8,92638,Yes,2020-02-15,2015-01-08,No,4,2,No,No,7
+437,Employee437,LastName437,26,Male,Finance,Senior Analyst,Bachelor,16,81996,No,,2012-07-13,No,3,5,Yes,Yes,6
+438,Employee438,LastName438,42,Male,Operations,Logistics Manager,Master,18,122402,No,,2011-08-05,No,4,2,Yes,Yes,7
+439,Employee439,LastName439,43,Male,Finance,Senior Analyst,PhD,7,148196,No,,2023-04-04,No,3,5,Yes,Yes,10
+440,Employee440,LastName440,58,Male,Marketing,Digital Marketing Specialist,Master,16,117756,No,,2012-07-25,No,1,4,Yes,No,6
+441,Employee441,LastName441,65,Male,HR,HR Manager,Bachelor,20,73522,No,,2018-07-02,No,2,5,Yes,Yes,10
+442,Employee442,LastName442,56,Female,IT,Data Analyst,Bachelor,10,134327,No,,2018-09-30,No,3,3,No,No,5
+443,Employee443,LastName443,61,Male,HR,HR Coordinator,Bachelor,17,93394,No,,2019-01-25,No,5,1,Yes,No,1
+444,Employee444,LastName444,23,Female,Operations,Logistics Manager,PhD,8,86697,No,,2019-09-07,No,4,4,No,No,8
+445,Employee445,LastName445,52,Male,IT,Full Stack Developer,Bachelor,5,82810,No,,2014-03-22,No,2,2,Yes,Yes,10
+446,Employee446,LastName446,53,Male,HR,Recruiter,Master,14,148406,Yes,2016-09-23,2013-01-17,No,5,4,Yes,No,8
+447,Employee447,LastName447,46,Female,Finance,Financial Analyst,PhD,12,110294,Yes,2018-07-15,2015-01-24,No,2,5,No,No,8
+448,Employee448,LastName448,24,Female,Sales,Sales Director,Bachelor,2,121056,No,,2022-09-29,No,4,1,Yes,No,7
+449,Employee449,LastName449,55,Male,Sales,Sales Manager,PhD,20,128058,No,,2011-12-26,No,5,5,No,Yes,5
+450,Employee450,LastName450,52,Male,Sales,Sales Director,Master,15,91257,No,,2021-07-01,No,3,3,Yes,Yes,9
+451,Employee451,LastName451,58,Female,Marketing,Product Manager,Bachelor,9,120085,No,,2011-05-19,No,1,3,Yes,No,7
+452,Employee452,LastName452,54,Male,HR,Training Specialist,Master,3,81073,No,,2016-03-26,No,3,1,Yes,Yes,9
+453,Employee453,LastName453,64,Male,Marketing,Brand Manager,PhD,15,75958,No,,2018-04-18,No,4,2,Yes,No,1
+454,Employee454,LastName454,53,Male,IT,Data Analyst,PhD,14,141254,Yes,2021-02-21,2018-08-05,Yes,3,1,No,Yes,0
+455,Employee455,LastName455,47,Female,IT,Full Stack Developer,PhD,16,137485,No,,2016-10-04,Yes,4,4,No,Yes,8
+456,Employee456,LastName456,22,Female,Operations,Production Manager,PhD,10,134505,No,,2020-01-25,No,1,1,No,No,9
+457,Employee457,LastName457,43,Female,Marketing,Brand Manager,PhD,9,121569,No,,2015-12-28,No,4,4,Yes,Yes,8
+458,Employee458,LastName458,42,Male,R&D,Research Scientist,Master,18,57805,No,,2010-03-28,Yes,5,1,No,No,3
+459,Employee459,LastName459,38,Female,Marketing,Marketing Specialist,PhD,7,131062,Yes,2011-05-12,2010-10-06,No,2,5,Yes,Yes,1
+460,Employee460,LastName460,46,Male,Operations,Supply Chain Manager,Master,19,83609,No,,2014-02-22,No,4,1,No,No,6
+461,Employee461,LastName461,38,Female,Marketing,Marketing Specialist,Master,6,95933,No,,2011-08-30,No,3,1,No,No,2
+462,Employee462,LastName462,53,Male,Finance,Senior Analyst,Bachelor,7,63857,No,,2023-09-09,No,5,4,Yes,Yes,7
+463,Employee463,LastName463,28,Female,Marketing,Brand Manager,Master,2,47459,Yes,2015-10-19,2011-08-21,No,4,2,Yes,Yes,10
+464,Employee464,LastName464,31,Female,Finance,Budget Analyst,PhD,11,146055,No,,2018-10-11,No,4,4,No,No,1
+465,Employee465,LastName465,22,Male,Sales,Sales Director,Master,13,134369,Yes,2023-11-24,2020-10-24,No,3,4,Yes,Yes,5
+466,Employee466,LastName466,27,Female,Sales,Sales Representative,PhD,15,50155,No,,2016-07-03,No,4,2,No,No,1
+467,Employee467,LastName467,53,Female,Marketing,Content Manager,Bachelor,3,70309,No,,2019-10-28,No,1,5,Yes,No,6
+468,Employee468,LastName468,53,Female,HR,HR Manager,Bachelor,18,89470,No,,2020-01-29,No,1,3,Yes,No,1
+469,Employee469,LastName469,65,Female,IT,Software Engineer,Bachelor,18,141398,No,,2013-05-05,Yes,2,4,Yes,No,9
+470,Employee470,LastName470,63,Male,HR,HR Manager,Master,5,149031,No,,2010-04-28,No,1,4,Yes,Yes,1
+471,Employee471,LastName471,60,Female,HR,Recruiter,Master,20,141721,Yes,2016-03-01,2014-12-12,No,4,3,Yes,Yes,5
+472,Employee472,LastName472,24,Male,Operations,Operations Manager,Master,19,63512,No,,2013-11-21,No,4,2,No,Yes,7
+473,Employee473,LastName473,30,Male,IT,Full Stack Developer,Bachelor,4,45832,No,,2018-06-09,Yes,1,2,Yes,No,6
+474,Employee474,LastName474,30,Female,Marketing,Product Manager,Master,7,99005,No,,2013-03-18,No,2,2,Yes,Yes,7
+475,Employee475,LastName475,62,Male,Sales,Sales Representative,Bachelor,10,60401,No,,2017-10-20,No,5,1,No,Yes,7
+476,Employee476,LastName476,39,Male,Operations,Logistics Manager,Master,2,68111,Yes,2015-04-06,2014-05-06,No,2,1,Yes,No,4
+477,Employee477,LastName477,38,Female,IT,QA Engineer,Bachelor,11,65715,Yes,2024-05-25,2020-03-01,Yes,1,4,Yes,Yes,3
+478,Employee478,LastName478,59,Female,Marketing,Brand Manager,Bachelor,19,147101,No,,2017-04-24,No,1,3,Yes,Yes,3
+479,Employee479,LastName479,34,Female,Marketing,Digital Marketing Specialist,Bachelor,13,102129,Yes,2018-04-24,2014-12-13,No,2,2,No,Yes,6
+480,Employee480,LastName480,51,Male,R&D,Tech Lead,Bachelor,7,49206,No,,2018-01-16,Yes,5,1,No,Yes,1
+481,Employee481,LastName481,51,Female,Operations,Supply Chain Manager,Master,14,124119,No,,2013-11-03,No,2,5,Yes,Yes,1
+482,Employee482,LastName482,35,Female,Finance,Financial Manager,Bachelor,19,140684,No,,2020-08-14,No,4,2,Yes,No,6
+483,Employee483,LastName483,59,Male,Sales,Account Manager,Bachelor,5,50250,No,,2022-11-13,No,4,5,Yes,No,8
+484,Employee484,LastName484,28,Female,Finance,Budget Analyst,Bachelor,15,135853,No,,2021-02-09,No,4,2,Yes,No,4
+485,Employee485,LastName485,23,Male,IT,Full Stack Developer,Master,16,146165,Yes,2019-06-30,2016-11-02,Yes,2,4,Yes,No,10
+486,Employee486,LastName486,62,Male,Finance,Financial Manager,PhD,3,49287,No,,2018-08-19,No,3,4,No,Yes,10
+487,Employee487,LastName487,25,Female,HR,HR Manager,Master,17,92918,No,,2018-03-01,No,4,5,Yes,No,5
+488,Employee488,LastName488,57,Male,IT,QA Engineer,Bachelor,7,130070,No,,2013-02-07,Yes,4,5,Yes,Yes,5
+489,Employee489,LastName489,54,Female,R&D,Principal Scientist,Master,14,110726,Yes,2018-05-22,2016-03-20,No,5,1,No,No,7
+490,Employee490,LastName490,65,Female,Sales,Account Manager,Bachelor,3,55508,No,,2014-03-23,No,4,2,No,Yes,1
+491,Employee491,LastName491,29,Female,IT,DevOps Engineer,Master,5,134443,Yes,2022-05-11,2021-02-17,Yes,5,2,No,No,6
+492,Employee492,LastName492,40,Male,Finance,Accountant,PhD,7,129498,Yes,2015-12-28,2011-05-31,No,3,4,No,No,7
+493,Employee493,LastName493,51,Female,Sales,Sales Director,Bachelor,10,148450,Yes,2027-03-25,2022-09-21,No,3,2,No,No,4
+494,Employee494,LastName494,31,Male,Operations,Supply Chain Manager,PhD,12,66075,No,,2016-05-18,No,5,3,Yes,Yes,10
+495,Employee495,LastName495,32,Male,Operations,Supply Chain Manager,Master,8,79132,Yes,2014-06-24,2012-08-15,No,3,2,Yes,Yes,10
+496,Employee496,LastName496,31,Female,R&D,Senior Engineer,Bachelor,12,98026,Yes,2021-01-18,2020-01-22,No,4,2,No,No,2
+497,Employee497,LastName497,63,Female,HR,Training Specialist,PhD,10,64278,No,,2020-08-18,No,5,4,No,Yes,7
+498,Employee498,LastName498,65,Male,HR,Recruiter,PhD,18,73883,No,,2012-08-15,No,4,3,Yes,No,0
+499,Employee499,LastName499,59,Male,Sales,Sales Director,Bachelor,17,47955,No,,2014-12-25,No,1,5,No,Yes,8
+500,Employee500,LastName500,53,Male,Finance,Financial Analyst,PhD,11,92325,No,,2023-07-13,No,4,2,No,No,6
+501,Employee501,LastName501,40,Male,R&D,Research Director,PhD,12,103224,Yes,2020-06-17,2017-11-18,Yes,4,4,No,Yes,6
+502,Employee502,LastName502,30,Female,Marketing,Brand Manager,Master,19,113852,Yes,2024-08-28,2023-05-31,No,3,1,No,Yes,0
+503,Employee503,LastName503,48,Female,Finance,Budget Analyst,Bachelor,6,71117,No,,2022-06-20,No,2,4,No,No,0
+504,Employee504,LastName504,59,Female,Operations,Logistics Manager,Bachelor,10,48517,No,,2021-01-30,No,1,2,No,No,10
+505,Employee505,LastName505,29,Female,Operations,Supply Chain Manager,Bachelor,10,60644,Yes,2024-07-10,2019-05-11,No,3,4,Yes,No,9
+506,Employee506,LastName506,38,Female,Finance,Budget Analyst,Bachelor,16,79018,No,,2012-09-06,No,2,5,Yes,Yes,5
+507,Employee507,LastName507,44,Male,Finance,Senior Analyst,PhD,6,91659,No,,2011-03-10,No,1,3,No,Yes,8
+508,Employee508,LastName508,28,Male,IT,Backend Developer,Master,20,80580,No,,2013-10-01,No,3,1,No,Yes,0
+509,Employee509,LastName509,45,Female,IT,Software Engineer,Bachelor,16,65257,No,,2019-03-30,Yes,5,2,Yes,Yes,6
+510,Employee510,LastName510,29,Male,Finance,Financial Manager,PhD,5,92522,No,,2010-05-23,No,2,4,No,Yes,4
+511,Employee511,LastName511,36,Male,HR,HR Coordinator,Bachelor,5,72504,No,,2013-03-12,No,2,1,No,Yes,1
+512,Employee512,LastName512,49,Female,HR,Training Specialist,PhD,2,52768,Yes,2018-12-07,2014-05-28,No,4,1,No,Yes,1
+513,Employee513,LastName513,28,Male,R&D,Principal Engineer,PhD,4,91076,Yes,2028-08-18,2023-07-01,Yes,1,1,Yes,No,9
+514,Employee514,LastName514,32,Female,R&D,Research Scientist,PhD,17,73442,Yes,2015-11-21,2015-06-05,Yes,2,3,Yes,Yes,1
+515,Employee515,LastName515,45,Female,IT,Data Analyst,Master,19,94756,No,,2014-02-25,Yes,4,2,Yes,No,1
+516,Employee516,LastName516,29,Female,Operations,Logistics Manager,Master,15,137370,No,,2012-06-22,No,3,5,Yes,Yes,5
+517,Employee517,LastName517,46,Male,Finance,Financial Manager,PhD,10,103190,No,,2020-04-01,No,2,5,No,No,6
+518,Employee518,LastName518,52,Male,IT,Backend Developer,Bachelor,12,96952,Yes,2017-11-18,2014-01-08,No,4,5,Yes,Yes,2
+519,Employee519,LastName519,59,Female,Finance,Financial Manager,Bachelor,4,122982,Yes,2014-12-25,2013-10-14,No,4,1,Yes,No,7
+520,Employee520,LastName520,63,Female,R&D,Principal Scientist,PhD,13,81554,Yes,2021-06-14,2017-12-27,No,2,4,Yes,Yes,4
+521,Employee521,LastName521,36,Female,Finance,Financial Analyst,Master,5,133880,Yes,2011-01-17,2010-09-01,No,1,2,No,No,2
+522,Employee522,LastName522,26,Male,R&D,Senior Scientist,PhD,17,110260,No,,2021-01-15,Yes,4,5,No,No,8
+523,Employee523,LastName523,24,Male,Sales,Sales Director,Master,14,103006,No,,2012-09-02,No,4,1,Yes,Yes,8
+524,Employee524,LastName524,32,Female,Marketing,Digital Marketing Specialist,Master,16,145140,Yes,2023-10-03,2019-08-30,No,1,5,No,No,7
+525,Employee525,LastName525,54,Male,Sales,Account Manager,PhD,2,133668,No,,2018-10-12,No,3,3,No,Yes,0
+526,Employee526,LastName526,30,Male,Sales,Sales Manager,PhD,12,89729,No,,2017-10-28,No,4,1,No,No,5
+527,Employee527,LastName527,25,Female,Finance,Financial Manager,PhD,8,56133,No,,2015-07-22,No,1,3,Yes,No,2
+528,Employee528,LastName528,24,Female,HR,Recruiter,Master,15,47674,No,,2019-06-23,No,4,5,Yes,No,6
+529,Employee529,LastName529,42,Female,Sales,Sales Manager,PhD,19,133488,No,,2012-03-11,No,2,3,No,No,2
+530,Employee530,LastName530,45,Female,Sales,Sales Manager,PhD,14,73059,No,,2014-07-11,No,3,3,Yes,No,9
+531,Employee531,LastName531,61,Male,Finance,Financial Manager,Bachelor,3,119242,Yes,2024-12-08,2022-12-20,No,5,4,No,Yes,5
+532,Employee532,LastName532,63,Male,Operations,Logistics Manager,PhD,10,115772,No,,2021-04-27,No,3,2,No,No,4
+533,Employee533,LastName533,64,Female,Sales,Sales Representative,PhD,18,110431,No,,2014-01-19,No,2,4,No,No,9
+534,Employee534,LastName534,55,Male,Marketing,Content Manager,Bachelor,7,142836,No,,2018-03-04,No,3,4,No,No,1
+535,Employee535,LastName535,48,Male,Marketing,Brand Manager,PhD,9,123804,No,,2016-06-09,No,2,4,Yes,Yes,2
+536,Employee536,LastName536,37,Male,IT,Full Stack Developer,PhD,10,49850,No,,2020-05-30,No,2,2,No,Yes,0
+537,Employee537,LastName537,64,Female,R&D,Principal Scientist,Bachelor,18,52251,No,,2013-12-12,Yes,1,3,No,Yes,6
+538,Employee538,LastName538,47,Male,R&D,Research Manager,PhD,5,121076,Yes,2019-06-30,2015-04-18,Yes,5,3,No,Yes,3
+539,Employee539,LastName539,42,Male,Sales,Sales Representative,Master,11,73574,No,,2023-02-08,No,2,1,Yes,Yes,4
+540,Employee540,LastName540,38,Female,Finance,Financial Manager,PhD,19,59806,No,,2011-04-04,No,3,5,No,No,10
+541,Employee541,LastName541,31,Female,IT,Software Engineer,PhD,12,124405,No,,2020-08-29,No,1,1,Yes,No,8
+542,Employee542,LastName542,62,Female,Finance,Accountant,Master,12,95917,No,,2012-09-26,No,1,4,No,No,1
+543,Employee543,LastName543,41,Male,Operations,Production Manager,PhD,7,98253,No,,2013-08-05,No,1,3,Yes,No,7
+544,Employee544,LastName544,43,Female,Marketing,Brand Manager,PhD,14,53698,No,,2012-04-02,No,3,4,No,No,0
+545,Employee545,LastName545,63,Male,Operations,Supply Chain Manager,Bachelor,6,97515,No,,2019-12-12,No,2,3,No,Yes,1
+546,Employee546,LastName546,55,Male,IT,Full Stack Developer,Master,5,141360,No,,2023-04-29,No,2,3,Yes,No,4
+547,Employee547,LastName547,48,Male,IT,QA Engineer,Bachelor,12,47717,No,,2014-01-30,No,1,5,Yes,Yes,7
+548,Employee548,LastName548,32,Female,IT,Data Analyst,Bachelor,2,93224,No,,2018-12-30,No,2,5,Yes,Yes,8
+549,Employee549,LastName549,65,Female,Finance,Accountant,Bachelor,16,147514,No,,2012-08-28,No,3,3,No,No,2
+550,Employee550,LastName550,60,Male,Finance,Accountant,Master,7,68641,No,,2016-05-07,No,4,2,Yes,No,4
+551,Employee551,LastName551,37,Female,IT,Software Engineer,Bachelor,12,106457,No,,2023-01-28,No,2,3,No,Yes,6
+552,Employee552,LastName552,60,Female,Marketing,Marketing Specialist,Master,9,75781,Yes,2012-01-19,2011-08-22,No,4,3,Yes,Yes,4
+553,Employee553,LastName553,41,Female,Sales,Sales Manager,PhD,13,68510,Yes,2023-05-28,2018-04-27,No,3,2,No,No,7
+554,Employee554,LastName554,42,Male,IT,Software Engineer,Bachelor,17,110432,Yes,2020-06-12,2019-09-17,No,3,3,No,No,4
+555,Employee555,LastName555,55,Female,Sales,Sales Director,PhD,11,109392,No,,2019-10-10,No,2,5,No,Yes,3
+556,Employee556,LastName556,36,Male,IT,Backend Developer,Master,6,102203,No,,2010-10-21,Yes,1,4,Yes,No,5
+557,Employee557,LastName557,51,Female,Marketing,Content Manager,Bachelor,16,90823,No,,2012-07-10,No,1,2,No,Yes,2
+558,Employee558,LastName558,58,Female,Marketing,Marketing Specialist,PhD,19,145512,No,,2014-10-06,No,5,2,No,Yes,3
+559,Employee559,LastName559,65,Female,Operations,Operations Manager,Master,4,93963,Yes,2021-04-10,2017-05-16,No,5,1,No,Yes,0
+560,Employee560,LastName560,64,Female,HR,HR Coordinator,PhD,16,131246,No,,2020-03-08,No,1,3,Yes,No,5
+561,Employee561,LastName561,35,Male,Marketing,Marketing Specialist,PhD,2,54269,No,,2016-05-06,No,5,5,No,Yes,6
+562,Employee562,LastName562,37,Male,R&D,Senior Research Scientist,Master,13,82347,Yes,2013-04-01,2012-01-01,Yes,2,1,No,No,6
+563,Employee563,LastName563,65,Female,Marketing,Marketing Specialist,Master,20,112194,No,,2012-12-11,No,2,4,No,No,7
+564,Employee564,LastName564,27,Female,R&D,Senior Research Scientist,Bachelor,14,50300,No,,2018-04-05,No,5,3,No,Yes,10
+565,Employee565,LastName565,53,Male,Marketing,Digital Marketing Specialist,Bachelor,17,107601,Yes,2024-06-22,2021-10-08,No,3,2,Yes,No,3
+566,Employee566,LastName566,40,Female,Sales,Sales Manager,PhD,19,59107,No,,2011-01-26,No,5,4,No,Yes,7
+567,Employee567,LastName567,44,Female,Marketing,Marketing Specialist,Bachelor,9,142060,Yes,2026-01-14,2023-02-18,No,4,2,Yes,No,0
+568,Employee568,LastName568,41,Female,HR,Recruiter,PhD,11,79743,No,,2023-03-04,No,3,2,Yes,Yes,1
+569,Employee569,LastName569,65,Female,Marketing,Marketing Specialist,Master,4,60293,No,,2019-09-24,No,1,2,No,No,6
+570,Employee570,LastName570,41,Female,Operations,Logistics Manager,Master,20,56486,No,,2018-02-03,No,2,2,Yes,Yes,1
+571,Employee571,LastName571,34,Male,Operations,Supply Chain Manager,PhD,1,76690,No,,2014-09-11,No,4,5,Yes,Yes,4
+572,Employee572,LastName572,31,Female,Operations,Supply Chain Manager,PhD,16,137090,Yes,2020-06-23,2019-06-19,No,4,4,No,Yes,7
+573,Employee573,LastName573,34,Male,Sales,Account Manager,Bachelor,10,88758,No,,2022-10-09,No,1,1,No,No,7
+574,Employee574,LastName574,24,Female,Marketing,Product Manager,PhD,16,125149,No,,2018-12-19,No,4,2,Yes,Yes,6
+575,Employee575,LastName575,57,Female,Sales,Account Manager,Master,3,60327,No,,2016-01-04,No,4,5,No,No,6
+576,Employee576,LastName576,40,Male,HR,HR Specialist,PhD,7,73796,No,,2020-07-11,No,5,3,No,Yes,4
+577,Employee577,LastName577,48,Female,Marketing,Content Manager,PhD,12,72159,No,,2020-08-05,No,3,1,No,Yes,2
+578,Employee578,LastName578,60,Male,IT,DevOps Engineer,Bachelor,16,72450,No,,2012-04-06,No,5,1,Yes,No,4
+579,Employee579,LastName579,33,Male,R&D,Senior Research Scientist,Bachelor,17,125945,No,,2010-09-19,No,2,1,Yes,No,4
+580,Employee580,LastName580,24,Female,R&D,Research Scientist,Master,18,149724,No,,2016-01-01,Yes,4,1,Yes,Yes,8
+581,Employee581,LastName581,32,Male,HR,HR Specialist,PhD,4,83289,No,,2014-08-10,No,4,5,No,Yes,2
+582,Employee582,LastName582,43,Female,Marketing,Digital Marketing Specialist,Master,5,145823,No,,2012-10-04,No,1,2,No,No,4
+583,Employee583,LastName583,27,Male,Sales,Account Manager,Master,9,127502,No,,2018-05-09,No,2,2,No,Yes,2
+584,Employee584,LastName584,48,Female,Operations,Production Manager,Bachelor,14,103009,No,,2020-04-16,No,2,1,Yes,Yes,5
+585,Employee585,LastName585,32,Female,R&D,Research Scientist,PhD,14,138502,Yes,2011-09-01,2011-05-19,Yes,5,3,No,No,10
+586,Employee586,LastName586,42,Female,Marketing,Product Manager,PhD,12,64249,No,,2010-03-06,No,4,4,Yes,No,5
+587,Employee587,LastName587,34,Female,Operations,Logistics Manager,PhD,10,139225,Yes,2013-11-06,2011-11-22,No,2,5,No,Yes,1
+588,Employee588,LastName588,55,Female,Sales,Sales Director,Bachelor,11,146470,Yes,2018-08-30,2013-08-03,No,3,4,Yes,Yes,5
+589,Employee589,LastName589,29,Female,R&D,Principal Scientist,Master,2,75945,Yes,2016-02-02,2012-10-18,Yes,5,5,Yes,No,4
+590,Employee590,LastName590,46,Male,R&D,Tech Lead,Master,17,57843,Yes,2018-07-13,2015-07-22,Yes,2,4,No,Yes,1
+591,Employee591,LastName591,30,Female,HR,HR Coordinator,PhD,16,113977,No,,2014-10-26,No,4,5,No,No,9
+592,Employee592,LastName592,50,Female,Finance,Accountant,PhD,16,61662,No,,2019-05-09,No,4,4,Yes,Yes,3
+593,Employee593,LastName593,24,Female,Finance,Financial Analyst,PhD,6,98558,No,,2022-07-16,No,1,1,No,No,0
+594,Employee594,LastName594,29,Male,Sales,Sales Director,Master,12,108691,No,,2016-11-02,No,1,2,Yes,No,0
+595,Employee595,LastName595,35,Female,R&D,Senior Engineer,Bachelor,6,99732,Yes,2024-02-12,2020-12-18,No,4,5,No,No,5
+596,Employee596,LastName596,52,Female,Operations,Logistics Manager,Master,20,132453,No,,2012-12-23,No,4,2,No,Yes,9
+597,Employee597,LastName597,46,Female,Marketing,Marketing Specialist,PhD,8,103077,No,,2018-11-14,No,3,1,Yes,Yes,9
+598,Employee598,LastName598,57,Female,Marketing,Product Manager,PhD,4,120609,Yes,2027-12-26,2022-07-19,No,1,5,Yes,No,8
+599,Employee599,LastName599,64,Male,HR,HR Coordinator,Bachelor,18,77150,No,,2014-01-12,No,5,4,Yes,No,6
+600,Employee600,LastName600,53,Male,Sales,Account Manager,Bachelor,1,114193,No,,2017-08-16,No,3,4,No,Yes,1
+601,Employee601,LastName601,40,Male,HR,HR Manager,Bachelor,5,85212,No,,2014-02-05,No,4,2,Yes,No,2
+602,Employee602,LastName602,41,Male,HR,Recruiter,Master,13,78807,No,,2012-03-19,No,4,1,Yes,Yes,3
+603,Employee603,LastName603,53,Male,Operations,Operations Manager,Master,17,52947,No,,2021-04-25,No,3,4,No,Yes,7
+604,Employee604,LastName604,62,Female,HR,Training Specialist,PhD,8,58305,No,,2010-06-02,No,2,5,Yes,No,9
+605,Employee605,LastName605,27,Female,Finance,Accountant,Master,17,115836,No,,2014-07-25,No,2,2,No,No,0
+606,Employee606,LastName606,61,Female,HR,Recruiter,Master,10,123363,Yes,2019-01-26,2013-10-03,No,3,4,No,Yes,9
+607,Employee607,LastName607,24,Female,Operations,Production Manager,Bachelor,6,96813,No,,2021-12-24,No,1,2,No,No,3
+608,Employee608,LastName608,65,Female,Sales,Account Manager,Master,11,77234,No,,2015-11-12,No,3,3,Yes,No,9
+609,Employee609,LastName609,30,Male,R&D,Principal Engineer,Master,1,117848,Yes,2028-10-16,2023-08-28,Yes,4,4,Yes,Yes,8
+610,Employee610,LastName610,65,Female,HR,Recruiter,PhD,4,91919,No,,2017-12-01,No,4,2,Yes,Yes,7
+611,Employee611,LastName611,50,Male,R&D,Tech Lead,Bachelor,1,56792,No,,2014-12-20,No,5,3,Yes,Yes,7
+612,Employee612,LastName612,39,Male,R&D,Senior Engineer,Master,16,119593,Yes,2024-10-09,2023-08-05,No,5,4,Yes,Yes,10
+613,Employee613,LastName613,26,Male,Marketing,Content Manager,Master,19,119698,No,,2012-11-16,No,2,5,No,Yes,10
+614,Employee614,LastName614,65,Female,HR,HR Manager,Master,18,101694,Yes,2022-08-28,2020-03-07,No,4,3,Yes,No,7
+615,Employee615,LastName615,36,Male,R&D,Tech Lead,Bachelor,2,96361,No,,2016-03-26,No,2,3,Yes,Yes,3
+616,Employee616,LastName616,26,Female,Marketing,Marketing Specialist,PhD,8,126958,Yes,2016-03-28,2014-06-01,No,1,1,No,No,0
+617,Employee617,LastName617,38,Female,Sales,Sales Director,Bachelor,8,88724,No,,2012-06-02,No,5,2,Yes,No,1
+618,Employee618,LastName618,59,Female,Marketing,Marketing Specialist,Master,4,86062,No,,2011-12-02,No,1,2,Yes,No,0
+619,Employee619,LastName619,26,Female,R&D,Senior Research Scientist,Bachelor,4,125911,Yes,2012-12-26,2011-04-03,No,4,2,Yes,No,6
+620,Employee620,LastName620,61,Female,Finance,Financial Analyst,Master,20,112792,No,,2012-04-09,No,3,5,Yes,Yes,1
+621,Employee621,LastName621,59,Male,HR,HR Coordinator,Master,7,100182,Yes,2025-10-16,2022-11-09,No,4,5,No,Yes,3
+622,Employee622,LastName622,25,Male,IT,DevOps Engineer,PhD,5,115928,No,,2016-12-28,No,2,2,No,No,9
+623,Employee623,LastName623,45,Female,R&D,Research Scientist,Bachelor,1,111467,Yes,2025-06-30,2021-08-11,Yes,5,1,No,No,3
+624,Employee624,LastName624,26,Male,IT,QA Engineer,PhD,11,88403,No,,2014-04-01,No,5,5,No,No,6
+625,Employee625,LastName625,28,Male,R&D,Research Director,PhD,15,75182,Yes,2016-03-09,2010-12-12,Yes,4,5,Yes,Yes,7
+626,Employee626,LastName626,46,Female,Marketing,Brand Manager,Bachelor,7,54664,Yes,2019-02-05,2018-12-24,No,3,1,Yes,Yes,4
+627,Employee627,LastName627,62,Male,Finance,Accountant,Bachelor,19,82237,Yes,2018-04-27,2018-01-27,No,2,2,No,Yes,5
+628,Employee628,LastName628,33,Male,Operations,Production Manager,Bachelor,7,47751,No,,2010-06-26,No,2,4,Yes,No,3
+629,Employee629,LastName629,37,Female,R&D,Senior Engineer,Bachelor,12,63931,No,,2018-05-09,No,2,2,Yes,No,5
+630,Employee630,LastName630,62,Female,R&D,Research Manager,Master,8,148492,No,,2011-01-14,Yes,2,3,Yes,Yes,10
+631,Employee631,LastName631,30,Female,Operations,Supply Chain Manager,PhD,17,55670,No,,2023-02-06,No,4,5,Yes,Yes,8
+632,Employee632,LastName632,53,Female,Finance,Financial Manager,PhD,17,136030,Yes,2024-06-28,2020-05-31,No,4,4,No,No,9
+633,Employee633,LastName633,35,Male,Finance,Accountant,Master,8,73651,No,,2014-07-21,No,3,4,No,Yes,5
+634,Employee634,LastName634,30,Male,R&D,Research Scientist,Master,3,112143,Yes,2018-09-03,2016-08-14,Yes,5,3,No,No,7
+635,Employee635,LastName635,45,Female,Finance,Financial Analyst,Bachelor,16,102892,No,,2017-02-10,No,2,3,Yes,No,1
+636,Employee636,LastName636,39,Male,R&D,Research Manager,Bachelor,8,88746,Yes,2014-04-23,2012-03-17,Yes,2,3,No,No,10
+637,Employee637,LastName637,34,Female,Operations,Production Manager,Bachelor,20,145935,No,,2013-02-03,No,3,3,No,No,6
+638,Employee638,LastName638,52,Male,Operations,Supply Chain Manager,Bachelor,17,139809,No,,2013-05-07,No,2,4,Yes,No,7
+639,Employee639,LastName639,42,Male,R&D,Research Director,Master,7,103978,No,,2019-08-14,No,5,1,No,Yes,9
+640,Employee640,LastName640,41,Male,Operations,Production Manager,Master,1,74555,No,,2021-03-18,No,4,4,No,No,5
+641,Employee641,LastName641,58,Male,Sales,Sales Director,PhD,2,127554,Yes,2018-07-18,2013-02-13,No,5,5,No,No,3
+642,Employee642,LastName642,56,Male,Finance,Financial Manager,PhD,13,104183,No,,2014-03-23,No,3,1,Yes,Yes,10
+643,Employee643,LastName643,24,Male,Sales,Sales Manager,Master,20,82200,Yes,2022-02-26,2020-12-16,No,2,2,No,Yes,7
+644,Employee644,LastName644,55,Female,HR,Recruiter,Master,1,65582,No,,2013-11-08,No,1,2,No,No,1
+645,Employee645,LastName645,30,Male,Finance,Senior Analyst,Bachelor,7,124129,No,,2016-12-12,No,5,3,Yes,No,4
+646,Employee646,LastName646,31,Male,IT,QA Engineer,Master,15,119609,No,,2011-06-09,Yes,4,4,No,Yes,1
+647,Employee647,LastName647,44,Female,R&D,Senior Research Scientist,Bachelor,10,68537,No,,2018-10-09,Yes,5,4,No,No,10
+648,Employee648,LastName648,47,Male,IT,DevOps Engineer,PhD,2,115482,No,,2015-05-18,Yes,3,1,Yes,No,6
+649,Employee649,LastName649,45,Male,Operations,Production Manager,Master,3,104105,No,,2012-05-11,No,2,3,Yes,Yes,7
+650,Employee650,LastName650,62,Male,HR,Recruiter,Bachelor,15,96992,No,,2018-07-20,No,1,1,No,Yes,2
+651,Employee651,LastName651,53,Female,R&D,Principal Scientist,Bachelor,15,106707,Yes,2015-04-18,2011-07-13,Yes,3,2,Yes,Yes,9
+652,Employee652,LastName652,40,Male,HR,HR Specialist,Bachelor,4,133000,No,,2021-12-28,No,1,3,Yes,No,5
+653,Employee653,LastName653,24,Male,IT,Backend Developer,PhD,18,129018,No,,2014-11-06,Yes,1,4,No,No,0
+654,Employee654,LastName654,25,Male,Sales,Sales Director,Bachelor,13,71212,No,,2014-07-11,No,1,1,No,Yes,0
+655,Employee655,LastName655,65,Male,R&D,Principal Engineer,PhD,3,66895,No,,2014-12-12,Yes,1,4,Yes,No,5
+656,Employee656,LastName656,61,Male,Sales,Account Manager,Bachelor,7,75462,No,,2022-02-24,No,2,1,No,No,2
+657,Employee657,LastName657,63,Female,HR,Recruiter,Bachelor,11,53652,No,,2010-04-09,No,3,5,No,Yes,1
+658,Employee658,LastName658,41,Female,IT,Backend Developer,PhD,20,148712,No,,2021-03-16,Yes,5,2,No,Yes,9
+659,Employee659,LastName659,65,Female,R&D,Principal Scientist,Bachelor,5,88922,Yes,2021-10-19,2017-06-13,No,1,5,No,No,8
+660,Employee660,LastName660,54,Male,Marketing,Product Manager,Bachelor,19,85481,No,,2010-04-19,No,2,4,Yes,Yes,0
+661,Employee661,LastName661,53,Female,IT,Data Analyst,PhD,10,123390,Yes,2015-10-04,2014-07-13,Yes,4,3,Yes,No,5
+662,Employee662,LastName662,55,Male,Marketing,Content Manager,PhD,14,88420,No,,2016-06-21,No,3,2,Yes,Yes,10
+663,Employee663,LastName663,60,Male,IT,Backend Developer,Bachelor,13,53469,No,,2021-09-11,No,4,1,Yes,Yes,10
+664,Employee664,LastName664,30,Male,IT,Data Analyst,PhD,3,55245,No,,2013-11-23,Yes,4,4,No,Yes,3
+665,Employee665,LastName665,33,Female,IT,Backend Developer,Bachelor,20,80633,No,,2015-08-02,No,4,1,No,No,6
+666,Employee666,LastName666,50,Female,IT,Data Analyst,Master,14,47596,No,,2021-05-02,No,4,4,Yes,No,9
+667,Employee667,LastName667,57,Male,Sales,Sales Director,Master,6,82122,No,,2015-10-09,No,4,5,No,Yes,5
+668,Employee668,LastName668,34,Female,IT,Full Stack Developer,Master,5,99502,Yes,2019-03-02,2014-04-03,No,4,3,No,No,4
+669,Employee669,LastName669,48,Male,Marketing,Product Manager,Bachelor,2,70457,No,,2012-10-16,No,4,3,No,No,10
+670,Employee670,LastName670,25,Female,Marketing,Content Manager,Master,13,49522,No,,2019-07-06,No,3,1,Yes,No,9
+671,Employee671,LastName671,38,Male,Finance,Accountant,Bachelor,8,60300,No,,2023-07-04,No,1,4,No,Yes,8
+672,Employee672,LastName672,32,Female,IT,QA Engineer,Master,14,141198,No,,2015-09-03,No,4,1,Yes,No,2
+673,Employee673,LastName673,47,Male,R&D,Research Scientist,Bachelor,10,54154,No,,2010-02-22,No,4,5,No,No,6
+674,Employee674,LastName674,45,Male,IT,Full Stack Developer,PhD,6,72862,Yes,2014-02-11,2013-01-05,Yes,2,2,Yes,Yes,3
+675,Employee675,LastName675,50,Female,R&D,Senior Engineer,Master,20,56233,No,,2012-06-13,Yes,4,1,No,Yes,5
+676,Employee676,LastName676,52,Male,HR,HR Manager,PhD,16,121342,Yes,2013-10-31,2012-04-05,No,1,1,Yes,Yes,6
+677,Employee677,LastName677,53,Female,Sales,Sales Director,Master,16,134372,No,,2017-07-23,No,3,3,Yes,No,10
+678,Employee678,LastName678,61,Female,Finance,Financial Analyst,Bachelor,2,104889,No,,2017-12-26,No,4,2,Yes,Yes,8
+679,Employee679,LastName679,45,Male,R&D,Research Scientist,PhD,15,87229,Yes,2024-06-10,2020-08-28,Yes,1,3,Yes,No,10
+680,Employee680,LastName680,60,Male,Finance,Financial Analyst,Master,16,101087,No,,2018-12-23,No,4,1,No,No,9
+681,Employee681,LastName681,55,Male,IT,DevOps Engineer,PhD,19,116925,Yes,2024-03-10,2021-04-26,Yes,4,2,No,Yes,7
+682,Employee682,LastName682,37,Male,Marketing,Marketing Specialist,Bachelor,7,102002,No,,2013-10-28,No,1,2,No,No,4
+683,Employee683,LastName683,64,Female,IT,Software Engineer,PhD,16,88620,No,,2012-10-05,No,2,5,Yes,No,6
+684,Employee684,LastName684,63,Female,Marketing,Content Manager,Master,18,60163,No,,2019-10-20,No,3,1,Yes,Yes,5
+685,Employee685,LastName685,29,Male,Marketing,Digital Marketing Specialist,PhD,19,141589,Yes,2020-02-01,2018-04-01,No,1,3,Yes,Yes,6
+686,Employee686,LastName686,45,Female,Finance,Budget Analyst,Bachelor,5,58970,No,,2021-08-28,No,4,1,No,No,2
+687,Employee687,LastName687,36,Female,Operations,Supply Chain Manager,PhD,16,132208,Yes,2021-11-22,2020-03-22,No,1,5,No,No,8
+688,Employee688,LastName688,39,Male,Marketing,Content Manager,Master,19,83206,No,,2020-09-23,No,4,1,No,Yes,3
+689,Employee689,LastName689,25,Male,Operations,Production Manager,PhD,6,65865,No,,2020-12-07,No,1,5,No,No,6
+690,Employee690,LastName690,44,Female,Marketing,Brand Manager,Master,13,136275,Yes,2022-12-05,2018-10-09,No,2,5,No,Yes,2
+691,Employee691,LastName691,41,Male,R&D,Principal Scientist,Master,15,63982,No,,2013-09-02,No,2,2,Yes,Yes,5
+692,Employee692,LastName692,65,Male,Marketing,Digital Marketing Specialist,PhD,5,67049,No,,2018-06-12,No,1,1,No,No,2
+693,Employee693,LastName693,54,Male,HR,HR Specialist,PhD,11,139706,No,,2023-04-24,No,4,2,Yes,Yes,3
+694,Employee694,LastName694,41,Female,Finance,Senior Analyst,PhD,20,149244,No,,2013-11-14,No,1,4,No,No,10
+695,Employee695,LastName695,45,Female,Marketing,Digital Marketing Specialist,PhD,1,132659,Yes,2013-06-16,2012-09-10,No,5,2,Yes,No,4
+696,Employee696,LastName696,59,Male,Marketing,Digital Marketing Specialist,Master,6,119897,No,,2018-08-12,No,2,1,No,Yes,8
+697,Employee697,LastName697,23,Female,IT,Software Engineer,PhD,13,121640,No,,2022-06-22,No,5,1,Yes,Yes,2
+698,Employee698,LastName698,22,Male,Operations,Operations Manager,Bachelor,18,61884,No,,2020-01-12,No,5,2,Yes,Yes,8
+699,Employee699,LastName699,27,Male,R&D,Senior Research Scientist,PhD,4,45011,Yes,2024-06-26,2021-05-09,Yes,2,3,Yes,No,10
+700,Employee700,LastName700,30,Female,Sales,Sales Director,PhD,19,115544,No,,2020-12-31,No,5,2,Yes,Yes,3
+701,Employee701,LastName701,31,Male,HR,Training Specialist,PhD,10,73316,No,,2014-10-30,No,5,3,No,Yes,9
+702,Employee702,LastName702,57,Male,Finance,Accountant,Master,9,104777,No,,2015-11-06,No,1,3,No,Yes,8
+703,Employee703,LastName703,62,Male,IT,Full Stack Developer,Bachelor,9,86465,No,,2014-04-28,Yes,4,4,Yes,Yes,1
+704,Employee704,LastName704,56,Male,R&D,Tech Lead,Master,4,146983,Yes,2024-03-24,2022-04-20,Yes,3,2,Yes,No,0
+705,Employee705,LastName705,36,Female,HR,HR Manager,Bachelor,13,114006,No,,2012-05-10,No,3,5,No,Yes,8
+706,Employee706,LastName706,57,Female,R&D,Tech Lead,Master,9,68681,Yes,2023-12-23,2023-08-17,Yes,3,5,No,No,9
+707,Employee707,LastName707,22,Female,IT,Full Stack Developer,PhD,17,141393,No,,2013-06-27,Yes,3,1,No,Yes,10
+708,Employee708,LastName708,51,Female,Sales,Account Manager,PhD,6,82594,No,,2019-11-05,No,3,4,Yes,No,10
+709,Employee709,LastName709,41,Male,Operations,Operations Manager,Bachelor,14,140676,No,,2017-01-05,No,2,1,Yes,Yes,1
+710,Employee710,LastName710,57,Female,Marketing,Digital Marketing Specialist,PhD,16,111674,No,,2010-03-29,No,2,4,No,Yes,6
+711,Employee711,LastName711,22,Male,HR,HR Specialist,PhD,14,131661,No,,2021-12-26,No,5,5,Yes,No,2
+712,Employee712,LastName712,33,Male,Marketing,Product Manager,Master,3,51672,No,,2018-03-26,No,4,4,No,Yes,5
+713,Employee713,LastName713,65,Female,HR,HR Manager,Master,8,84213,No,,2022-02-03,No,4,3,No,Yes,0
+714,Employee714,LastName714,35,Female,Marketing,Marketing Specialist,Master,10,125969,No,,2021-07-25,No,4,1,No,Yes,9
+715,Employee715,LastName715,41,Female,Finance,Accountant,Master,12,91469,Yes,2017-06-23,2012-05-27,No,1,1,No,No,3
+716,Employee716,LastName716,48,Male,HR,HR Coordinator,Bachelor,4,106695,Yes,2025-04-29,2020-12-06,No,4,3,No,No,6
+717,Employee717,LastName717,28,Female,IT,Software Engineer,Master,15,137958,Yes,2021-12-02,2019-11-09,No,2,1,Yes,No,0
+718,Employee718,LastName718,48,Female,IT,Backend Developer,Master,11,60570,Yes,2011-11-27,2010-09-16,No,4,4,No,Yes,5
+719,Employee719,LastName719,54,Female,Operations,Operations Manager,Bachelor,13,65387,Yes,2013-08-19,2012-12-12,No,3,5,Yes,Yes,0
+720,Employee720,LastName720,49,Female,Marketing,Brand Manager,Master,20,108691,No,,2010-03-07,No,1,4,Yes,Yes,8
+721,Employee721,LastName721,39,Male,IT,Backend Developer,Master,4,71006,No,,2015-11-29,Yes,4,1,Yes,Yes,9
+722,Employee722,LastName722,36,Male,Marketing,Brand Manager,Bachelor,4,64163,No,,2012-12-19,No,4,1,Yes,Yes,0
+723,Employee723,LastName723,55,Female,Finance,Senior Analyst,Master,10,53041,No,,2015-03-11,No,5,4,Yes,No,1
+724,Employee724,LastName724,39,Female,R&D,Principal Engineer,Bachelor,12,45070,Yes,2024-06-23,2019-05-18,Yes,1,3,Yes,No,7
+725,Employee725,LastName725,49,Male,R&D,Tech Lead,Master,6,59618,No,,2015-08-29,No,1,1,Yes,No,5
+726,Employee726,LastName726,59,Female,Marketing,Brand Manager,Bachelor,17,121588,No,,2023-07-25,No,4,1,Yes,Yes,10
+727,Employee727,LastName727,24,Male,Marketing,Digital Marketing Specialist,Bachelor,19,54814,No,,2014-04-10,No,5,5,No,No,7
+728,Employee728,LastName728,56,Male,Operations,Production Manager,PhD,5,90526,Yes,2013-05-29,2010-12-25,No,3,4,Yes,No,1
+729,Employee729,LastName729,55,Female,Finance,Accountant,Master,17,50956,Yes,2012-02-10,2010-06-29,No,5,1,Yes,No,7
+730,Employee730,LastName730,32,Male,Marketing,Digital Marketing Specialist,Master,15,124589,No,,2021-06-04,No,3,2,Yes,Yes,2
+731,Employee731,LastName731,59,Male,Sales,Sales Director,Master,1,73879,No,,2021-07-02,No,3,3,Yes,Yes,3
+732,Employee732,LastName732,40,Male,HR,HR Coordinator,Bachelor,2,80446,No,,2013-04-28,No,1,2,Yes,Yes,0
+733,Employee733,LastName733,62,Female,Marketing,Product Manager,Master,20,139644,No,,2018-04-12,No,2,4,No,No,0
+734,Employee734,LastName734,44,Male,Marketing,Marketing Specialist,PhD,8,131155,No,,2016-04-10,No,5,1,No,No,10
+735,Employee735,LastName735,50,Male,Marketing,Product Manager,PhD,8,143683,No,,2017-04-10,No,4,2,No,Yes,6
+736,Employee736,LastName736,52,Male,R&D,Research Director,PhD,3,109293,Yes,2022-03-29,2021-02-14,Yes,2,3,Yes,No,2
+737,Employee737,LastName737,65,Female,IT,Data Analyst,Master,20,129557,Yes,2014-09-12,2014-03-19,No,4,1,Yes,Yes,9
+738,Employee738,LastName738,46,Female,HR,HR Manager,Bachelor,1,77550,No,,2012-06-20,No,1,3,Yes,Yes,0
+739,Employee739,LastName739,56,Male,Operations,Logistics Manager,PhD,11,103238,No,,2011-11-28,No,2,3,No,No,2
+740,Employee740,LastName740,56,Male,IT,Software Engineer,PhD,9,83894,Yes,2026-11-25,2022-03-12,Yes,1,5,No,Yes,0
+741,Employee741,LastName741,36,Male,IT,Data Analyst,PhD,14,95429,Yes,2022-05-27,2018-08-24,No,1,4,Yes,Yes,3
+742,Employee742,LastName742,44,Female,HR,HR Manager,Bachelor,3,124233,Yes,2022-09-28,2017-06-26,No,2,2,No,No,9
+743,Employee743,LastName743,31,Female,IT,DevOps Engineer,Master,10,131734,No,,2016-06-09,Yes,3,3,Yes,Yes,2
+744,Employee744,LastName744,42,Male,Operations,Logistics Manager,Bachelor,5,59832,No,,2018-10-05,No,5,4,No,Yes,1
+745,Employee745,LastName745,33,Male,R&D,Senior Research Scientist,PhD,13,149005,Yes,2020-05-14,2017-11-28,No,3,2,Yes,No,6
+746,Employee746,LastName746,56,Female,Sales,Sales Representative,Master,18,55959,No,,2021-01-18,No,5,4,Yes,Yes,3
+747,Employee747,LastName747,35,Male,R&D,Senior Engineer,Bachelor,1,90789,Yes,2023-07-31,2018-02-16,Yes,3,2,No,No,2
+748,Employee748,LastName748,37,Female,Operations,Operations Manager,PhD,7,137269,Yes,2015-11-22,2015-01-14,No,2,4,Yes,No,5
+749,Employee749,LastName749,64,Male,HR,Training Specialist,Bachelor,19,48956,No,,2011-08-28,No,2,3,Yes,Yes,3
+750,Employee750,LastName750,58,Male,HR,Recruiter,PhD,14,63364,No,,2013-05-11,No,5,3,No,No,5
+751,Employee751,LastName751,40,Male,Finance,Financial Analyst,PhD,4,143452,Yes,2017-03-07,2013-07-01,No,2,5,Yes,Yes,6
+752,Employee752,LastName752,65,Female,Operations,Production Manager,PhD,15,110781,No,,2022-06-06,No,3,2,No,Yes,4
+753,Employee753,LastName753,30,Female,HR,HR Specialist,Master,7,69077,No,,2018-12-25,No,5,5,Yes,No,7
+754,Employee754,LastName754,46,Female,R&D,Research Director,Master,6,59208,No,,2011-03-24,No,1,1,No,No,0
+755,Employee755,LastName755,32,Female,IT,DevOps Engineer,Bachelor,18,117311,Yes,2015-10-26,2012-05-22,Yes,2,1,Yes,No,1
+756,Employee756,LastName756,58,Male,Sales,Sales Director,Bachelor,16,91746,Yes,2011-08-18,2011-01-10,No,3,4,Yes,No,6
+757,Employee757,LastName757,30,Female,Marketing,Product Manager,Bachelor,4,110821,No,,2017-06-07,No,2,1,No,No,9
+758,Employee758,LastName758,40,Male,Operations,Operations Manager,PhD,6,57227,No,,2013-05-26,No,2,2,Yes,Yes,8
+759,Employee759,LastName759,50,Female,Sales,Account Manager,Bachelor,5,138423,No,,2017-08-09,No,4,2,Yes,Yes,2
+760,Employee760,LastName760,28,Female,Sales,Sales Director,PhD,1,149514,No,,2013-03-14,No,1,4,Yes,No,5
+761,Employee761,LastName761,32,Female,IT,Software Engineer,Bachelor,3,68486,No,,2016-04-13,No,4,3,No,No,7
+762,Employee762,LastName762,29,Male,Marketing,Brand Manager,Master,19,98612,Yes,2025-11-06,2020-12-13,No,5,2,No,No,8
+763,Employee763,LastName763,45,Female,Operations,Production Manager,PhD,3,50593,No,,2019-04-08,No,5,1,Yes,Yes,2
+764,Employee764,LastName764,40,Male,Operations,Operations Manager,Bachelor,13,95885,No,,2013-07-20,No,4,1,No,No,7
+765,Employee765,LastName765,28,Female,Marketing,Digital Marketing Specialist,Master,3,71145,No,,2014-01-16,No,4,3,Yes,No,5
+766,Employee766,LastName766,35,Female,Sales,Sales Manager,PhD,16,65413,No,,2012-07-25,No,4,2,Yes,No,9
+767,Employee767,LastName767,25,Female,HR,HR Specialist,Bachelor,12,72720,No,,2019-08-25,No,1,4,No,No,10
+768,Employee768,LastName768,31,Male,IT,Backend Developer,Master,3,100013,No,,2016-02-22,No,5,2,No,Yes,0
+769,Employee769,LastName769,43,Female,HR,Recruiter,Master,10,107324,No,,2013-09-09,No,5,2,No,No,9
+770,Employee770,LastName770,57,Male,Finance,Budget Analyst,PhD,20,63955,Yes,2018-04-12,2014-06-15,No,3,3,Yes,Yes,7
+771,Employee771,LastName771,42,Female,IT,Full Stack Developer,Bachelor,4,128138,Yes,2023-04-01,2019-02-12,Yes,4,5,Yes,Yes,3
+772,Employee772,LastName772,48,Male,Marketing,Content Manager,Master,18,72494,No,,2013-09-22,No,2,5,Yes,No,5
+773,Employee773,LastName773,41,Female,HR,Recruiter,Master,17,98790,No,,2012-10-18,No,3,3,No,No,1
+774,Employee774,LastName774,49,Female,IT,QA Engineer,Master,12,95012,No,,2013-12-20,Yes,3,4,No,Yes,1
+775,Employee775,LastName775,27,Male,Operations,Operations Manager,PhD,1,103209,Yes,2023-07-06,2019-03-24,No,5,5,Yes,No,6
+776,Employee776,LastName776,51,Male,IT,Software Engineer,Master,18,149038,Yes,2023-06-06,2018-07-19,No,4,4,No,Yes,5
+777,Employee777,LastName777,54,Male,Operations,Production Manager,Master,10,149220,No,,2016-01-02,No,4,2,Yes,No,0
+778,Employee778,LastName778,31,Male,HR,Training Specialist,Master,12,88920,No,,2021-08-22,No,2,5,No,Yes,8
+779,Employee779,LastName779,61,Male,Finance,Budget Analyst,Master,13,61891,No,,2011-02-27,No,4,2,No,No,8
+780,Employee780,LastName780,36,Female,IT,Backend Developer,Master,4,117470,No,,2012-10-31,No,2,3,Yes,Yes,1
+781,Employee781,LastName781,22,Female,HR,Training Specialist,Bachelor,19,119946,Yes,2017-06-25,2013-06-07,No,4,1,Yes,No,10
+782,Employee782,LastName782,33,Female,Marketing,Product Manager,Bachelor,8,140199,No,,2014-12-22,No,4,3,Yes,No,1
+783,Employee783,LastName783,62,Male,IT,Software Engineer,Bachelor,19,82022,Yes,2017-08-07,2012-04-27,Yes,3,2,Yes,Yes,7
+784,Employee784,LastName784,35,Female,Operations,Operations Manager,Master,13,54643,No,,2012-04-04,No,4,1,Yes,No,6
+785,Employee785,LastName785,32,Female,R&D,Senior Engineer,Master,6,90453,Yes,2017-10-13,2016-09-13,Yes,4,5,Yes,Yes,8
+786,Employee786,LastName786,29,Female,Marketing,Product Manager,PhD,7,144740,Yes,2023-10-22,2023-08-06,No,2,2,No,Yes,3
+787,Employee787,LastName787,30,Female,HR,HR Specialist,Master,8,80870,No,,2011-11-15,No,4,2,Yes,No,8
+788,Employee788,LastName788,51,Female,Marketing,Digital Marketing Specialist,Bachelor,16,77780,No,,2019-10-13,No,2,2,No,No,1
+789,Employee789,LastName789,32,Female,Sales,Account Manager,Master,7,123162,No,,2020-12-10,No,3,3,Yes,No,6
+790,Employee790,LastName790,45,Female,IT,QA Engineer,Master,3,83466,Yes,2020-05-08,2020-01-30,No,5,5,No,No,0
+791,Employee791,LastName791,42,Male,HR,HR Manager,Bachelor,14,131108,No,,2014-03-04,No,3,3,Yes,No,1
+792,Employee792,LastName792,22,Female,HR,HR Coordinator,Bachelor,11,118615,No,,2014-10-18,No,1,4,No,Yes,8
+793,Employee793,LastName793,57,Male,IT,QA Engineer,PhD,9,100279,No,,2023-08-20,Yes,4,3,No,Yes,3
+794,Employee794,LastName794,53,Female,HR,HR Manager,Master,2,67431,No,,2016-02-27,No,5,3,No,Yes,9
+795,Employee795,LastName795,23,Female,HR,HR Coordinator,Bachelor,19,97797,No,,2010-02-08,No,1,5,Yes,No,10
+796,Employee796,LastName796,52,Male,HR,HR Coordinator,Master,4,143787,No,,2019-04-24,No,3,4,Yes,No,7
+797,Employee797,LastName797,47,Male,Sales,Sales Manager,Master,10,125999,No,,2020-03-12,No,1,1,Yes,Yes,0
+798,Employee798,LastName798,42,Male,IT,QA Engineer,Bachelor,14,135209,Yes,2016-03-25,2015-01-29,No,1,3,Yes,Yes,0
+799,Employee799,LastName799,38,Male,R&D,Principal Scientist,Bachelor,11,61552,Yes,2019-07-20,2018-07-07,Yes,3,2,No,No,10
+800,Employee800,LastName800,58,Male,HR,HR Coordinator,PhD,16,108269,No,,2020-12-28,No,2,1,No,No,1
+801,Employee801,LastName801,64,Male,R&D,Research Director,Bachelor,7,132883,Yes,2014-08-09,2011-10-02,Yes,2,4,No,Yes,7
+802,Employee802,LastName802,35,Female,HR,HR Coordinator,Master,19,137866,No,,2021-11-01,No,4,2,Yes,Yes,3
+803,Employee803,LastName803,50,Female,R&D,Senior Engineer,Master,20,100455,Yes,2023-11-04,2021-07-08,Yes,2,3,Yes,Yes,7
+804,Employee804,LastName804,37,Male,HR,HR Manager,Master,1,131754,No,,2020-05-03,No,5,4,No,No,1
+805,Employee805,LastName805,44,Male,Sales,Account Manager,PhD,14,88743,Yes,2017-08-27,2014-10-04,No,1,4,No,No,1
+806,Employee806,LastName806,49,Female,HR,HR Specialist,PhD,7,81166,No,,2016-08-05,No,5,5,No,No,1
+807,Employee807,LastName807,63,Male,Marketing,Marketing Specialist,Bachelor,8,120396,No,,2012-06-28,No,3,2,Yes,Yes,4
+808,Employee808,LastName808,47,Female,IT,Full Stack Developer,Bachelor,13,67417,Yes,2016-12-21,2012-04-09,No,2,3,No,No,0
+809,Employee809,LastName809,54,Male,HR,HR Specialist,Bachelor,20,86302,No,,2020-09-10,No,1,2,Yes,No,7
+810,Employee810,LastName810,64,Male,IT,DevOps Engineer,Bachelor,16,67377,No,,2019-08-07,Yes,1,5,No,No,9
+811,Employee811,LastName811,37,Female,HR,Training Specialist,PhD,16,83097,Yes,2012-08-19,2012-06-15,No,2,5,Yes,Yes,1
+812,Employee812,LastName812,43,Female,HR,Training Specialist,Master,15,131954,No,,2021-01-02,No,4,3,No,No,0
+813,Employee813,LastName813,41,Female,Operations,Logistics Manager,Bachelor,11,80381,No,,2021-08-13,No,5,1,Yes,No,3
+814,Employee814,LastName814,44,Male,Marketing,Digital Marketing Specialist,Master,16,72041,No,,2010-09-11,No,1,2,No,Yes,4
+815,Employee815,LastName815,55,Female,Marketing,Brand Manager,Master,6,96252,No,,2015-12-14,No,5,4,No,No,3
+816,Employee816,LastName816,61,Female,HR,Training Specialist,Master,4,82802,No,,2019-09-21,No,1,1,No,Yes,7
+817,Employee817,LastName817,55,Male,Marketing,Brand Manager,Master,10,82782,No,,2022-07-09,No,1,3,Yes,No,0
+818,Employee818,LastName818,59,Female,IT,Full Stack Developer,Master,4,131540,No,,2011-03-12,Yes,1,1,No,Yes,5
+819,Employee819,LastName819,27,Male,R&D,Senior Research Scientist,PhD,9,55579,No,,2013-03-14,Yes,3,2,Yes,No,5
+820,Employee820,LastName820,49,Female,IT,QA Engineer,Master,13,67715,No,,2012-03-14,No,5,4,No,Yes,10
+821,Employee821,LastName821,38,Male,Operations,Production Manager,Master,5,56219,No,,2019-05-04,No,3,5,No,Yes,6
+822,Employee822,LastName822,28,Female,Operations,Production Manager,PhD,5,134805,No,,2021-10-23,No,3,4,No,No,7
+823,Employee823,LastName823,51,Female,Finance,Senior Analyst,Bachelor,1,144071,Yes,2026-12-01,2022-07-15,No,2,5,No,Yes,9
+824,Employee824,LastName824,30,Female,Sales,Sales Director,Bachelor,20,144003,No,,2022-03-09,No,4,2,No,Yes,7
+825,Employee825,LastName825,25,Female,Operations,Operations Manager,Master,3,122901,No,,2011-03-25,No,1,3,No,No,0
+826,Employee826,LastName826,35,Male,HR,Recruiter,Bachelor,17,74300,No,,2013-03-26,No,2,3,No,Yes,7
+827,Employee827,LastName827,29,Male,Sales,Sales Manager,PhD,3,57696,Yes,2015-01-07,2010-01-01,No,2,2,Yes,No,0
+828,Employee828,LastName828,47,Female,Operations,Logistics Manager,Bachelor,2,75792,No,,2012-09-24,No,5,3,No,Yes,6
+829,Employee829,LastName829,33,Male,IT,Full Stack Developer,Master,5,83015,Yes,2019-08-21,2015-05-26,Yes,3,1,No,No,10
+830,Employee830,LastName830,46,Female,R&D,Research Scientist,Master,4,104910,Yes,2022-11-14,2020-05-28,Yes,1,5,No,Yes,9
+831,Employee831,LastName831,63,Male,R&D,Principal Engineer,Master,20,139773,Yes,2025-02-19,2019-12-21,No,4,3,Yes,Yes,5
+832,Employee832,LastName832,44,Male,Sales,Sales Representative,PhD,17,64844,No,,2018-10-05,No,3,5,No,No,2
+833,Employee833,LastName833,47,Female,R&D,Research Manager,PhD,3,113869,Yes,2023-07-30,2020-11-06,Yes,3,2,No,No,9
+834,Employee834,LastName834,26,Female,Sales,Sales Representative,Bachelor,2,57653,No,,2010-08-30,No,1,4,No,No,3
+835,Employee835,LastName835,28,Male,Operations,Logistics Manager,Bachelor,6,53116,No,,2018-08-13,No,5,3,Yes,Yes,1
+836,Employee836,LastName836,60,Female,Finance,Senior Analyst,Master,1,62460,No,,2013-11-26,No,5,5,Yes,Yes,4
+837,Employee837,LastName837,65,Female,Finance,Accountant,Master,10,114275,No,,2015-01-22,No,2,1,Yes,Yes,3
+838,Employee838,LastName838,22,Male,HR,HR Manager,Master,12,69288,No,,2019-02-25,No,5,4,Yes,Yes,9
+839,Employee839,LastName839,54,Female,Operations,Supply Chain Manager,Bachelor,12,102524,No,,2017-12-30,No,4,4,Yes,Yes,2
+840,Employee840,LastName840,28,Female,Operations,Production Manager,Bachelor,4,74362,No,,2021-03-09,No,3,3,No,No,1
+841,Employee841,LastName841,40,Male,Operations,Production Manager,Master,3,126087,No,,2021-12-26,No,1,5,Yes,No,4
+842,Employee842,LastName842,24,Male,Marketing,Brand Manager,Bachelor,11,63256,No,,2019-06-15,No,2,5,No,Yes,3
+843,Employee843,LastName843,58,Male,Finance,Financial Analyst,Master,20,123400,No,,2010-10-17,No,5,1,No,Yes,4
+844,Employee844,LastName844,28,Male,Marketing,Brand Manager,Master,2,107599,No,,2021-02-20,No,3,2,Yes,Yes,0
+845,Employee845,LastName845,56,Male,Operations,Operations Manager,PhD,20,108199,No,,2018-07-05,No,1,4,No,Yes,6
+846,Employee846,LastName846,57,Female,Marketing,Product Manager,Master,5,91109,No,,2012-08-04,No,2,3,No,Yes,3
+847,Employee847,LastName847,59,Male,IT,Software Engineer,PhD,1,77757,No,,2015-02-04,Yes,1,1,Yes,Yes,7
+848,Employee848,LastName848,24,Female,IT,DevOps Engineer,Bachelor,11,124445,No,,2017-11-04,Yes,4,4,Yes,Yes,1
+849,Employee849,LastName849,53,Male,R&D,Research Manager,Master,12,130674,Yes,2016-09-19,2014-12-10,No,2,5,No,No,8
+850,Employee850,LastName850,25,Male,Sales,Account Manager,Master,12,55282,No,,2019-03-20,No,2,2,Yes,No,8
+851,Employee851,LastName851,45,Male,IT,Backend Developer,Master,5,59973,No,,2010-10-21,No,1,4,Yes,No,4
+852,Employee852,LastName852,41,Female,Sales,Account Manager,Master,3,47470,No,,2011-05-05,No,4,4,No,Yes,3
+853,Employee853,LastName853,33,Female,IT,QA Engineer,Master,14,48406,Yes,2023-09-26,2021-12-11,Yes,5,3,No,Yes,0
+854,Employee854,LastName854,49,Female,R&D,Research Manager,Master,2,100552,Yes,2017-11-14,2012-06-13,No,5,5,No,Yes,6
+855,Employee855,LastName855,30,Male,Finance,Financial Manager,Bachelor,1,77759,No,,2016-04-18,No,5,3,No,No,0
+856,Employee856,LastName856,45,Female,Sales,Sales Manager,Bachelor,9,85225,No,,2015-08-15,No,5,3,No,Yes,7
+857,Employee857,LastName857,50,Male,Finance,Senior Analyst,PhD,1,117955,Yes,2022-07-22,2020-06-18,No,2,4,Yes,Yes,4
+858,Employee858,LastName858,26,Female,Sales,Sales Director,Master,15,109871,No,,2014-01-12,No,2,2,Yes,Yes,9
+859,Employee859,LastName859,36,Male,Marketing,Product Manager,Master,4,121007,No,,2010-11-12,No,3,1,Yes,Yes,4
+860,Employee860,LastName860,65,Male,R&D,Tech Lead,Bachelor,12,55155,No,,2022-02-14,Yes,5,4,Yes,Yes,3
+861,Employee861,LastName861,58,Female,IT,Data Analyst,Bachelor,12,87800,Yes,2021-10-20,2019-05-01,No,5,3,No,No,10
+862,Employee862,LastName862,40,Female,R&D,Principal Engineer,PhD,20,48346,Yes,2011-01-12,2010-09-13,No,1,5,Yes,No,8
+863,Employee863,LastName863,35,Female,Marketing,Content Manager,Master,13,144957,Yes,2027-03-23,2023-01-26,No,1,1,Yes,No,8
+864,Employee864,LastName864,55,Male,Marketing,Product Manager,PhD,2,102805,No,,2023-08-14,No,3,3,Yes,No,3
+865,Employee865,LastName865,45,Male,R&D,Principal Scientist,PhD,8,98729,Yes,2020-12-14,2020-03-23,Yes,3,1,No,Yes,5
+866,Employee866,LastName866,60,Female,Marketing,Content Manager,PhD,8,61420,No,,2020-01-26,No,5,2,No,Yes,9
+867,Employee867,LastName867,43,Female,R&D,Principal Scientist,PhD,11,146272,Yes,2015-02-02,2012-08-24,Yes,2,2,No,Yes,2
+868,Employee868,LastName868,38,Female,HR,HR Specialist,Bachelor,18,101547,No,,2020-07-16,No,1,2,Yes,Yes,8
+869,Employee869,LastName869,49,Female,Operations,Supply Chain Manager,PhD,12,83455,No,,2012-11-10,No,1,3,No,Yes,0
+870,Employee870,LastName870,50,Female,HR,Recruiter,Master,14,144308,No,,2020-02-02,No,4,2,Yes,Yes,2
+871,Employee871,LastName871,65,Female,HR,HR Specialist,PhD,15,139703,No,,2018-07-05,No,5,3,Yes,Yes,4
+872,Employee872,LastName872,25,Female,Finance,Budget Analyst,PhD,19,100927,No,,2021-08-11,No,3,3,No,No,2
+873,Employee873,LastName873,35,Male,IT,Software Engineer,Master,14,82328,No,,2021-08-23,No,2,1,No,No,7
+874,Employee874,LastName874,32,Male,Finance,Financial Analyst,Bachelor,10,132350,No,,2015-10-27,No,3,2,Yes,Yes,8
+875,Employee875,LastName875,23,Male,Operations,Supply Chain Manager,Bachelor,20,109011,No,,2010-11-22,No,1,3,Yes,No,9
+876,Employee876,LastName876,55,Female,Finance,Financial Analyst,PhD,5,137579,No,,2020-03-06,No,1,4,No,No,4
+877,Employee877,LastName877,39,Male,HR,HR Specialist,PhD,4,54745,No,,2017-12-07,No,3,2,No,No,7
+878,Employee878,LastName878,42,Male,Marketing,Product Manager,Master,2,69955,Yes,2023-10-04,2019-09-21,No,5,1,Yes,Yes,2
+879,Employee879,LastName879,36,Female,Sales,Account Manager,Bachelor,7,141149,No,,2015-12-14,No,4,3,Yes,Yes,10
+880,Employee880,LastName880,22,Male,HR,Training Specialist,Bachelor,14,138059,No,,2011-07-06,No,2,1,No,No,9
+881,Employee881,LastName881,62,Male,Finance,Accountant,Master,12,75394,No,,2020-11-10,No,3,4,No,No,9
+882,Employee882,LastName882,40,Female,R&D,Senior Research Scientist,Master,4,87650,Yes,2019-12-07,2014-11-29,No,2,4,Yes,Yes,7
+883,Employee883,LastName883,44,Male,R&D,Principal Scientist,PhD,13,99002,No,,2012-11-15,No,2,1,No,No,8
+884,Employee884,LastName884,25,Female,IT,Full Stack Developer,Master,18,100731,Yes,2019-02-10,2017-04-01,No,4,3,Yes,No,7
+885,Employee885,LastName885,43,Male,Marketing,Content Manager,PhD,2,66828,No,,2016-12-02,No,5,2,Yes,No,2
+886,Employee886,LastName886,23,Male,Sales,Sales Director,Master,13,145511,No,,2012-01-10,No,5,1,Yes,Yes,5
+887,Employee887,LastName887,32,Male,Sales,Sales Representative,Master,18,66155,No,,2018-11-15,No,3,3,No,Yes,8
+888,Employee888,LastName888,22,Male,Marketing,Product Manager,Bachelor,2,110732,No,,2010-06-14,No,4,4,Yes,Yes,4
+889,Employee889,LastName889,36,Male,R&D,Senior Research Scientist,Bachelor,8,142062,Yes,2011-07-14,2010-10-04,No,3,1,Yes,Yes,8
+890,Employee890,LastName890,23,Female,Marketing,Content Manager,Bachelor,1,141452,No,,2022-02-24,No,5,4,Yes,No,5
+891,Employee891,LastName891,41,Male,Finance,Financial Manager,PhD,9,120523,No,,2020-04-17,No,4,4,No,No,1
+892,Employee892,LastName892,57,Female,IT,Full Stack Developer,Bachelor,9,110147,No,,2020-11-03,Yes,4,3,Yes,No,3
+893,Employee893,LastName893,47,Male,Sales,Sales Manager,PhD,8,85712,No,,2020-01-11,No,3,2,Yes,Yes,8
+894,Employee894,LastName894,53,Male,IT,QA Engineer,PhD,19,119270,Yes,2017-12-12,2015-08-10,No,2,1,No,No,6
+895,Employee895,LastName895,31,Female,R&D,Research Scientist,Master,2,135491,No,,2017-03-18,No,2,5,No,No,5
+896,Employee896,LastName896,42,Male,Marketing,Marketing Specialist,Bachelor,15,100797,No,,2020-10-31,No,1,4,Yes,Yes,2
+897,Employee897,LastName897,32,Male,Sales,Sales Manager,Bachelor,7,100598,No,,2019-10-25,No,4,2,No,Yes,8
+898,Employee898,LastName898,22,Female,Finance,Financial Manager,PhD,10,133694,No,,2012-08-21,No,3,5,No,No,9
+899,Employee899,LastName899,31,Male,Marketing,Product Manager,PhD,10,93660,No,,2021-09-26,No,5,5,No,No,7
+900,Employee900,LastName900,30,Female,IT,Software Engineer,Master,6,99565,No,,2021-10-05,No,2,2,No,Yes,0
+901,Employee901,LastName901,34,Male,R&D,Principal Scientist,PhD,4,65506,Yes,2022-09-03,2022-01-23,Yes,1,3,Yes,No,10
+902,Employee902,LastName902,39,Male,HR,HR Coordinator,Master,10,126854,No,,2019-07-24,No,4,3,Yes,Yes,9
+903,Employee903,LastName903,35,Male,IT,Data Analyst,PhD,9,121980,No,,2013-12-31,Yes,4,3,No,No,3
+904,Employee904,LastName904,36,Male,IT,Data Analyst,Bachelor,7,107320,No,,2012-01-19,Yes,1,3,Yes,Yes,2
+905,Employee905,LastName905,49,Female,Sales,Sales Manager,Bachelor,16,118419,No,,2017-05-03,No,4,4,No,No,5
+906,Employee906,LastName906,55,Female,R&D,Senior Scientist,PhD,3,63728,No,,2023-07-31,Yes,4,5,No,No,4
+907,Employee907,LastName907,57,Male,Marketing,Brand Manager,Master,14,146023,No,,2017-10-23,No,3,4,Yes,Yes,6
+908,Employee908,LastName908,22,Male,R&D,Senior Scientist,Master,7,57334,Yes,2021-02-02,2019-12-01,Yes,3,3,Yes,No,0
+909,Employee909,LastName909,63,Female,Marketing,Brand Manager,Master,16,126955,Yes,2022-11-30,2018-12-07,No,1,5,Yes,No,9
+910,Employee910,LastName910,53,Female,Marketing,Product Manager,Bachelor,6,50006,No,,2020-08-14,No,3,1,Yes,Yes,2
+911,Employee911,LastName911,29,Female,HR,HR Manager,Master,2,57776,No,,2019-12-12,No,5,3,Yes,Yes,5
+912,Employee912,LastName912,32,Female,Operations,Logistics Manager,Master,19,132519,No,,2018-03-20,No,1,1,Yes,Yes,4
+913,Employee913,LastName913,50,Male,HR,Training Specialist,Master,2,67671,No,,2016-03-07,No,1,3,No,No,1
+914,Employee914,LastName914,58,Female,R&D,Senior Engineer,Bachelor,3,68920,No,,2022-09-13,Yes,1,2,No,Yes,2
+915,Employee915,LastName915,35,Male,Operations,Supply Chain Manager,Master,12,134245,Yes,2024-06-20,2020-04-29,No,2,2,No,Yes,6
+916,Employee916,LastName916,33,Female,Marketing,Digital Marketing Specialist,Bachelor,9,69673,No,,2013-02-24,No,3,2,Yes,No,4
+917,Employee917,LastName917,38,Female,Marketing,Brand Manager,Master,3,146236,No,,2020-12-27,No,5,4,Yes,Yes,9
+918,Employee918,LastName918,56,Male,Finance,Senior Analyst,Master,19,129673,No,,2014-09-22,No,3,2,No,No,1
+919,Employee919,LastName919,38,Male,Sales,Sales Manager,PhD,7,131288,No,,2020-06-28,No,2,4,Yes,No,9
+920,Employee920,LastName920,58,Female,R&D,Senior Engineer,PhD,13,92039,No,,2023-03-14,No,1,2,No,No,5
+921,Employee921,LastName921,33,Male,R&D,Research Scientist,Master,12,125820,Yes,2020-01-07,2016-11-14,Yes,4,5,No,No,7
+922,Employee922,LastName922,38,Male,Operations,Logistics Manager,Master,12,50259,No,,2023-06-24,No,2,5,Yes,No,6
+923,Employee923,LastName923,58,Female,Operations,Supply Chain Manager,Master,13,123230,Yes,2026-04-03,2023-04-21,No,5,2,Yes,Yes,10
+924,Employee924,LastName924,27,Male,R&D,Senior Research Scientist,Bachelor,10,105370,No,,2013-03-04,No,1,2,Yes,Yes,4
+925,Employee925,LastName925,33,Male,R&D,Principal Engineer,PhD,8,117790,Yes,2018-09-14,2014-07-24,Yes,3,1,No,Yes,5
+926,Employee926,LastName926,57,Female,HR,Recruiter,Master,13,137566,No,,2014-10-07,No,2,1,No,Yes,5
+927,Employee927,LastName927,47,Male,Operations,Logistics Manager,PhD,11,96622,No,,2016-05-08,No,5,1,No,No,10
+928,Employee928,LastName928,36,Male,Marketing,Brand Manager,Master,20,89544,No,,2013-12-30,No,5,1,No,Yes,10
+929,Employee929,LastName929,53,Male,IT,DevOps Engineer,Master,7,130726,Yes,2013-07-07,2010-12-29,Yes,2,4,Yes,No,4
+930,Employee930,LastName930,24,Female,Finance,Budget Analyst,Bachelor,9,105938,Yes,2021-10-09,2019-06-17,No,1,3,Yes,No,0
+931,Employee931,LastName931,30,Female,IT,Software Engineer,Master,19,130697,No,,2021-05-16,No,4,4,Yes,No,6
+932,Employee932,LastName932,60,Male,R&D,Research Manager,Master,15,59637,Yes,2023-12-30,2021-04-05,No,2,4,No,Yes,2
+933,Employee933,LastName933,59,Female,HR,Training Specialist,PhD,9,104636,No,,2014-06-07,No,4,1,No,No,0
+934,Employee934,LastName934,51,Female,HR,HR Coordinator,Master,12,100797,No,,2011-02-15,No,3,3,Yes,No,2
+935,Employee935,LastName935,48,Female,R&D,Senior Engineer,Master,1,140932,Yes,2023-09-01,2020-01-08,Yes,1,5,No,Yes,2
+936,Employee936,LastName936,30,Male,HR,HR Coordinator,Master,5,105035,No,,2021-01-25,No,5,2,No,Yes,1
+937,Employee937,LastName937,24,Female,R&D,Senior Research Scientist,PhD,5,140079,No,,2023-09-01,Yes,1,3,No,No,6
+938,Employee938,LastName938,38,Male,HR,HR Specialist,PhD,3,79206,No,,2019-09-21,No,3,5,Yes,Yes,5
+939,Employee939,LastName939,35,Female,Sales,Sales Representative,Master,14,110740,No,,2016-03-01,No,1,5,No,Yes,10
+940,Employee940,LastName940,22,Female,R&D,Senior Scientist,Master,14,105613,Yes,2017-01-18,2014-08-24,Yes,5,3,Yes,Yes,3
+941,Employee941,LastName941,36,Female,HR,Training Specialist,Master,3,122059,No,,2016-06-15,No,4,5,No,No,7
+942,Employee942,LastName942,43,Male,Sales,Account Manager,Bachelor,11,105548,No,,2017-03-03,No,4,2,Yes,No,4
+943,Employee943,LastName943,64,Male,Finance,Budget Analyst,Master,19,55891,No,,2011-10-06,No,2,5,No,No,4
+944,Employee944,LastName944,50,Female,Operations,Supply Chain Manager,PhD,15,91088,Yes,2014-01-09,2010-08-31,No,5,4,No,Yes,4
+945,Employee945,LastName945,37,Female,Sales,Sales Manager,Bachelor,13,96871,Yes,2025-07-17,2022-01-21,No,2,2,Yes,No,2
+946,Employee946,LastName946,47,Male,Operations,Supply Chain Manager,Master,18,123544,No,,2019-03-01,No,3,3,No,Yes,10
+947,Employee947,LastName947,54,Female,Marketing,Digital Marketing Specialist,Master,18,144198,No,,2021-12-11,No,4,3,No,Yes,2
+948,Employee948,LastName948,22,Female,Finance,Accountant,PhD,18,57887,No,,2017-06-29,No,4,5,No,No,6
+949,Employee949,LastName949,61,Male,IT,QA Engineer,PhD,8,140964,No,,2013-02-09,Yes,4,1,No,Yes,2
+950,Employee950,LastName950,65,Female,Sales,Account Manager,PhD,3,112021,Yes,2021-10-04,2018-04-22,No,2,2,No,No,3
+951,Employee951,LastName951,34,Female,IT,Data Analyst,PhD,11,105447,No,,2012-12-22,Yes,4,2,No,Yes,2
+952,Employee952,LastName952,60,Male,Finance,Financial Analyst,Bachelor,11,143121,No,,2013-07-28,No,1,4,No,No,1
+953,Employee953,LastName953,38,Female,Operations,Operations Manager,Master,18,108020,No,,2012-09-18,No,1,3,No,Yes,5
+954,Employee954,LastName954,49,Female,Finance,Budget Analyst,Bachelor,4,139633,Yes,2013-11-16,2012-04-28,No,2,3,No,No,2
+955,Employee955,LastName955,35,Female,IT,Full Stack Developer,PhD,9,109431,No,,2012-03-06,Yes,2,3,No,No,7
+956,Employee956,LastName956,38,Female,R&D,Principal Engineer,PhD,19,82805,No,,2016-03-05,Yes,1,2,No,No,4
+957,Employee957,LastName957,58,Male,R&D,Principal Engineer,PhD,10,136105,No,,2020-08-29,No,2,2,No,No,4
+958,Employee958,LastName958,23,Male,Marketing,Product Manager,Bachelor,7,79002,No,,2023-01-30,No,3,5,No,No,9
+959,Employee959,LastName959,63,Female,IT,QA Engineer,Master,5,94542,No,,2023-03-03,No,4,2,No,Yes,7
+960,Employee960,LastName960,64,Male,Finance,Accountant,Bachelor,3,64672,No,,2017-09-05,No,3,5,Yes,Yes,5
+961,Employee961,LastName961,58,Female,Finance,Accountant,Master,1,132063,No,,2021-10-03,No,1,4,Yes,No,8
+962,Employee962,LastName962,57,Female,HR,HR Manager,Master,18,119278,No,,2022-01-23,No,5,2,Yes,No,2
+963,Employee963,LastName963,36,Male,Marketing,Brand Manager,PhD,15,81369,Yes,2017-06-23,2013-12-24,No,1,2,Yes,Yes,8
+964,Employee964,LastName964,35,Male,R&D,Principal Scientist,Bachelor,8,115376,No,,2015-06-22,No,1,3,Yes,Yes,7
+965,Employee965,LastName965,27,Female,HR,HR Specialist,PhD,16,108862,Yes,2017-10-25,2014-06-06,No,3,5,Yes,No,1
+966,Employee966,LastName966,63,Female,Marketing,Product Manager,Master,7,45064,No,,2023-03-18,No,3,4,No,No,10
+967,Employee967,LastName967,54,Female,IT,DevOps Engineer,PhD,16,77639,No,,2021-07-14,No,3,3,No,No,1
+968,Employee968,LastName968,53,Male,Operations,Logistics Manager,Master,1,66381,No,,2017-02-27,No,2,1,No,No,1
+969,Employee969,LastName969,43,Female,Operations,Operations Manager,Bachelor,18,72946,No,,2014-02-05,No,3,5,No,No,8
+970,Employee970,LastName970,65,Male,Finance,Accountant,Master,10,65498,No,,2023-09-03,No,2,4,Yes,Yes,9
+971,Employee971,LastName971,42,Male,Marketing,Digital Marketing Specialist,PhD,17,80308,No,,2020-08-17,No,2,3,No,No,5
+972,Employee972,LastName972,43,Female,IT,QA Engineer,Master,12,144967,No,,2017-01-27,No,4,1,No,Yes,6
+973,Employee973,LastName973,51,Male,R&D,Research Director,PhD,9,138935,No,,2010-06-09,Yes,3,3,No,Yes,5
+974,Employee974,LastName974,42,Female,Finance,Accountant,PhD,18,110921,No,,2022-07-24,No,4,3,Yes,Yes,3
+975,Employee975,LastName975,52,Female,IT,Backend Developer,Master,19,135151,No,,2020-07-16,Yes,4,2,No,No,0
+976,Employee976,LastName976,62,Male,HR,Recruiter,Master,11,59553,No,,2016-03-11,No,4,2,Yes,No,6
+977,Employee977,LastName977,31,Male,Operations,Operations Manager,Master,19,77142,No,,2016-09-14,No,3,5,No,No,0
+978,Employee978,LastName978,42,Male,IT,Data Analyst,Master,12,106384,No,,2020-01-01,Yes,2,4,No,No,3
+979,Employee979,LastName979,38,Female,Marketing,Digital Marketing Specialist,Master,20,96944,Yes,2014-03-15,2010-07-09,No,4,1,Yes,No,0
+980,Employee980,LastName980,24,Female,Sales,Account Manager,Master,17,120342,No,,2017-05-03,No,3,1,Yes,Yes,8
+981,Employee981,LastName981,56,Male,Operations,Operations Manager,PhD,6,106400,No,,2021-07-08,No,5,2,Yes,No,4
+982,Employee982,LastName982,31,Female,Finance,Financial Manager,Master,11,114168,Yes,2014-12-12,2011-08-22,No,4,1,No,No,0
+983,Employee983,LastName983,23,Female,Sales,Sales Representative,Master,1,74214,No,,2015-01-20,No,5,3,No,Yes,9
+984,Employee984,LastName984,34,Male,R&D,Research Manager,PhD,5,50171,Yes,2015-04-09,2014-08-16,Yes,2,5,No,Yes,5
+985,Employee985,LastName985,36,Female,Operations,Logistics Manager,Master,7,75537,No,,2014-07-11,No,2,3,Yes,Yes,7
+986,Employee986,LastName986,23,Female,HR,Recruiter,Master,15,97321,No,,2014-09-05,No,2,2,No,Yes,1
+987,Employee987,LastName987,32,Male,IT,Backend Developer,Master,7,99411,No,,2012-09-12,No,2,2,Yes,No,7
+988,Employee988,LastName988,51,Male,R&D,Senior Engineer,Master,1,92237,Yes,2012-08-07,2010-03-01,No,3,1,No,No,3
+989,Employee989,LastName989,63,Male,Marketing,Brand Manager,Bachelor,13,63446,Yes,2022-03-12,2020-07-28,No,2,2,Yes,Yes,8
+990,Employee990,LastName990,52,Male,IT,Backend Developer,PhD,2,83415,No,,2011-05-17,Yes,3,5,No,Yes,6
+991,Employee991,LastName991,55,Male,IT,Data Analyst,Bachelor,5,110215,No,,2014-01-27,Yes,2,3,No,No,4
+992,Employee992,LastName992,23,Female,Sales,Sales Manager,PhD,1,63919,Yes,2020-02-27,2017-06-09,No,4,1,No,Yes,2
+993,Employee993,LastName993,44,Male,HR,HR Manager,Bachelor,8,107349,No,,2012-01-25,No,4,4,No,Yes,9
+994,Employee994,LastName994,41,Male,Operations,Production Manager,Bachelor,16,87320,No,,2020-07-13,No,5,3,Yes,No,7
+995,Employee995,LastName995,30,Male,Marketing,Content Manager,Bachelor,8,131403,Yes,2026-11-28,2021-07-18,No,1,1,No,No,9
+996,Employee996,LastName996,36,Male,HR,HR Coordinator,Master,9,138121,No,,2014-02-21,No,4,5,No,Yes,5
+997,Employee997,LastName997,64,Female,Finance,Financial Analyst,PhD,5,149827,No,,2022-12-30,No,4,1,Yes,Yes,0
+998,Employee998,LastName998,37,Male,IT,Full Stack Developer,Master,6,69608,No,,2018-11-25,No,5,4,No,Yes,7
+999,Employee999,LastName999,56,Female,Sales,Sales Director,Master,15,69421,No,,2012-08-23,No,3,3,No,No,10
+1000,Employee1000,LastName1000,55,Female,HR,Recruiter,PhD,9,48331,No,,2011-06-02,No,5,2,Yes,Yes,7
+1001,Employee1001,LastName1001,29,Male,Operations,Production Manager,Master,18,102168,Yes,2018-08-30,2016-08-19,No,5,1,Yes,No,8
+1002,Employee1002,LastName1002,65,Male,IT,QA Engineer,PhD,8,147227,Yes,2014-08-18,2010-05-17,No,2,5,Yes,No,8
+1003,Employee1003,LastName1003,45,Male,IT,Backend Developer,Bachelor,6,115886,No,,2012-03-31,Yes,5,4,Yes,No,0
+1004,Employee1004,LastName1004,46,Female,Finance,Senior Analyst,Master,17,62841,No,,2019-06-13,No,3,1,Yes,No,8
+1005,Employee1005,LastName1005,35,Female,Marketing,Marketing Specialist,Master,20,63389,No,,2023-04-28,No,2,4,Yes,Yes,6
+1006,Employee1006,LastName1006,63,Male,Operations,Supply Chain Manager,Master,14,54244,No,,2018-10-09,No,2,3,Yes,No,1
+1007,Employee1007,LastName1007,35,Male,Marketing,Brand Manager,Bachelor,15,128460,No,,2013-03-12,No,1,5,No,Yes,10
+1008,Employee1008,LastName1008,36,Female,Sales,Account Manager,Bachelor,15,54227,No,,2016-09-13,No,3,3,Yes,No,4
+1009,Employee1009,LastName1009,49,Female,HR,Recruiter,Master,19,74443,No,,2013-10-11,No,5,1,Yes,No,3
+1010,Employee1010,LastName1010,49,Female,Operations,Production Manager,PhD,14,141002,No,,2011-04-10,No,3,3,No,No,10
+1011,Employee1011,LastName1011,44,Female,Operations,Logistics Manager,Bachelor,3,121779,Yes,2014-11-21,2010-04-16,No,4,2,No,No,1
+1012,Employee1012,LastName1012,57,Female,Operations,Logistics Manager,Bachelor,20,123861,No,,2022-09-08,No,1,5,Yes,Yes,1
+1013,Employee1013,LastName1013,45,Male,Operations,Logistics Manager,PhD,19,142558,No,,2023-07-18,No,1,3,No,No,9
+1014,Employee1014,LastName1014,47,Male,Operations,Supply Chain Manager,Bachelor,14,127643,No,,2010-07-30,No,3,1,No,No,0
+1015,Employee1015,LastName1015,38,Female,Marketing,Content Manager,Master,12,103459,No,,2017-09-19,No,1,3,No,No,2
+1016,Employee1016,LastName1016,47,Female,IT,DevOps Engineer,Master,12,125793,No,,2013-11-10,Yes,5,2,No,No,1
+1017,Employee1017,LastName1017,62,Male,Marketing,Content Manager,Master,13,71496,No,,2017-01-07,No,3,4,No,No,7
+1018,Employee1018,LastName1018,32,Male,R&D,Research Manager,PhD,11,129188,Yes,2013-09-13,2010-05-11,No,5,3,Yes,No,9
+1019,Employee1019,LastName1019,34,Male,Marketing,Digital Marketing Specialist,Master,3,64105,No,,2012-01-12,No,3,5,No,No,2
+1020,Employee1020,LastName1020,40,Male,Finance,Financial Manager,Bachelor,20,103004,No,,2022-10-15,No,1,2,Yes,No,0
+1021,Employee1021,LastName1021,36,Male,Finance,Accountant,Bachelor,8,46627,No,,2015-01-25,No,3,2,Yes,No,7
+1022,Employee1022,LastName1022,48,Male,Finance,Budget Analyst,Master,6,142883,No,,2021-08-19,No,3,3,No,No,5
+1023,Employee1023,LastName1023,42,Male,R&D,Tech Lead,PhD,18,77361,Yes,2021-12-23,2018-01-04,Yes,5,5,Yes,Yes,8
+1024,Employee1024,LastName1024,56,Female,Marketing,Product Manager,Bachelor,11,139385,No,,2012-05-08,No,3,5,Yes,No,4
+1025,Employee1025,LastName1025,51,Male,Sales,Account Manager,Bachelor,20,67458,No,,2019-10-28,No,1,5,No,Yes,5
+1026,Employee1026,LastName1026,26,Male,Finance,Financial Manager,PhD,12,78031,No,,2011-06-20,No,1,5,No,No,2
+1027,Employee1027,LastName1027,64,Male,Finance,Financial Manager,Master,15,75482,No,,2016-12-13,No,5,5,No,Yes,8
+1028,Employee1028,LastName1028,22,Female,Marketing,Brand Manager,PhD,20,60687,No,,2011-03-10,No,1,5,Yes,No,2
+1029,Employee1029,LastName1029,37,Male,Marketing,Marketing Specialist,PhD,20,109877,No,,2014-01-09,No,1,3,Yes,Yes,6
+1030,Employee1030,LastName1030,48,Female,Sales,Sales Representative,Bachelor,13,85789,Yes,2022-08-25,2020-08-22,No,3,2,No,No,7
+1031,Employee1031,LastName1031,38,Male,HR,HR Manager,Master,13,104208,No,,2014-07-02,No,1,5,No,Yes,9
+1032,Employee1032,LastName1032,65,Male,HR,Training Specialist,Bachelor,12,45610,No,,2012-02-22,No,3,4,No,Yes,9
+1033,Employee1033,LastName1033,26,Female,Sales,Account Manager,Bachelor,6,115151,No,,2014-03-25,No,2,3,Yes,Yes,9
+1034,Employee1034,LastName1034,50,Male,R&D,Research Scientist,PhD,6,50082,Yes,2026-01-20,2021-05-19,No,5,1,No,No,1
+1035,Employee1035,LastName1035,59,Male,R&D,Research Director,PhD,17,65349,No,,2013-10-03,No,5,3,No,No,7
+1036,Employee1036,LastName1036,43,Male,HR,Recruiter,Bachelor,8,149078,Yes,2023-09-01,2018-03-15,No,4,1,No,Yes,7
+1037,Employee1037,LastName1037,55,Male,Operations,Logistics Manager,PhD,3,129305,No,,2017-03-10,No,2,3,No,Yes,7
+1038,Employee1038,LastName1038,40,Male,Operations,Operations Manager,Master,14,48123,No,,2019-01-25,No,4,1,No,No,9
+1039,Employee1039,LastName1039,53,Female,Finance,Financial Analyst,Bachelor,10,56689,No,,2011-03-28,No,3,5,Yes,No,0
+1040,Employee1040,LastName1040,25,Male,Sales,Sales Manager,PhD,10,101859,No,,2018-08-20,No,5,5,Yes,No,10
+1041,Employee1041,LastName1041,35,Male,Marketing,Content Manager,PhD,4,86983,No,,2020-04-03,No,1,2,No,Yes,9
+1042,Employee1042,LastName1042,24,Male,Marketing,Marketing Specialist,Master,13,45621,No,,2014-08-15,No,2,3,Yes,No,3
+1043,Employee1043,LastName1043,24,Female,R&D,Senior Research Scientist,PhD,5,119781,No,,2013-03-06,No,3,2,No,No,0
+1044,Employee1044,LastName1044,46,Female,Finance,Senior Analyst,Master,9,123660,No,,2014-04-02,No,1,4,Yes,No,2
+1045,Employee1045,LastName1045,26,Male,Marketing,Digital Marketing Specialist,Bachelor,4,69033,Yes,2017-02-07,2012-08-02,No,5,3,Yes,No,10
+1046,Employee1046,LastName1046,40,Female,Marketing,Product Manager,Master,18,59220,No,,2016-06-04,No,1,4,Yes,Yes,8
+1047,Employee1047,LastName1047,34,Female,Operations,Logistics Manager,Master,5,59331,No,,2021-08-16,No,1,2,Yes,No,2
+1048,Employee1048,LastName1048,37,Male,HR,HR Specialist,Master,14,123250,No,,2018-04-27,No,1,5,Yes,Yes,5
+1049,Employee1049,LastName1049,31,Male,HR,HR Coordinator,Master,11,71299,No,,2015-08-17,No,1,4,No,Yes,4
+1050,Employee1050,LastName1050,36,Male,Sales,Account Manager,Bachelor,6,102741,No,,2014-05-12,No,1,2,No,Yes,2
+1051,Employee1051,LastName1051,25,Female,Sales,Sales Manager,PhD,4,139435,No,,2011-06-18,No,2,3,No,Yes,2
+1052,Employee1052,LastName1052,22,Male,HR,Recruiter,PhD,13,60681,No,,2010-01-29,No,2,1,Yes,Yes,10
+1053,Employee1053,LastName1053,58,Female,Operations,Logistics Manager,Master,13,143050,No,,2016-05-02,No,2,4,No,No,10
+1054,Employee1054,LastName1054,31,Female,Finance,Accountant,Bachelor,15,82599,No,,2022-01-12,No,2,4,No,Yes,5
+1055,Employee1055,LastName1055,49,Male,Marketing,Product Manager,Bachelor,10,97721,Yes,2015-08-12,2013-03-25,No,2,3,Yes,No,6
+1056,Employee1056,LastName1056,50,Female,Finance,Financial Manager,Master,15,132211,No,,2018-09-18,No,4,2,Yes,Yes,3
+1057,Employee1057,LastName1057,58,Male,Marketing,Product Manager,Master,7,94127,No,,2018-02-25,No,3,2,No,Yes,7
+1058,Employee1058,LastName1058,41,Female,HR,HR Coordinator,PhD,20,65541,Yes,2020-07-17,2019-03-31,No,4,5,No,Yes,7
+1059,Employee1059,LastName1059,46,Male,HR,Training Specialist,Bachelor,19,129048,No,,2013-11-12,No,4,5,Yes,Yes,6
+1060,Employee1060,LastName1060,37,Female,R&D,Senior Engineer,Bachelor,5,56239,Yes,2026-03-24,2020-11-30,Yes,1,1,Yes,No,1
+1061,Employee1061,LastName1061,34,Female,R&D,Tech Lead,PhD,5,103538,Yes,2015-03-25,2014-10-11,No,4,3,Yes,No,4
+1062,Employee1062,LastName1062,31,Male,HR,Training Specialist,Master,6,65746,Yes,2024-07-01,2019-04-25,No,5,5,No,No,3
+1063,Employee1063,LastName1063,50,Male,HR,Recruiter,Master,4,107505,Yes,2013-02-06,2010-11-19,No,2,1,No,No,9
+1064,Employee1064,LastName1064,50,Male,Sales,Sales Director,Master,1,56142,No,,2021-01-11,No,3,1,Yes,Yes,9
+1065,Employee1065,LastName1065,31,Female,R&D,Senior Scientist,PhD,4,148911,No,,2014-06-03,No,1,3,No,Yes,9
+1066,Employee1066,LastName1066,32,Female,Sales,Sales Director,PhD,12,48072,No,,2015-09-02,No,4,3,Yes,Yes,10
+1067,Employee1067,LastName1067,38,Female,IT,Backend Developer,PhD,15,105042,No,,2019-09-17,No,1,3,Yes,Yes,9
+1068,Employee1068,LastName1068,41,Male,HR,Recruiter,Master,13,49716,No,,2014-06-24,No,3,4,No,No,8
+1069,Employee1069,LastName1069,48,Female,Operations,Production Manager,PhD,11,70284,No,,2012-12-20,No,4,3,No,Yes,7
+1070,Employee1070,LastName1070,64,Male,Marketing,Marketing Specialist,Bachelor,11,144885,No,,2021-05-31,No,1,2,Yes,Yes,5
+1071,Employee1071,LastName1071,58,Male,HR,HR Manager,PhD,8,46762,No,,2011-12-17,No,3,5,Yes,Yes,9
+1072,Employee1072,LastName1072,62,Female,Marketing,Marketing Specialist,PhD,11,63181,No,,2012-05-16,No,2,1,Yes,Yes,1
+1073,Employee1073,LastName1073,65,Female,HR,Recruiter,Master,8,126979,Yes,2015-03-30,2014-09-19,No,5,2,No,Yes,7
+1074,Employee1074,LastName1074,52,Male,Sales,Sales Manager,Master,10,69238,No,,2023-04-11,No,5,1,Yes,Yes,3
+1075,Employee1075,LastName1075,56,Male,R&D,Research Director,Bachelor,19,87127,No,,2014-04-01,Yes,2,2,No,No,9
+1076,Employee1076,LastName1076,35,Female,Finance,Accountant,PhD,14,45915,No,,2015-08-18,No,3,3,Yes,Yes,0
+1077,Employee1077,LastName1077,44,Female,HR,Recruiter,Bachelor,2,142552,Yes,2024-01-06,2019-08-25,No,1,3,No,Yes,9
+1078,Employee1078,LastName1078,50,Female,R&D,Tech Lead,PhD,12,142644,Yes,2022-07-16,2020-10-10,No,2,2,Yes,Yes,5
+1079,Employee1079,LastName1079,51,Female,Finance,Senior Analyst,Master,11,65012,No,,2019-01-17,No,2,4,No,Yes,2
+1080,Employee1080,LastName1080,46,Female,Operations,Logistics Manager,PhD,5,67646,No,,2018-12-17,No,2,5,Yes,Yes,1
+1081,Employee1081,LastName1081,52,Female,HR,HR Manager,Master,5,96410,No,,2016-01-29,No,2,3,No,Yes,3
+1082,Employee1082,LastName1082,49,Female,Finance,Financial Analyst,Master,14,58895,No,,2013-08-02,No,1,3,No,No,2
+1083,Employee1083,LastName1083,35,Female,IT,DevOps Engineer,PhD,14,85712,Yes,2022-10-23,2021-01-01,Yes,5,4,Yes,Yes,8
+1084,Employee1084,LastName1084,45,Female,R&D,Research Scientist,Master,5,93497,Yes,2021-01-09,2018-04-16,Yes,4,2,Yes,No,3
+1085,Employee1085,LastName1085,62,Female,Operations,Production Manager,PhD,16,70477,No,,2016-04-17,No,2,3,Yes,Yes,3
+1086,Employee1086,LastName1086,23,Female,Finance,Senior Analyst,Bachelor,11,126737,No,,2021-06-17,No,3,1,No,No,9
+1087,Employee1087,LastName1087,26,Female,Marketing,Brand Manager,PhD,15,63754,No,,2018-09-27,No,3,1,No,Yes,3
+1088,Employee1088,LastName1088,42,Male,Marketing,Brand Manager,Master,12,108530,No,,2020-10-28,No,3,5,Yes,Yes,9
+1089,Employee1089,LastName1089,40,Male,Sales,Sales Director,Bachelor,2,148639,No,,2014-05-16,No,4,4,Yes,No,4
+1090,Employee1090,LastName1090,40,Male,IT,Software Engineer,Master,1,105940,No,,2010-08-25,No,2,4,No,Yes,9
+1091,Employee1091,LastName1091,28,Female,Finance,Budget Analyst,Master,9,82324,No,,2020-03-24,No,2,5,Yes,No,0
+1092,Employee1092,LastName1092,42,Male,HR,HR Coordinator,PhD,18,94155,No,,2020-09-13,No,5,1,No,No,6
+1093,Employee1093,LastName1093,61,Female,IT,QA Engineer,Bachelor,2,139735,No,,2016-05-06,Yes,2,4,Yes,Yes,2
+1094,Employee1094,LastName1094,55,Male,IT,DevOps Engineer,Bachelor,6,99085,Yes,2017-05-16,2015-04-10,No,3,1,No,No,8
+1095,Employee1095,LastName1095,63,Female,HR,HR Manager,Bachelor,13,103785,No,,2013-06-23,No,2,1,No,Yes,3
+1096,Employee1096,LastName1096,25,Male,HR,HR Specialist,Bachelor,8,63045,Yes,2022-01-17,2020-09-26,No,5,3,No,No,10
+1097,Employee1097,LastName1097,23,Female,Marketing,Digital Marketing Specialist,PhD,17,53907,No,,2016-06-30,No,1,2,Yes,Yes,3
+1098,Employee1098,LastName1098,22,Female,Sales,Sales Director,PhD,12,66519,No,,2011-10-23,No,4,2,Yes,Yes,10
+1099,Employee1099,LastName1099,39,Female,Marketing,Content Manager,Bachelor,18,143850,No,,2018-05-25,No,5,3,No,Yes,5
+1100,Employee1100,LastName1100,29,Female,R&D,Research Director,Bachelor,10,59770,Yes,2023-08-05,2020-02-17,No,1,4,Yes,Yes,3
+1101,Employee1101,LastName1101,65,Female,Operations,Production Manager,Master,7,52126,No,,2023-04-22,No,2,5,No,Yes,8
+1102,Employee1102,LastName1102,22,Female,HR,HR Specialist,Master,7,139364,No,,2014-01-22,No,4,3,No,No,9
+1103,Employee1103,LastName1103,53,Male,Operations,Supply Chain Manager,Bachelor,16,125788,No,,2022-07-31,No,1,1,Yes,Yes,0
+1104,Employee1104,LastName1104,41,Male,R&D,Senior Engineer,Bachelor,15,93241,No,,2018-07-22,Yes,2,2,No,No,1
+1105,Employee1105,LastName1105,63,Female,R&D,Senior Scientist,Bachelor,1,79435,No,,2016-09-02,Yes,4,2,Yes,Yes,7
+1106,Employee1106,LastName1106,29,Male,IT,DevOps Engineer,Bachelor,3,137127,No,,2015-04-08,No,5,4,Yes,Yes,3
+1107,Employee1107,LastName1107,65,Female,HR,Recruiter,Master,13,67940,Yes,2013-03-05,2010-09-02,No,1,5,Yes,Yes,4
+1108,Employee1108,LastName1108,52,Female,Marketing,Content Manager,Bachelor,7,135397,Yes,2017-08-07,2015-12-30,No,4,1,Yes,No,8
+1109,Employee1109,LastName1109,36,Female,Marketing,Product Manager,Master,2,104802,No,,2016-06-05,No,4,5,Yes,No,10
+1110,Employee1110,LastName1110,42,Male,R&D,Principal Scientist,Master,12,145573,Yes,2021-06-18,2019-02-17,No,3,2,No,No,5
+1111,Employee1111,LastName1111,60,Male,Finance,Financial Manager,PhD,9,106152,No,,2013-02-01,No,4,5,Yes,Yes,5
+1112,Employee1112,LastName1112,60,Male,Sales,Sales Representative,PhD,11,63287,No,,2022-02-12,No,2,4,Yes,No,1
+1113,Employee1113,LastName1113,55,Male,Sales,Sales Representative,PhD,4,74724,Yes,2028-03-24,2022-11-28,No,3,4,Yes,No,5
+1114,Employee1114,LastName1114,55,Female,Sales,Account Manager,PhD,13,143509,No,,2014-11-30,No,1,2,No,Yes,3
+1115,Employee1115,LastName1115,54,Male,Marketing,Brand Manager,Bachelor,4,144064,Yes,2021-08-04,2021-02-08,No,4,3,Yes,Yes,3
+1116,Employee1116,LastName1116,23,Male,HR,HR Manager,Bachelor,10,78218,No,,2012-09-18,No,4,1,No,No,10
+1117,Employee1117,LastName1117,60,Male,Finance,Accountant,Master,10,101167,No,,2017-09-12,No,5,5,No,Yes,10
+1118,Employee1118,LastName1118,53,Male,Finance,Senior Analyst,Master,11,143686,Yes,2021-11-22,2017-11-19,No,5,1,No,No,10
+1119,Employee1119,LastName1119,46,Male,Finance,Financial Analyst,Master,2,78050,No,,2020-12-07,No,5,1,Yes,Yes,10
+1120,Employee1120,LastName1120,46,Female,HR,Recruiter,Bachelor,11,87319,No,,2015-06-01,No,3,5,No,Yes,9
+1121,Employee1121,LastName1121,22,Male,Finance,Financial Analyst,PhD,5,103252,No,,2023-04-24,No,1,5,Yes,No,4
+1122,Employee1122,LastName1122,56,Female,Marketing,Product Manager,Master,2,67795,No,,2015-09-06,No,4,3,Yes,Yes,4
+1123,Employee1123,LastName1123,49,Female,Sales,Sales Manager,Bachelor,4,108195,No,,2013-06-22,No,4,2,Yes,No,10
+1124,Employee1124,LastName1124,24,Female,IT,Data Analyst,PhD,10,103283,Yes,2019-01-12,2014-02-05,No,1,1,Yes,Yes,2
+1125,Employee1125,LastName1125,50,Male,Marketing,Digital Marketing Specialist,Bachelor,16,137852,No,,2018-03-23,No,5,3,Yes,No,7
+1126,Employee1126,LastName1126,49,Female,HR,HR Coordinator,PhD,18,91876,Yes,2020-01-16,2019-06-22,No,4,4,Yes,Yes,1
+1127,Employee1127,LastName1127,27,Male,HR,Recruiter,PhD,19,116554,No,,2014-03-11,No,3,5,No,No,1
+1128,Employee1128,LastName1128,59,Male,Operations,Supply Chain Manager,Bachelor,14,64318,No,,2012-08-07,No,3,2,No,Yes,5
+1129,Employee1129,LastName1129,29,Male,HR,HR Manager,Master,17,62964,No,,2015-12-19,No,3,2,No,Yes,3
+1130,Employee1130,LastName1130,52,Female,Marketing,Product Manager,PhD,16,127186,Yes,2017-01-22,2014-10-21,No,5,1,Yes,Yes,8
+1131,Employee1131,LastName1131,52,Male,IT,Backend Developer,Master,17,127001,No,,2011-08-18,Yes,3,2,No,No,0
+1132,Employee1132,LastName1132,24,Female,Operations,Production Manager,Master,11,103959,Yes,2022-09-12,2018-11-07,No,5,2,Yes,No,9
+1133,Employee1133,LastName1133,63,Female,Operations,Production Manager,Master,6,146331,No,,2015-06-01,No,1,4,Yes,No,1
+1134,Employee1134,LastName1134,31,Male,Sales,Sales Director,Master,2,130218,No,,2018-04-16,No,3,3,No,No,7
+1135,Employee1135,LastName1135,46,Female,Sales,Sales Representative,Master,19,89181,No,,2022-07-26,No,1,4,No,Yes,4
+1136,Employee1136,LastName1136,39,Female,Marketing,Brand Manager,Master,10,76380,No,,2023-05-02,No,5,2,No,No,3
+1137,Employee1137,LastName1137,55,Female,Operations,Logistics Manager,PhD,14,131391,No,,2016-03-31,No,2,5,Yes,No,3
+1138,Employee1138,LastName1138,56,Female,Marketing,Digital Marketing Specialist,PhD,18,113172,No,,2017-03-15,No,2,1,No,Yes,3
+1139,Employee1139,LastName1139,33,Female,Sales,Account Manager,PhD,16,80486,No,,2018-05-30,No,5,4,No,Yes,4
+1140,Employee1140,LastName1140,38,Male,Sales,Account Manager,Bachelor,4,53722,No,,2018-06-12,No,2,3,No,No,8
+1141,Employee1141,LastName1141,54,Female,Sales,Sales Manager,Master,19,127327,No,,2019-06-07,No,4,5,Yes,No,6
+1142,Employee1142,LastName1142,29,Female,Finance,Financial Analyst,Bachelor,5,54211,Yes,2018-05-28,2014-01-23,No,3,1,No,Yes,1
+1143,Employee1143,LastName1143,35,Female,Marketing,Brand Manager,PhD,2,139315,Yes,2023-06-01,2022-09-16,No,3,3,No,Yes,3
+1144,Employee1144,LastName1144,57,Female,IT,Data Analyst,Bachelor,12,95236,Yes,2018-06-27,2015-04-21,No,2,5,Yes,Yes,1
+1145,Employee1145,LastName1145,53,Female,Sales,Account Manager,Bachelor,4,76722,No,,2012-02-23,No,4,5,Yes,Yes,3
+1146,Employee1146,LastName1146,22,Male,R&D,Principal Scientist,Bachelor,8,75432,Yes,2021-10-30,2016-12-02,No,1,1,No,No,7
+1147,Employee1147,LastName1147,61,Female,IT,Data Analyst,PhD,13,109424,No,,2010-07-08,No,4,5,No,No,0
+1148,Employee1148,LastName1148,50,Female,Finance,Financial Analyst,PhD,20,136610,No,,2014-08-11,No,4,2,No,Yes,3
+1149,Employee1149,LastName1149,47,Female,R&D,Senior Research Scientist,PhD,9,106566,No,,2015-07-31,Yes,1,5,Yes,Yes,7
+1150,Employee1150,LastName1150,46,Male,Marketing,Marketing Specialist,Master,19,102185,No,,2017-09-28,No,4,4,Yes,No,4
+1151,Employee1151,LastName1151,39,Male,R&D,Research Manager,PhD,12,114590,Yes,2016-11-08,2015-10-30,Yes,2,1,No,No,0
+1152,Employee1152,LastName1152,27,Male,Operations,Operations Manager,Master,6,55388,No,,2012-01-27,No,5,3,No,Yes,4
+1153,Employee1153,LastName1153,39,Female,IT,QA Engineer,Bachelor,6,75384,No,,2015-02-20,Yes,1,5,Yes,Yes,4
+1154,Employee1154,LastName1154,49,Female,Sales,Sales Representative,PhD,6,138392,Yes,2020-10-08,2015-04-20,No,1,1,Yes,No,2
+1155,Employee1155,LastName1155,51,Male,Sales,Sales Representative,PhD,18,69485,No,,2018-04-11,No,2,1,No,Yes,4
+1156,Employee1156,LastName1156,54,Male,Sales,Sales Representative,Bachelor,17,106481,No,,2011-04-11,No,2,2,Yes,No,9
+1157,Employee1157,LastName1157,51,Female,Operations,Supply Chain Manager,Bachelor,8,128903,Yes,2020-11-25,2020-03-15,No,5,1,Yes,No,2
+1158,Employee1158,LastName1158,51,Female,HR,Recruiter,PhD,17,115971,No,,2020-12-27,No,4,5,No,No,9
+1159,Employee1159,LastName1159,38,Female,Sales,Account Manager,Bachelor,17,49773,Yes,2024-01-14,2019-02-22,No,2,1,No,No,1
+1160,Employee1160,LastName1160,46,Female,Sales,Sales Director,Master,13,71044,No,,2016-09-19,No,1,2,No,Yes,7
+1161,Employee1161,LastName1161,63,Male,Operations,Operations Manager,Bachelor,10,102544,No,,2018-11-21,No,3,4,No,No,7
+1162,Employee1162,LastName1162,51,Male,R&D,Principal Engineer,PhD,5,58275,No,,2019-04-30,Yes,3,3,Yes,No,7
+1163,Employee1163,LastName1163,26,Female,Finance,Budget Analyst,PhD,20,107535,No,,2016-08-05,No,1,4,Yes,No,5
+1164,Employee1164,LastName1164,54,Female,IT,Backend Developer,PhD,6,118608,No,,2010-04-01,Yes,3,1,Yes,Yes,10
+1165,Employee1165,LastName1165,23,Female,Sales,Account Manager,Master,15,126496,No,,2019-01-18,No,3,3,No,Yes,8
+1166,Employee1166,LastName1166,50,Male,Sales,Sales Manager,PhD,16,147145,No,,2019-09-21,No,5,5,Yes,Yes,6
+1167,Employee1167,LastName1167,62,Female,R&D,Senior Engineer,PhD,9,95317,Yes,2018-06-10,2013-03-25,Yes,3,4,Yes,Yes,0
+1168,Employee1168,LastName1168,30,Male,R&D,Principal Engineer,Master,7,116703,No,,2019-05-21,No,5,3,Yes,Yes,1
+1169,Employee1169,LastName1169,38,Male,IT,Backend Developer,Master,16,59973,Yes,2016-09-11,2011-06-26,Yes,1,4,No,No,7
+1170,Employee1170,LastName1170,62,Female,R&D,Research Director,Bachelor,11,47913,Yes,2025-09-19,2021-10-24,No,4,4,No,No,8
+1171,Employee1171,LastName1171,47,Female,R&D,Senior Engineer,Bachelor,2,117746,Yes,2028-03-11,2023-04-10,No,2,2,Yes,No,2
+1172,Employee1172,LastName1172,48,Female,HR,HR Coordinator,Bachelor,13,76784,No,,2019-05-28,No,2,5,No,Yes,5
+1173,Employee1173,LastName1173,47,Female,HR,HR Manager,Master,14,93546,No,,2013-06-15,No,1,3,Yes,No,7
+1174,Employee1174,LastName1174,47,Male,Finance,Budget Analyst,Bachelor,14,89054,No,,2015-04-11,No,2,5,No,No,1
+1175,Employee1175,LastName1175,27,Male,HR,Recruiter,Bachelor,1,149017,No,,2013-05-14,No,2,1,Yes,No,2
+1176,Employee1176,LastName1176,40,Male,HR,HR Manager,Bachelor,12,66655,No,,2018-01-05,No,3,3,Yes,Yes,9
+1177,Employee1177,LastName1177,61,Male,HR,Recruiter,Master,1,59095,No,,2014-04-24,No,3,5,No,Yes,9
+1178,Employee1178,LastName1178,26,Male,R&D,Research Manager,Bachelor,15,110066,No,,2023-08-06,Yes,5,2,No,Yes,6
+1179,Employee1179,LastName1179,64,Female,Operations,Production Manager,PhD,6,85160,No,,2020-08-08,No,3,4,No,Yes,4
+1180,Employee1180,LastName1180,35,Female,Marketing,Marketing Specialist,Bachelor,8,52700,Yes,2021-04-18,2020-05-06,No,5,1,Yes,Yes,7
+1181,Employee1181,LastName1181,26,Male,IT,Backend Developer,Master,10,102060,No,,2017-06-18,Yes,4,1,No,Yes,7
+1182,Employee1182,LastName1182,45,Male,Marketing,Marketing Specialist,Bachelor,6,49112,No,,2018-10-07,No,3,4,Yes,No,7
+1183,Employee1183,LastName1183,42,Female,Marketing,Digital Marketing Specialist,PhD,15,86259,No,,2012-12-24,No,5,2,Yes,Yes,4
+1184,Employee1184,LastName1184,53,Male,Finance,Accountant,PhD,11,124157,Yes,2014-03-11,2013-04-28,No,4,3,Yes,Yes,6
+1185,Employee1185,LastName1185,62,Male,HR,HR Coordinator,Master,12,45358,No,,2017-09-10,No,1,4,Yes,Yes,2
+1186,Employee1186,LastName1186,55,Female,R&D,Senior Research Scientist,PhD,13,149894,No,,2021-11-10,Yes,1,4,No,No,0
+1187,Employee1187,LastName1187,23,Female,R&D,Principal Scientist,Master,14,105757,No,,2023-03-21,Yes,5,5,Yes,No,9
+1188,Employee1188,LastName1188,38,Female,IT,Full Stack Developer,Master,10,45561,No,,2010-11-14,No,5,2,Yes,Yes,7
+1189,Employee1189,LastName1189,22,Female,IT,QA Engineer,PhD,14,99624,No,,2011-01-27,No,1,5,No,Yes,7
+1190,Employee1190,LastName1190,56,Male,Sales,Sales Representative,Master,18,118499,No,,2016-06-13,No,3,2,Yes,Yes,10
+1191,Employee1191,LastName1191,43,Male,Finance,Financial Manager,Bachelor,8,131174,Yes,2021-07-28,2020-10-06,No,3,3,No,Yes,6
+1192,Employee1192,LastName1192,45,Male,IT,Software Engineer,Bachelor,4,60917,No,,2016-06-23,Yes,1,2,Yes,No,2
+1193,Employee1193,LastName1193,43,Female,HR,Training Specialist,Master,4,111948,No,,2021-03-23,No,1,4,No,Yes,5
+1194,Employee1194,LastName1194,44,Male,Operations,Production Manager,PhD,6,47389,No,,2018-09-13,No,5,1,Yes,Yes,2
+1195,Employee1195,LastName1195,55,Male,R&D,Research Scientist,Master,18,96023,Yes,2019-08-15,2014-05-10,No,4,1,No,Yes,2
+1196,Employee1196,LastName1196,59,Female,IT,QA Engineer,Master,3,95760,No,,2015-02-01,No,3,3,Yes,Yes,0
+1197,Employee1197,LastName1197,22,Male,Finance,Financial Manager,PhD,19,89397,Yes,2021-10-12,2017-12-21,No,4,1,No,No,1
+1198,Employee1198,LastName1198,60,Male,IT,Full Stack Developer,Master,17,117559,No,,2022-08-05,Yes,5,3,Yes,Yes,10
+1199,Employee1199,LastName1199,41,Male,R&D,Research Scientist,Master,18,132139,Yes,2024-06-10,2019-07-19,Yes,2,3,No,Yes,4
+1200,Employee1200,LastName1200,26,Female,R&D,Senior Research Scientist,Bachelor,17,48427,Yes,2019-12-21,2018-02-28,No,3,3,Yes,Yes,2
+1201,Employee1201,LastName1201,45,Male,Sales,Sales Director,Master,4,61217,No,,2012-02-19,No,2,5,Yes,Yes,3
+1202,Employee1202,LastName1202,41,Female,HR,HR Manager,PhD,18,116950,No,,2022-02-21,No,5,5,No,No,1
+1203,Employee1203,LastName1203,41,Male,Finance,Financial Manager,PhD,14,51822,No,,2012-02-01,No,2,1,Yes,Yes,1
+1204,Employee1204,LastName1204,52,Male,Finance,Financial Manager,Bachelor,12,122444,No,,2019-02-08,No,5,2,Yes,No,2
+1205,Employee1205,LastName1205,62,Male,IT,Data Analyst,PhD,1,134449,Yes,2024-08-07,2020-07-19,Yes,5,2,No,Yes,10
+1206,Employee1206,LastName1206,58,Female,Sales,Sales Manager,Master,7,72657,No,,2021-01-18,No,5,4,Yes,No,5
+1207,Employee1207,LastName1207,59,Female,IT,QA Engineer,Bachelor,14,137655,No,,2022-12-21,Yes,4,3,No,Yes,1
+1208,Employee1208,LastName1208,38,Male,Finance,Budget Analyst,Bachelor,5,132952,No,,2022-12-07,No,2,2,Yes,Yes,3
+1209,Employee1209,LastName1209,26,Male,Marketing,Brand Manager,Bachelor,13,120310,No,,2012-12-25,No,1,2,Yes,Yes,6
+1210,Employee1210,LastName1210,35,Female,HR,HR Manager,Master,15,87613,Yes,2016-12-14,2013-03-28,No,4,4,No,No,10
+1211,Employee1211,LastName1211,35,Male,IT,Full Stack Developer,Master,13,80900,Yes,2021-09-26,2017-12-03,Yes,4,1,No,Yes,6
+1212,Employee1212,LastName1212,25,Male,Finance,Accountant,Master,2,59472,No,,2020-04-16,No,3,2,No,No,2
+1213,Employee1213,LastName1213,52,Male,Finance,Financial Manager,Master,17,129443,No,,2011-06-19,No,2,4,Yes,No,7
+1214,Employee1214,LastName1214,32,Female,Finance,Accountant,Bachelor,16,147368,No,,2014-12-12,No,2,4,No,Yes,8
+1215,Employee1215,LastName1215,29,Male,Sales,Sales Manager,Master,9,131283,No,,2018-04-26,No,5,3,No,Yes,1
+1216,Employee1216,LastName1216,37,Male,Sales,Sales Representative,PhD,10,110147,No,,2015-08-28,No,5,1,Yes,Yes,5
+1217,Employee1217,LastName1217,58,Female,Operations,Supply Chain Manager,Bachelor,11,141025,No,,2010-01-12,No,3,4,No,No,9
+1218,Employee1218,LastName1218,64,Female,IT,Full Stack Developer,Master,20,126870,No,,2022-09-05,Yes,2,2,No,Yes,5
+1219,Employee1219,LastName1219,37,Female,R&D,Senior Engineer,Bachelor,18,119076,Yes,2019-12-23,2017-06-24,Yes,2,2,No,Yes,3
+1220,Employee1220,LastName1220,56,Female,Finance,Budget Analyst,Master,3,139166,No,,2012-04-20,No,2,2,Yes,Yes,5
+1221,Employee1221,LastName1221,38,Male,HR,HR Coordinator,PhD,1,122152,No,,2023-03-06,No,4,2,Yes,No,3
+1222,Employee1222,LastName1222,27,Male,Sales,Sales Representative,Bachelor,9,107391,No,,2023-06-03,No,3,5,Yes,Yes,7
+1223,Employee1223,LastName1223,48,Male,Operations,Supply Chain Manager,PhD,11,81394,Yes,2015-08-05,2012-03-30,No,1,4,No,No,7
+1224,Employee1224,LastName1224,23,Male,Sales,Sales Representative,Bachelor,4,65572,Yes,2024-06-12,2022-10-28,No,2,1,Yes,Yes,3
+1225,Employee1225,LastName1225,40,Male,IT,QA Engineer,Bachelor,15,49127,No,,2011-05-17,Yes,1,2,No,No,10
+1226,Employee1226,LastName1226,26,Male,Finance,Accountant,Master,6,49604,No,,2020-08-16,No,5,2,No,Yes,1
+1227,Employee1227,LastName1227,35,Male,Operations,Logistics Manager,Bachelor,3,136709,No,,2013-06-13,No,2,3,No,No,2
+1228,Employee1228,LastName1228,50,Male,Operations,Logistics Manager,Master,14,86383,No,,2013-11-11,No,3,5,Yes,Yes,3
+1229,Employee1229,LastName1229,46,Female,Finance,Budget Analyst,Bachelor,18,149412,No,,2020-06-05,No,2,1,Yes,Yes,8
+1230,Employee1230,LastName1230,63,Female,Finance,Budget Analyst,Bachelor,19,149719,Yes,2014-02-14,2013-01-12,No,2,2,Yes,Yes,3
+1231,Employee1231,LastName1231,43,Male,Sales,Sales Director,PhD,17,62849,Yes,2023-08-08,2022-01-21,No,2,1,No,No,3
+1232,Employee1232,LastName1232,62,Male,IT,Full Stack Developer,PhD,3,128080,Yes,2024-03-06,2021-08-14,Yes,5,1,No,No,2
+1233,Employee1233,LastName1233,43,Female,Marketing,Marketing Specialist,PhD,1,135555,No,,2010-09-29,No,1,1,Yes,No,2
+1234,Employee1234,LastName1234,27,Male,Operations,Operations Manager,Master,7,147714,No,,2020-10-13,No,5,3,Yes,Yes,2
+1235,Employee1235,LastName1235,46,Female,R&D,Senior Scientist,Bachelor,4,56146,No,,2021-04-21,No,5,2,No,No,7
+1236,Employee1236,LastName1236,31,Male,Sales,Sales Manager,Master,6,94734,No,,2016-06-25,No,4,1,No,No,0
+1237,Employee1237,LastName1237,22,Male,HR,HR Coordinator,Bachelor,9,92378,No,,2015-07-06,No,5,3,Yes,No,6
+1238,Employee1238,LastName1238,37,Male,Sales,Sales Representative,Master,14,93439,No,,2013-05-07,No,1,3,No,Yes,9
+1239,Employee1239,LastName1239,57,Male,Finance,Accountant,Master,2,123918,Yes,2021-10-13,2020-07-15,No,5,5,No,No,0
+1240,Employee1240,LastName1240,30,Male,Operations,Operations Manager,Bachelor,3,96337,No,,2011-05-13,No,3,5,Yes,Yes,4
+1241,Employee1241,LastName1241,63,Female,Marketing,Digital Marketing Specialist,Bachelor,6,112589,No,,2022-04-12,No,2,4,Yes,Yes,6
+1242,Employee1242,LastName1242,31,Male,R&D,Principal Engineer,PhD,3,119897,No,,2013-03-05,No,3,4,No,Yes,0
+1243,Employee1243,LastName1243,30,Female,IT,DevOps Engineer,Master,12,55769,No,,2021-11-07,Yes,4,1,No,No,10
+1244,Employee1244,LastName1244,44,Male,Finance,Financial Analyst,Bachelor,12,97858,No,,2016-07-08,No,2,3,No,Yes,4
+1245,Employee1245,LastName1245,64,Male,IT,DevOps Engineer,Master,3,112237,No,,2020-07-15,No,5,5,Yes,Yes,1
+1246,Employee1246,LastName1246,57,Male,R&D,Principal Engineer,Master,17,124966,Yes,2023-04-06,2021-08-20,No,1,3,Yes,No,10
+1247,Employee1247,LastName1247,40,Male,Marketing,Content Manager,Master,8,70471,No,,2014-08-04,No,5,3,No,Yes,6
+1248,Employee1248,LastName1248,31,Male,Marketing,Digital Marketing Specialist,PhD,4,106138,Yes,2015-06-19,2012-01-08,No,1,5,Yes,Yes,3
+1249,Employee1249,LastName1249,62,Male,Sales,Account Manager,PhD,7,87338,No,,2021-01-18,No,2,1,No,Yes,1
+1250,Employee1250,LastName1250,42,Female,HR,Training Specialist,Master,13,147093,No,,2012-02-20,No,5,5,Yes,Yes,2
+1251,Employee1251,LastName1251,23,Male,IT,Software Engineer,PhD,19,61765,No,,2012-05-24,No,5,5,Yes,Yes,6
+1252,Employee1252,LastName1252,62,Female,R&D,Senior Research Scientist,Bachelor,16,126403,No,,2015-12-02,Yes,2,4,No,No,2
+1253,Employee1253,LastName1253,41,Male,HR,Training Specialist,PhD,20,146170,No,,2011-08-04,No,5,3,Yes,No,3
+1254,Employee1254,LastName1254,55,Female,IT,Full Stack Developer,Bachelor,16,67360,No,,2017-09-10,Yes,2,2,Yes,Yes,3
+1255,Employee1255,LastName1255,43,Female,Finance,Financial Analyst,PhD,11,142781,Yes,2020-11-22,2019-05-20,No,3,2,No,Yes,5
+1256,Employee1256,LastName1256,43,Male,Marketing,Digital Marketing Specialist,Master,8,148642,No,,2021-01-16,No,1,5,Yes,Yes,2
+1257,Employee1257,LastName1257,24,Male,Finance,Accountant,Master,7,96195,No,,2011-03-30,No,4,5,Yes,Yes,6
+1258,Employee1258,LastName1258,26,Female,IT,DevOps Engineer,Master,11,91634,Yes,2015-11-03,2014-10-10,Yes,1,4,Yes,No,9
+1259,Employee1259,LastName1259,62,Female,HR,HR Specialist,PhD,16,72637,No,,2019-07-10,No,5,3,No,Yes,1
+1260,Employee1260,LastName1260,57,Female,IT,DevOps Engineer,Master,1,76119,No,,2021-11-02,Yes,4,5,Yes,No,0
+1261,Employee1261,LastName1261,63,Male,IT,Full Stack Developer,PhD,12,135959,Yes,2016-08-09,2012-10-13,No,1,5,Yes,No,9
+1262,Employee1262,LastName1262,40,Male,Sales,Sales Manager,PhD,10,104389,No,,2022-11-16,No,3,5,Yes,No,9
+1263,Employee1263,LastName1263,61,Female,Marketing,Brand Manager,PhD,19,129115,No,,2018-06-07,No,5,5,No,Yes,8
+1264,Employee1264,LastName1264,56,Male,R&D,Principal Engineer,Master,12,119100,Yes,2028-05-30,2022-12-29,Yes,1,3,Yes,No,9
+1265,Employee1265,LastName1265,33,Male,Sales,Sales Representative,Master,7,147305,No,,2012-06-06,No,2,4,No,Yes,6
+1266,Employee1266,LastName1266,57,Male,Sales,Sales Manager,Master,16,145111,No,,2013-06-23,No,4,1,No,Yes,3
+1267,Employee1267,LastName1267,55,Male,R&D,Research Director,PhD,20,63156,Yes,2018-09-27,2014-12-11,No,5,1,No,Yes,5
+1268,Employee1268,LastName1268,31,Male,Finance,Financial Analyst,PhD,19,147770,No,,2023-09-07,No,2,4,No,Yes,6
+1269,Employee1269,LastName1269,27,Female,Marketing,Brand Manager,Master,18,127621,No,,2018-07-30,No,1,2,Yes,No,6
+1270,Employee1270,LastName1270,34,Male,HR,HR Manager,Master,17,70171,No,,2017-01-13,No,3,4,Yes,Yes,9
+1271,Employee1271,LastName1271,54,Female,Operations,Supply Chain Manager,Master,9,143609,No,,2010-11-29,No,2,1,Yes,No,9
+1272,Employee1272,LastName1272,26,Female,Finance,Senior Analyst,PhD,2,71484,No,,2012-08-14,No,1,1,Yes,No,0
+1273,Employee1273,LastName1273,46,Male,HR,HR Coordinator,Bachelor,17,83408,No,,2011-04-04,No,5,1,No,Yes,7
+1274,Employee1274,LastName1274,62,Male,Finance,Senior Analyst,PhD,17,98888,No,,2014-05-24,No,2,1,No,Yes,10
+1275,Employee1275,LastName1275,23,Female,R&D,Principal Engineer,Bachelor,16,138626,Yes,2021-07-17,2019-11-19,No,4,2,No,No,10
+1276,Employee1276,LastName1276,44,Male,IT,Backend Developer,PhD,1,107146,No,,2022-06-17,No,4,1,Yes,Yes,4
+1277,Employee1277,LastName1277,55,Female,HR,HR Specialist,Bachelor,18,104489,Yes,2017-01-25,2015-11-23,No,2,1,Yes,No,5
+1278,Employee1278,LastName1278,34,Male,Marketing,Marketing Specialist,Master,12,46394,Yes,2022-02-19,2019-01-01,No,2,2,Yes,Yes,9
+1279,Employee1279,LastName1279,46,Male,IT,QA Engineer,PhD,4,86648,No,,2014-11-28,Yes,2,4,No,No,6
+1280,Employee1280,LastName1280,35,Male,HR,Training Specialist,Master,15,85251,No,,2011-09-01,No,3,5,Yes,Yes,9
+1281,Employee1281,LastName1281,31,Male,R&D,Senior Research Scientist,Master,13,82324,Yes,2021-04-05,2016-08-05,Yes,1,2,No,Yes,10
+1282,Employee1282,LastName1282,47,Male,R&D,Principal Scientist,PhD,16,112291,Yes,2022-11-10,2021-12-25,No,2,2,Yes,Yes,2
+1283,Employee1283,LastName1283,53,Male,Marketing,Marketing Specialist,PhD,19,70347,No,,2022-01-10,No,3,5,No,Yes,9
+1284,Employee1284,LastName1284,53,Female,Sales,Account Manager,Bachelor,20,115694,No,,2019-10-28,No,2,1,Yes,No,6
+1285,Employee1285,LastName1285,36,Female,HR,HR Manager,Master,19,147971,No,,2020-02-01,No,5,5,No,No,10
+1286,Employee1286,LastName1286,52,Female,HR,Recruiter,Bachelor,2,98095,No,,2019-01-12,No,5,2,Yes,No,0
+1287,Employee1287,LastName1287,27,Male,Finance,Financial Manager,Master,6,133327,No,,2014-01-18,No,2,1,No,No,0
+1288,Employee1288,LastName1288,56,Female,Operations,Logistics Manager,PhD,15,64705,No,,2012-05-09,No,1,5,Yes,Yes,9
+1289,Employee1289,LastName1289,58,Female,IT,QA Engineer,PhD,13,115026,No,,2020-03-30,Yes,3,2,No,No,8
+1290,Employee1290,LastName1290,32,Male,Operations,Operations Manager,PhD,5,135674,No,,2010-11-06,No,2,5,No,No,8
+1291,Employee1291,LastName1291,41,Male,R&D,Senior Engineer,Master,20,90453,No,,2017-07-29,Yes,4,5,No,Yes,10
+1292,Employee1292,LastName1292,44,Male,Finance,Senior Analyst,Master,6,96183,No,,2015-04-12,No,4,2,Yes,Yes,9
+1293,Employee1293,LastName1293,46,Female,Finance,Senior Analyst,Master,3,125010,No,,2011-06-05,No,5,4,No,Yes,9
+1294,Employee1294,LastName1294,54,Female,Sales,Sales Representative,Master,16,112648,No,,2013-06-14,No,5,2,No,Yes,10
+1295,Employee1295,LastName1295,65,Female,Sales,Sales Representative,PhD,17,126946,No,,2010-01-06,No,2,3,Yes,No,0
+1296,Employee1296,LastName1296,46,Female,Marketing,Product Manager,Bachelor,13,49015,No,,2017-06-11,No,1,2,No,Yes,5
+1297,Employee1297,LastName1297,39,Female,Operations,Logistics Manager,Master,9,122803,No,,2014-02-04,No,4,2,Yes,No,9
+1298,Employee1298,LastName1298,62,Male,R&D,Senior Research Scientist,Bachelor,8,70502,No,,2012-12-26,No,5,5,Yes,No,6
+1299,Employee1299,LastName1299,27,Female,IT,Backend Developer,Master,11,68317,No,,2014-03-09,No,3,4,Yes,Yes,6
+1300,Employee1300,LastName1300,36,Male,Sales,Sales Director,Bachelor,11,74301,No,,2021-11-18,No,5,1,No,No,5
+1301,Employee1301,LastName1301,55,Female,HR,Training Specialist,Master,9,47048,No,,2018-08-31,No,5,3,No,No,4
+1302,Employee1302,LastName1302,34,Male,IT,Software Engineer,Master,10,123512,No,,2012-09-09,Yes,4,2,Yes,Yes,8
+1303,Employee1303,LastName1303,59,Female,Operations,Operations Manager,Master,8,72549,No,,2016-01-14,No,4,3,Yes,No,4
+1304,Employee1304,LastName1304,42,Male,Finance,Accountant,Master,11,126183,Yes,2018-09-15,2014-07-16,No,2,4,No,Yes,3
+1305,Employee1305,LastName1305,50,Female,Operations,Production Manager,Bachelor,11,136373,Yes,2014-08-04,2011-01-11,No,1,3,Yes,Yes,5
+1306,Employee1306,LastName1306,46,Female,IT,Backend Developer,PhD,20,113645,No,,2021-11-14,Yes,4,5,Yes,Yes,7
+1307,Employee1307,LastName1307,45,Female,HR,Training Specialist,PhD,5,145530,No,,2015-04-10,No,3,4,Yes,Yes,5
+1308,Employee1308,LastName1308,48,Female,Sales,Account Manager,Master,2,115636,No,,2017-04-11,No,4,3,No,Yes,2
+1309,Employee1309,LastName1309,54,Female,Finance,Financial Manager,PhD,11,122112,No,,2016-04-09,No,4,3,No,No,2
+1310,Employee1310,LastName1310,41,Male,Sales,Account Manager,Master,20,48328,No,,2012-08-30,No,2,1,Yes,Yes,2
+1311,Employee1311,LastName1311,45,Female,Operations,Supply Chain Manager,Bachelor,8,75988,No,,2023-02-25,No,2,1,No,No,1
+1312,Employee1312,LastName1312,42,Male,IT,QA Engineer,PhD,11,68874,Yes,2022-01-01,2020-10-11,No,1,3,No,No,8
+1313,Employee1313,LastName1313,46,Female,Sales,Sales Representative,Master,19,103851,Yes,2025-11-08,2021-01-02,No,4,3,No,Yes,0
+1314,Employee1314,LastName1314,54,Female,IT,QA Engineer,Bachelor,6,67658,No,,2018-04-10,Yes,5,1,Yes,Yes,1
+1315,Employee1315,LastName1315,60,Male,IT,Software Engineer,Master,5,141769,No,,2010-02-28,Yes,1,1,Yes,No,4
+1316,Employee1316,LastName1316,35,Male,Finance,Budget Analyst,Bachelor,18,145523,No,,2020-05-22,No,4,4,Yes,No,2
+1317,Employee1317,LastName1317,44,Male,Operations,Production Manager,PhD,16,127278,No,,2020-05-31,No,3,4,Yes,No,2
+1318,Employee1318,LastName1318,42,Male,Operations,Logistics Manager,Master,5,131203,No,,2012-01-10,No,5,2,Yes,No,0
+1319,Employee1319,LastName1319,50,Male,Sales,Account Manager,PhD,4,73189,No,,2020-07-07,No,2,4,Yes,Yes,0
+1320,Employee1320,LastName1320,33,Male,R&D,Senior Research Scientist,Bachelor,5,58213,No,,2022-12-07,Yes,4,3,Yes,No,3
+1321,Employee1321,LastName1321,37,Male,Sales,Sales Representative,PhD,6,115800,No,,2017-04-17,No,2,3,No,No,6
+1322,Employee1322,LastName1322,63,Female,HR,Recruiter,Master,15,77392,No,,2021-01-22,No,1,5,No,No,4
+1323,Employee1323,LastName1323,61,Female,Sales,Account Manager,Bachelor,4,69483,No,,2014-01-18,No,5,2,No,Yes,2
+1324,Employee1324,LastName1324,37,Female,HR,Recruiter,PhD,20,59747,No,,2020-07-05,No,2,4,No,Yes,9
+1325,Employee1325,LastName1325,30,Male,Sales,Sales Manager,Bachelor,5,148970,No,,2010-08-19,No,3,4,Yes,Yes,2
+1326,Employee1326,LastName1326,38,Male,HR,Recruiter,PhD,18,110989,No,,2020-12-19,No,5,5,No,No,10
+1327,Employee1327,LastName1327,64,Female,IT,Software Engineer,Bachelor,17,71475,Yes,2021-09-02,2018-01-06,No,1,3,No,Yes,6
+1328,Employee1328,LastName1328,58,Male,Marketing,Brand Manager,Bachelor,19,72531,Yes,2017-08-25,2017-03-12,No,5,1,Yes,Yes,10
+1329,Employee1329,LastName1329,59,Male,Sales,Account Manager,Master,12,130688,Yes,2011-09-26,2010-07-16,No,5,2,Yes,Yes,0
+1330,Employee1330,LastName1330,52,Female,Sales,Account Manager,Bachelor,3,124783,No,,2014-09-20,No,1,2,No,Yes,10
+1331,Employee1331,LastName1331,29,Male,IT,Full Stack Developer,Master,7,143652,Yes,2017-06-18,2013-07-13,No,2,1,Yes,Yes,1
+1332,Employee1332,LastName1332,47,Female,HR,HR Manager,Bachelor,4,125938,No,,2012-11-26,No,1,4,Yes,No,10
+1333,Employee1333,LastName1333,37,Female,Marketing,Content Manager,Master,7,94844,Yes,2018-02-02,2014-10-20,No,3,2,Yes,Yes,7
+1334,Employee1334,LastName1334,55,Female,Marketing,Brand Manager,Bachelor,4,58167,No,,2013-05-10,No,1,3,Yes,No,10
+1335,Employee1335,LastName1335,43,Male,Sales,Sales Representative,Bachelor,1,123161,No,,2022-12-06,No,3,4,Yes,Yes,9
+1336,Employee1336,LastName1336,44,Female,IT,Data Analyst,PhD,13,132418,No,,2011-06-25,Yes,5,5,No,Yes,9
+1337,Employee1337,LastName1337,28,Male,Finance,Accountant,Master,8,92056,Yes,2021-10-20,2020-03-05,No,5,3,No,No,4
+1338,Employee1338,LastName1338,35,Male,Operations,Supply Chain Manager,Bachelor,1,63460,No,,2015-10-26,No,4,1,No,Yes,5
+1339,Employee1339,LastName1339,52,Male,Sales,Sales Manager,Bachelor,8,123520,No,,2022-07-04,No,5,1,No,Yes,6
+1340,Employee1340,LastName1340,48,Male,Finance,Budget Analyst,PhD,8,59029,Yes,2014-07-29,2012-11-30,No,3,3,No,Yes,10
+1341,Employee1341,LastName1341,36,Male,Marketing,Marketing Specialist,Bachelor,10,125758,No,,2010-09-23,No,3,4,No,No,5
+1342,Employee1342,LastName1342,61,Female,Finance,Financial Manager,Master,3,82361,No,,2018-04-27,No,4,2,Yes,No,7
+1343,Employee1343,LastName1343,30,Male,Operations,Operations Manager,Bachelor,9,117737,No,,2020-05-10,No,1,1,Yes,Yes,3
+1344,Employee1344,LastName1344,57,Female,HR,HR Coordinator,Bachelor,8,109092,No,,2012-04-02,No,2,4,Yes,Yes,8
+1345,Employee1345,LastName1345,50,Female,HR,HR Manager,Master,4,137314,No,,2013-04-28,No,1,4,Yes,Yes,8
+1346,Employee1346,LastName1346,50,Female,HR,HR Specialist,Master,4,55447,Yes,2019-08-10,2015-07-13,No,1,3,No,No,7
+1347,Employee1347,LastName1347,47,Male,R&D,Research Scientist,PhD,6,102028,No,,2012-07-24,Yes,2,3,No,No,6
+1348,Employee1348,LastName1348,60,Female,Marketing,Product Manager,Bachelor,9,88746,Yes,2021-11-19,2021-02-16,No,2,2,No,Yes,7
+1349,Employee1349,LastName1349,47,Female,R&D,Research Manager,Bachelor,14,63117,Yes,2016-09-13,2013-05-04,Yes,4,1,Yes,Yes,4
+1350,Employee1350,LastName1350,49,Female,Finance,Budget Analyst,Bachelor,4,143971,No,,2016-12-19,No,1,1,Yes,No,9
+1351,Employee1351,LastName1351,29,Female,Finance,Financial Manager,PhD,9,75926,Yes,2014-08-04,2010-11-02,No,5,5,Yes,No,9
+1352,Employee1352,LastName1352,37,Female,HR,HR Manager,Master,3,125027,No,,2017-02-07,No,5,5,Yes,No,10
+1353,Employee1353,LastName1353,47,Female,Operations,Supply Chain Manager,PhD,20,53535,No,,2021-11-14,No,2,4,No,Yes,6
+1354,Employee1354,LastName1354,28,Female,Finance,Accountant,Bachelor,14,108564,No,,2018-07-27,No,3,1,No,No,9
+1355,Employee1355,LastName1355,36,Male,R&D,Senior Engineer,PhD,6,103467,Yes,2018-06-29,2017-03-25,No,1,1,No,Yes,6
+1356,Employee1356,LastName1356,23,Male,Operations,Supply Chain Manager,Bachelor,7,56668,Yes,2023-02-22,2020-06-24,No,4,1,Yes,Yes,10
+1357,Employee1357,LastName1357,28,Female,Operations,Logistics Manager,Bachelor,18,59674,No,,2011-11-17,No,1,4,Yes,No,10
+1358,Employee1358,LastName1358,26,Male,Sales,Sales Director,PhD,18,63119,No,,2018-12-13,No,2,1,No,No,8
+1359,Employee1359,LastName1359,58,Male,Sales,Sales Manager,PhD,15,67619,No,,2021-05-15,No,1,1,No,Yes,6
+1360,Employee1360,LastName1360,52,Female,Finance,Senior Analyst,PhD,3,56157,No,,2014-01-13,No,3,5,No,Yes,10
+1361,Employee1361,LastName1361,32,Male,Marketing,Product Manager,Master,17,148738,No,,2021-03-17,No,2,5,No,Yes,7
+1362,Employee1362,LastName1362,59,Female,Marketing,Product Manager,Master,16,75059,No,,2011-02-14,No,1,3,Yes,No,1
+1363,Employee1363,LastName1363,24,Female,R&D,Principal Scientist,Master,16,133367,No,,2022-05-18,Yes,5,5,Yes,No,6
+1364,Employee1364,LastName1364,51,Male,R&D,Senior Research Scientist,PhD,19,128840,Yes,2022-08-07,2018-12-06,Yes,3,5,No,No,8
+1365,Employee1365,LastName1365,61,Female,IT,Data Analyst,Bachelor,14,103188,Yes,2013-07-10,2010-07-29,No,1,2,No,Yes,6
+1366,Employee1366,LastName1366,44,Male,IT,DevOps Engineer,PhD,19,116658,No,,2015-06-15,No,2,1,Yes,No,8
+1367,Employee1367,LastName1367,61,Male,Finance,Senior Analyst,Master,2,64836,Yes,2021-04-22,2019-10-11,No,5,4,Yes,No,0
+1368,Employee1368,LastName1368,27,Male,Sales,Sales Manager,PhD,10,144180,No,,2011-08-29,No,2,3,Yes,Yes,6
+1369,Employee1369,LastName1369,35,Male,HR,HR Coordinator,Bachelor,16,77587,No,,2019-02-22,No,1,3,No,Yes,6
+1370,Employee1370,LastName1370,32,Male,R&D,Principal Engineer,Master,12,61327,No,,2016-03-30,No,5,1,No,No,10
+1371,Employee1371,LastName1371,40,Male,HR,Recruiter,Master,9,53281,No,,2010-08-20,No,4,4,Yes,Yes,4
+1372,Employee1372,LastName1372,56,Male,Sales,Account Manager,PhD,18,64065,No,,2010-01-24,No,1,3,Yes,No,4
+1373,Employee1373,LastName1373,36,Male,Finance,Senior Analyst,Master,11,116554,No,,2014-02-22,No,4,5,Yes,No,9
+1374,Employee1374,LastName1374,41,Female,Sales,Sales Manager,Master,17,89601,No,,2018-07-20,No,5,3,No,Yes,1
+1375,Employee1375,LastName1375,60,Male,HR,Recruiter,Master,6,77295,No,,2011-04-25,No,4,1,No,Yes,1
+1376,Employee1376,LastName1376,49,Male,Finance,Budget Analyst,PhD,2,96758,No,,2015-02-04,No,2,4,No,Yes,6
+1377,Employee1377,LastName1377,28,Male,Marketing,Brand Manager,PhD,17,52315,No,,2022-12-29,No,4,4,Yes,Yes,0
+1378,Employee1378,LastName1378,30,Female,Sales,Sales Director,Bachelor,10,51154,No,,2021-11-23,No,3,4,No,No,8
+1379,Employee1379,LastName1379,49,Female,Sales,Account Manager,Master,16,66211,Yes,2023-09-18,2019-03-17,No,1,3,No,No,5
+1380,Employee1380,LastName1380,43,Female,Finance,Financial Manager,Master,18,73931,No,,2010-08-28,No,2,5,Yes,No,2
+1381,Employee1381,LastName1381,38,Female,IT,Full Stack Developer,Master,13,136828,No,,2018-07-21,Yes,3,1,Yes,No,10
+1382,Employee1382,LastName1382,36,Female,R&D,Principal Engineer,Bachelor,2,60520,No,,2010-03-17,No,2,2,No,Yes,7
+1383,Employee1383,LastName1383,64,Female,Finance,Financial Manager,PhD,16,53825,No,,2016-12-19,No,4,1,Yes,Yes,2
+1384,Employee1384,LastName1384,27,Male,R&D,Research Manager,PhD,12,128809,No,,2021-04-16,No,4,1,Yes,Yes,1
+1385,Employee1385,LastName1385,52,Female,Finance,Financial Analyst,Bachelor,16,120738,Yes,2027-07-09,2022-07-14,No,5,3,No,Yes,4
+1386,Employee1386,LastName1386,48,Male,Finance,Senior Analyst,Bachelor,9,64303,No,,2013-09-06,No,1,2,Yes,Yes,8
+1387,Employee1387,LastName1387,52,Male,R&D,Research Manager,Bachelor,11,105450,Yes,2019-02-06,2015-02-11,No,5,3,Yes,No,4
+1388,Employee1388,LastName1388,41,Male,Sales,Sales Representative,PhD,5,87506,No,,2012-10-07,No,3,3,No,Yes,0
+1389,Employee1389,LastName1389,38,Female,Marketing,Digital Marketing Specialist,Master,10,141962,No,,2018-03-29,No,2,2,Yes,Yes,2
+1390,Employee1390,LastName1390,50,Male,IT,Backend Developer,PhD,10,141133,No,,2022-01-19,No,1,4,No,No,3
+1391,Employee1391,LastName1391,63,Female,IT,Backend Developer,Bachelor,6,54538,Yes,2022-02-17,2020-12-22,No,4,3,Yes,Yes,1
+1392,Employee1392,LastName1392,37,Female,Sales,Sales Representative,Bachelor,2,95674,No,,2015-09-20,No,5,2,No,Yes,4
+1393,Employee1393,LastName1393,43,Male,Sales,Sales Manager,PhD,8,54060,Yes,2021-09-29,2016-11-08,No,4,4,No,No,8
+1394,Employee1394,LastName1394,44,Female,HR,HR Coordinator,Master,6,79326,No,,2016-04-03,No,4,1,Yes,No,1
+1395,Employee1395,LastName1395,50,Male,Finance,Financial Manager,Bachelor,18,129364,Yes,2016-05-01,2012-05-27,No,5,1,Yes,No,8
+1396,Employee1396,LastName1396,56,Female,Sales,Sales Representative,PhD,13,123492,No,,2022-09-27,No,1,3,No,No,9
+1397,Employee1397,LastName1397,52,Male,Marketing,Content Manager,Master,4,94393,No,,2016-02-25,No,2,1,Yes,No,4
+1398,Employee1398,LastName1398,30,Female,IT,Data Analyst,PhD,7,75862,No,,2022-06-27,No,2,5,Yes,Yes,1
+1399,Employee1399,LastName1399,23,Female,Marketing,Product Manager,Bachelor,13,67597,No,,2013-07-11,No,5,5,Yes,Yes,2
+1400,Employee1400,LastName1400,24,Male,IT,Software Engineer,Bachelor,4,135657,Yes,2011-05-27,2010-05-03,Yes,5,4,No,No,6
